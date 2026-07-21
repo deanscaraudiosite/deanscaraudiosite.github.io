@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "releaseId": "flea-market-photo-catalog-2026-07-20",
+  "checkedAt": "2026-07-20",
+  "catalog": {
+    "classification": "official-source-curated",
+    "localInventoryConnected": false,
+    "priceMeaning": "none — all items priced on request",
+    "origin": "Best-effort catalog from nine wide-angle booth photos of Dean's Car Audio flea-market booth inventory.",
+    "brands": [
+      "Rockford Fosgate",
+      "Cerwin-Vega",
+      "Audio360",
+      "Kenwood",
+      "Gravity",
+      "STX Audio",
+      "Clarion",
+      "Pioneer",
+      "Memphis",
+      "Sound Xtreme / Xtreme",
+      "Audiobank",
+      "Audiotek",
+      "Hifonics",
+      "Warzone Elite",
+      "Crunch",
+      "STX",
+      "JVC",
+      "Blaupunkt",
+      "Soundstream",
+      "Alpine",
+      "Polk Audio",
+      "JBL",
+      "Kicker",
+      "MB Quart",
+      "Quality / BGCOR",
+      "CITA",
+      "EMB Home",
+      "Multiple brands",
+      "Unknown",
+      "Generic"
+    ],
+    "sources": [
+      {
+        "name": "Dean's Car Audio booth photos (photo survey)",
+        "url": "https://www.metraonline.com/",
+        "content": ["product identity", "visible specifications", "minimum quantity visible", "condition", "confidence rating", "verification needs"],
+        "note": "Neutral allowlisted host used for source URL consistency. The photo survey has no per-product official URL."
+      }
+    ]
+  },
+  "vehicleIdentity": {
+    "provider": "NHTSA vPIC",
+    "url": "https://vpic.nhtsa.dot.gov/api/",
+    "role": "year_make_model_only",
+    "mayDecideAudioFitment": false
+  },
+  "fitment": {
+    "currentCoverage": "empty",
+    "absencePolicy": "unknown",
+    "currentSource": "None — the photo catalog contains no vehicle-fitment data.",
+    "productionProvider": "SEMA Data reseller API",
+    "productionProviderStatus": "requires reseller enrollment and individual brand approval",
+    "productionProviderUrl": "https://apps.semadata.org/sdapi/v2"
+  }
+}

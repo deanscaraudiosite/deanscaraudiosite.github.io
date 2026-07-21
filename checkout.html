@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Secure checkout for Dean's Car Audio." />
+    <meta name="theme-color" content="#050608" />
+    <title>Secure Checkout | Dean's Car Audio</title>
+    <link rel="icon" type="image/png" href="assets/brand/favicon.png?v=1.2.0" />
+    <link rel="apple-touch-icon" href="assets/brand/apple-touch-icon.png?v=1.2.0" />
+    <link rel="stylesheet" href="assets/css/commerce.css?v=1.2.0" />
+  </head>
+  <body class="dca-commerce-page">
+    <div class="dca-commerce-shell">
+      <header class="dca-commerce-header">
+        <div class="dca-commerce-header-inner">
+          <a class="dca-commerce-brand" href="index.html" aria-label="Dean's Car Audio home" style="display: flex; align-items: center;">
+            <img src="assets/brand/logo.png?v=1.2.0" alt="Dean's Car Audio Logo" style="height: 46px; width: auto;" />
+          </a>
+          <nav class="dca-commerce-nav" id="store-navigation" aria-label="Store navigation" data-store-navigation>
+            <a href="catalog.html" data-commerce-link="catalog">Shop</a>
+            <a href="index.html#fitment-finder">Vehicle finder</a>
+            <a href="index.html#planner">System planner</a>
+            <a href="index.html#contact">Contact</a>
+          </nav>
+          <div class="dca-commerce-header-actions">
+            <button class="dca-commerce-nav-toggle" type="button" aria-expanded="false" aria-controls="store-navigation" data-nav-toggle>Menu</button>
+            <a class="dca-commerce-cart-link" href="cart.html" data-commerce-link="cart"><span>Cart</span><span class="dca-commerce-cart-count" data-cart-count>0</span></a>
+          </div>
+        </div>
+      </header>
+      <main class="dca-commerce-main dca-commerce-checkout-main" id="checkout-content">
+        <div class="dca-commerce-content">
+            <header class="dca-commerce-checkout-hero">
+                <h1>Secure Checkout</h1>
+                <p>Complete your order for in-store pickup and installation.</p>
+            </header>
+            
+            <div class="dca-checkout-layout" data-checkout-layout>
+                <div class="dca-checkout-form-panel">
+                    <ul class="dca-checkout-progress">
+                        <li class="dca-checkout-progress-step is-active" data-progress-step="1"><span class="dca-checkout-progress-label">Contact</span></li>
+                        <li class="dca-checkout-progress-step" data-progress-step="2"><span class="dca-checkout-progress-label">Shipping</span></li>
+                        <li class="dca-checkout-progress-step" data-progress-step="3"><span class="dca-checkout-progress-label">Payment</span></li>
+                    </ul>
+
+                    <div class="dca-checkout-step is-active" data-checkout-step="1">
+                        <h2 class="dca-checkout-step-title">Contact Information</h2>
+                        <p class="dca-checkout-step-desc">We'll use this to send your order confirmation and contact you if needed.</p>
+                        <div class="dca-checkout-field-group">
+                            <div class="dca-checkout-field">
+                                <label for="contact-name">Full Name <span class="dca-required">*</span></label>
+                                <input type="text" id="contact-name" class="dca-checkout-input" data-input-name required>
+                                <div class="dca-checkout-error" data-error-name></div>
+                            </div>
+                            <div class="dca-checkout-field-row">
+                                <div class="dca-checkout-field">
+                                    <label for="contact-email">Email Address <span class="dca-required">*</span></label>
+                                    <input type="email" id="contact-email" class="dca-checkout-input" data-input-email required>
+                                    <div class="dca-checkout-error" data-error-email></div>
+                                </div>
+                                <div class="dca-checkout-field">
+                                    <label for="contact-phone">Phone Number <span class="dca-required">*</span></label>
+                                    <input type="tel" id="contact-phone" class="dca-checkout-input" data-input-phone required>
+                                    <div class="dca-checkout-error" data-error-phone></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="dca-checkout-actions">
+                            <button type="button" class="dca-commerce-button dca-commerce-button-primary" data-action-next="2">Continue to Shipping</button>
+                        </div>
+                    </div>
+
+                    <div class="dca-checkout-step" data-checkout-step="2">
+                        <h2 class="dca-checkout-step-title">Shipping Address</h2>
+                        <p class="dca-checkout-step-desc">Enter your delivery address.</p>
+                        <div class="dca-checkout-field-group">
+                            <div class="dca-checkout-field">
+                                <label for="shipping-address">Street Address <span class="dca-required">*</span></label>
+                                <input type="text" id="shipping-address" class="dca-checkout-input" data-input-address required>
+                                <div class="dca-checkout-error" data-error-address></div>
+                            </div>
+                            <div class="dca-checkout-field-row">
+                                <div class="dca-checkout-field">
+                                    <label for="shipping-city">City <span class="dca-required">*</span></label>
+                                    <input type="text" id="shipping-city" class="dca-checkout-input" data-input-city required>
+                                    <div class="dca-checkout-error" data-error-city></div>
+                                </div>
+                                <div class="dca-checkout-field">
+                                    <label for="shipping-state">State <span class="dca-required">*</span></label>
+                                    <select id="shipping-state" class="dca-checkout-select" data-input-state required>
+                                        <option value="">Select State</option>
+                                        <option value="CA">California</option>
+                                        <option value="NV">Nevada</option>
+                                        <option value="OR">Oregon</option>
+                                        <option value="WA">Washington</option>
+                                    </select>
+                                    <div class="dca-checkout-error" data-error-state></div>
+                                </div>
+                                <div class="dca-checkout-field">
+                                    <label for="shipping-zip">ZIP Code <span class="dca-required">*</span></label>
+                                    <input type="text" id="shipping-zip" class="dca-checkout-input" data-input-zip required>
+                                    <div class="dca-checkout-error" data-error-zip></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="dca-checkout-actions">
+                            <button type="button" class="dca-checkout-back-btn" data-action-back="1">Back</button>
+                            <button type="button" class="dca-commerce-button dca-commerce-button-primary" data-action-next="3">Continue to Payment</button>
+                        </div>
+                    </div>
+
+                    <div class="dca-checkout-step" data-checkout-step="3">
+                        <h2 class="dca-checkout-step-title">Payment</h2>
+                        <p class="dca-checkout-step-desc">All transactions are secure and encrypted.</p>
+                        
+                        <div class="dca-checkout-card-preview">
+                            <div class="dca-checkout-card-type" data-card-type>Card</div>
+                            <div class="dca-checkout-card-chip"></div>
+                            <div class="dca-checkout-card-number" data-card-number-display>•••• •••• •••• ••••</div>
+                            <div class="dca-checkout-card-bottom">
+                                <div class="dca-checkout-card-holder">Cardholder Name<span data-card-name-display>JOHN DOE</span></div>
+                                <div class="dca-checkout-card-expiry">Expires<span data-card-expiry-display>MM/YY</span></div>
+                            </div>
+                        </div>
+
+                        <div class="dca-checkout-field-group">
+                            <div class="dca-checkout-field">
+                                <label for="payment-card">Card Number <span class="dca-required">*</span></label>
+                                <input type="text" id="payment-card" class="dca-checkout-input" data-input-card maxlength="19" placeholder="0000 0000 0000 0000" required>
+                                <div class="dca-checkout-error" data-error-card></div>
+                            </div>
+                            <div class="dca-checkout-field">
+                                <label for="payment-name">Name on Card <span class="dca-required">*</span></label>
+                                <input type="text" id="payment-name" class="dca-checkout-input" data-input-cardname required>
+                                <div class="dca-checkout-error" data-error-cardname></div>
+                            </div>
+                            <div class="dca-checkout-field-row">
+                                <div class="dca-checkout-field">
+                                    <label for="payment-expiry">Expiration (MM/YY) <span class="dca-required">*</span></label>
+                                    <input type="text" id="payment-expiry" class="dca-checkout-input" data-input-expiry maxlength="5" placeholder="MM/YY" required>
+                                    <div class="dca-checkout-error" data-error-expiry></div>
+                                </div>
+                                <div class="dca-checkout-field">
+                                    <label for="payment-cvv">CVV <span class="dca-required">*</span></label>
+                                    <input type="text" id="payment-cvv" class="dca-checkout-input" data-input-cvv maxlength="4" required>
+                                    <div class="dca-checkout-error" data-error-cvv></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="dca-checkout-actions">
+                            <button type="button" class="dca-checkout-back-btn" data-action-back="2">Back</button>
+                            <button type="button" class="dca-commerce-button dca-commerce-button-primary" data-action-submit>Place Order</button>
+                        </div>
+                        <div class="dca-checkout-demo-note" style="display: none;"></div>
+                    </div>
+                </div>
+                
+                <aside class="dca-checkout-summary">
+                    <h2>Order Summary</h2>
+                    <ul class="dca-checkout-summary-items" data-summary-list></ul>
+                    <div class="dca-checkout-totals">
+                        <div class="dca-checkout-total-row"><span>Subtotal</span><span data-total-subtotal>$0.00</span></div>
+                        <div class="dca-checkout-total-row"><span>Tax (8.75%)</span><span data-total-tax>$0.00</span></div>
+                        <div class="dca-checkout-total-row is-grand"><span>Total</span><span data-total-grand>$0.00</span></div>
+                    </div>
+                </aside>
+            </div>
+            
+            <div class="dca-checkout-confirmation" data-checkout-confirmation hidden>
+                <div class="dca-checkout-confirmation-icon">✓</div>
+                <h2>Order Confirmed</h2>
+                <div class="dca-checkout-order-id" data-order-id>DCA-00000000-XXXX</div>
+                <p>Thank you for your order! We'll begin preparing your items. A confirmation email has been sent with the details.</p>
+                <div class="dca-checkout-confirmation-actions">
+                    <a href="catalog.html" class="dca-commerce-button dca-commerce-button-primary">Continue Shopping</a>
+                </div>
+            </div>
+        </div>
+      </main>
+
+      <footer class="dca-commerce-footer">
+        <div class="dca-commerce-content dca-commerce-footer-inner">
+          <div class="dca-commerce-footer-copy"><strong>Dean's Car Audio · Established 2002</strong><p>Secure checkout. All transactions are encrypted.</p></div>
+          <nav class="dca-commerce-footer-links" aria-label="Footer links"><a href="tel:+12093273474">209-327-3474</a><a href="mailto:deanscaraudioinfo@gmail.com">Email</a><a href="index.html#locations">Locations</a><a href="https://www.instagram.com/deanscaraudio/" target="_blank" rel="noreferrer">Instagram</a></nav>
+        </div>
+      </footer>
+    </div>
+    <script src="assets/js/commerce/catalog-data.js?v=1.1.1"></script>
+    <script src="assets/js/commerce/fitment-data.js"></script>
+    <script src="assets/js/commerce/core.js"></script>
+    <script src="assets/js/commerce/vehicle-context.js"></script>
+    <script src="assets/js/commerce/fitment-engine.js"></script>
+    <script src="assets/js/commerce/cart-store.js"></script>
+    <script src="assets/js/commerce/account-cart-adapter.js"></script>
+    <script src="assets/js/commerce/guest-account-merge.js"></script>
+    <script src="assets/js/commerce/ui.js?v=1.2.0"></script>
+    <script src="assets/js/commerce/shell.js?v=1.1.1"></script>
+    <script src="assets/js/commerce/checkout-page.js?v=1.1.1"></script>
+  </body>
+</html>

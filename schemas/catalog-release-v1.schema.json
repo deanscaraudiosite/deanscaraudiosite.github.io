@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://deanscaraudio.example/schemas/catalog-release-v1.schema.json",
+  "title": "Dean's Car Audio public catalog release",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "releaseId",
+    "publishedAt",
+    "currency",
+    "classification",
+    "notices",
+    "categories",
+    "products"
+  ],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "releaseId": { "type": "string", "minLength": 1, "maxLength": 180 },
+    "publishedAt": { "type": "string", "format": "date-time" },
+    "currency": { "const": "USD" },
+    "classification": { "enum": ["official-source-curated", "licensed-feed", "demo"] },
+    "notices": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["price", "availability", "fitment"],
+      "properties": {
+        "price": { "type": "string", "minLength": 1, "maxLength": 1200 },
+        "availability": { "type": "string", "minLength": 1, "maxLength": 1200 },
+        "fitment": { "type": "string", "minLength": 1, "maxLength": 1200 }
+      }
+    },
+    "categories": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "label", "shortLabel"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]{1,79}$" },
+          "label": { "type": "string", "minLength": 1, "maxLength": 120 },
+          "shortLabel": { "type": "string", "minLength": 1, "maxLength": 80 }
+        }
+      }
+    },
+    "products": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "product-v1.schema.json" }
+    }
+  }
+}

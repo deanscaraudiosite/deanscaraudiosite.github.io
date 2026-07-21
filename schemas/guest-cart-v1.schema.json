@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://deanscaraudio.example/schemas/guest-cart-v1.schema.json",
+  "title": "Dean's Car Audio guest cart",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "cartId",
+    "currency",
+    "version",
+    "lines",
+    "deletedLines",
+    "updatedAt",
+    "operationId"
+  ],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "cartId": { "type": "string", "minLength": 1, "maxLength": 180 },
+    "currency": { "const": "USD" },
+    "version": { "type": "integer", "minimum": 0 },
+    "lines": {
+      "type": "array",
+      "maxItems": 100,
+      "items": { "$ref": "#/$defs/line" }
+    },
+    "deletedLines": {
+      "type": "array",
+      "maxItems": 500,
+      "items": { "$ref": "#/$defs/deletion" }
+    },
+    "updatedAt": { "type": "string", "format": "date-time" },
+    "operationId": { "type": "string", "minLength": 1, "maxLength": 220 }
+  },
+  "$defs": {
+    "line": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "variantId",
+        "quantity",
+        "vehicleKey",
+        "selectedVehicle",
+        "configuration",
+        "displaySnapshot",
+        "fitmentSnapshot",
+        "addedAt",
+        "updatedAt",
+        "operationId"
+      ],
+      "properties": {
+        "id": { "type": "string", "minLength": 1, "maxLength": 220 },
+        "variantId": { "type": "string", "minLength": 1, "maxLength": 180 },
+        "quantity": { "type": "integer", "minimum": 1, "maximum": 25 },
+        "vehicleKey": { "type": ["string", "null"], "maxLength": 180 },
+        "selectedVehicle": { "type": ["object", "null"] },
+        "configuration": { "type": "object" },
+        "displaySnapshot": { "type": "object" },
+        "fitmentSnapshot": { "type": "object" },
+        "addedAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" },
+        "operationId": { "type": "string", "minLength": 1, "maxLength": 220 },
+        "catalogStatus": { "enum": ["active", "archived"] },
+        "catalogStatusReason": {
+          "type": ["string", "null"],
+          "enum": [null, "missing_variant", "sku_changed"]
+        }
+      }
+    },
+    "deletion": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["lineId", "deletedAt", "operationId"],
+      "properties": {
+        "lineId": { "type": "string", "minLength": 1, "maxLength": 220 },
+        "deletedAt": { "type": "string", "format": "date-time" },
+        "operationId": { "type": "string", "minLength": 1, "maxLength": 220 }
+      }
+    }
+  }
+}

@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Shop Dean's Car Audio's source-cited product catalog with vehicle compatibility status and manufacturer reference pricing."
+    />
+    <meta name="theme-color" content="#050608" />
+    <title>Product Catalog | Dean's Car Audio</title>
+    <link rel="icon" type="image/png" href="assets/brand/favicon.png?v=1.2.0" />
+    <link rel="apple-touch-icon" href="assets/brand/apple-touch-icon.png?v=1.2.0" />
+    <link rel="stylesheet" href="assets/css/commerce.css?v=1.2.0" />
+  </head>
+  <body class="dca-commerce-page">
+    <div class="dca-commerce-shell">
+      <a class="dca-commerce-skip" href="#catalog-results">Skip to products</a>
+
+      <header class="dca-commerce-header">
+        <div class="dca-commerce-header-inner">
+          <a class="dca-commerce-brand" href="index.html" aria-label="Dean's Car Audio home" style="display: flex; align-items: center;">
+            <img src="assets/brand/logo.png?v=1.2.0" alt="Dean's Car Audio Logo" style="height: 46px; width: auto;" />
+          </a>
+          <nav class="dca-commerce-nav" id="store-navigation" aria-label="Store navigation" data-store-navigation>
+            <a href="catalog.html" aria-current="page" data-commerce-link="catalog">Shop</a>
+            <a href="index.html#fitment-finder">Vehicle finder</a>
+            <a href="index.html#planner">System planner</a>
+            <a href="index.html#contact">Contact</a>
+          </nav>
+          <div class="dca-commerce-header-actions">
+            <button class="dca-commerce-nav-toggle" type="button" aria-expanded="false" aria-controls="store-navigation" data-nav-toggle>Menu</button>
+            <a class="dca-commerce-cart-link" href="cart.html" data-commerce-link="cart">
+              <span>Cart</span>
+              <span class="dca-commerce-cart-count" data-cart-count>0</span>
+            </a>
+          </div>
+        </div>
+      </header>
+
+      <main class="dca-commerce-main">
+        <section class="dca-commerce-hero" aria-labelledby="catalog-title" style="text-align: center; padding: 60px 0;">
+          <div class="dca-commerce-content" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; gap: 15px;">
+            <h1 id="catalog-title" style="font-size: clamp(36px, 5vw, 56px); font-weight: 800; letter-spacing: -0.04em; margin: 0; line-height: 1.1;">Shop Car Audio.</h1>
+            <p class="dca-commerce-hero-lede" style="font-size: 18px; color: var(--muted); margin: 0; line-height: 1.6;">
+              Explore our curated selection of premium receivers, speakers, subwoofers, and amplifiers. Choose your vehicle above to see exact fitment sizes.
+            </p>
+          </div>
+        </section>
+
+        <section class="dca-commerce-content" aria-label="Current vehicle">
+          <div class="dca-commerce-vehicle-bar" data-vehicle-context></div>
+          <div id="dca-vehicle-specs-panel" style="margin-top: 15px;"></div>
+        </section>
+
+        <section class="dca-commerce-catalog" id="catalog-results" aria-labelledby="catalog-results-title">
+          <div class="dca-commerce-content dca-commerce-catalog-layout">
+            <aside class="dca-commerce-filter-panel" aria-label="Catalog categories" style="background: transparent; border: none; padding: 0; position: sticky; top: 98px; box-shadow: none;">
+              <details class="dca-commerce-category-disclosure" data-category-disclosure open>
+                <summary class="dca-commerce-category-summary">
+                  <span class="dca-commerce-filter-legend" style="font-size: 16px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--foreground); margin-bottom: 0;">Categories</span>
+                  <span class="dca-commerce-category-caret" aria-hidden="true">▾</span>
+                </summary>
+                <div class="dca-commerce-filter-group">
+                  <div class="dca-commerce-category-list" data-category-list></div>
+                </div>
+              </details>
+            </aside>
+
+            <div class="dca-commerce-results">
+              <header class="dca-commerce-results-header">
+                <div>
+                  <span class="dca-commerce-eyebrow">Official-source catalog snapshot · July 17, 2026</span>
+                  <h2 id="catalog-results-title" data-results-heading>All products</h2>
+                  <p class="dca-commerce-results-count" role="status" aria-live="polite" data-results-count style="margin-top: 4px;"></p>
+                </div>
+                
+                <div class="dca-commerce-catalog-filters-toolbar">
+                  <div class="dca-toolbar-search">
+                    <input
+                      class="dca-commerce-input"
+                      id="catalog-search"
+                      type="search"
+                      placeholder="Search catalog..."
+                      autocomplete="off"
+                      data-catalog-search
+                    />
+                  </div>
+
+                  <select class="dca-commerce-select" id="brand-filter" data-brand-filter>
+                    <option value="all">Brand: All</option>
+                  </select>
+
+                  <select class="dca-commerce-select" id="compatibility-filter" data-compatibility-filter>
+                    <option value="all">Compatibility: All</option>
+                    <option value="compatible">Compatible</option>
+                    <option value="conditional">Conditional</option>
+                    <option value="incompatible">Incompatible</option>
+                    <option value="unknown">Unknown</option>
+                  </select>
+
+                  <select class="dca-commerce-select" id="availability-filter" data-availability-filter>
+                    <option value="all">Availability: All</option>
+                    <option value="listed_for_direct_sale">Listed on source</option>
+                    <option value="source_unavailable">Source unavailable</option>
+                    <option value="not_stated">Not stated</option>
+                  </select>
+
+                  <select class="dca-commerce-select" id="price-filter" data-price-filter>
+                    <option value="all">Price: All</option>
+                    <option value="under-50">Under $50</option>
+                    <option value="50-100">$50 – $100</option>
+                    <option value="100-200">$100 – $200</option>
+                    <option value="200-500">$200 – $500</option>
+                    <option value="over-500">$500+</option>
+                  </select>
+
+                  <select class="dca-commerce-select" id="sort-filter" data-sort-filter>
+                    <option value="featured">Sort: Featured</option>
+                    <option value="price-asc">Price: Low to High</option>
+                    <option value="price-desc">Price: High to Low</option>
+                    <option value="name">Product Name</option>
+                  </select>
+
+                  <button class="dca-commerce-reset" type="button" data-reset-filters>Reset</button>
+                </div>
+              </header>
+              <div class="dca-commerce-active-filters" data-active-filters></div>
+              <div class="dca-commerce-product-grid" data-product-grid></div>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="dca-commerce-footer">
+        <div class="dca-commerce-content dca-commerce-footer-inner">
+          <div class="dca-commerce-footer-copy">
+            <strong>Dean's Car Audio · Established 2002</strong>
+            <p>Manufacturer reference prices and source status are informational. Confirm Dean's price, inventory, and installation before purchase.</p>
+          </div>
+          <nav class="dca-commerce-footer-links" aria-label="Footer links">
+            <a href="tel:+12093273474">209-327-3474</a>
+            <a href="mailto:deanscaraudioinfo@gmail.com">Email</a>
+            <a href="index.html#locations">Locations</a>
+            <a href="https://www.instagram.com/deanscaraudio/" target="_blank" rel="noreferrer">Instagram</a>
+          </nav>
+        </div>
+      </footer>
+    </div>
+
+    <noscript><p class="dca-commerce-noscript">This catalog needs JavaScript for search, vehicle status, variants, and cart behavior.</p></noscript>
+    <script>
+      console.log('HTML loaded, scripts starting...');
+    </script>
+    <script src="assets/js/commerce/catalog-data.js?v=1.1.1"></script>
+    <script>
+      console.log('catalog-data.js loaded, DCA_CATALOG_DATA:', typeof window.DCA_CATALOG_DATA);
+    </script>
+    <script src="assets/js/commerce/fitment-data.js"></script>
+    <script src="assets/js/commerce/core.js"></script>
+    <script src="assets/js/commerce/vehicle-context.js"></script>
+    <script src="assets/js/commerce/fitment-engine.js"></script>
+    <script src="assets/js/commerce/cart-store.js"></script>
+    <script src="assets/js/commerce/account-cart-adapter.js"></script>
+    <script src="assets/js/commerce/guest-account-merge.js"></script>
+    <script src="assets/js/commerce/ui.js?v=1.2.0"></script>
+    <script src="assets/js/commerce/shell.js?v=1.1.1"></script>
+    <script src="assets/js/commerce/catalog-page.js?v=1.2.0"></script>
+    <script src="assets/js/commerce/vehicle-specs.js?v=1.1.1"></script>
+    <script>
+      console.log('All scripts loaded');
+    </script>
+  </body>
+</html>

@@ -1,0 +1,129 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://deanscaraudio.example/schemas/product-v1.schema.json",
+  "title": "Dean's Car Audio catalog product",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "slug",
+    "brand",
+    "name",
+    "category",
+    "visualType",
+    "featured",
+    "fitmentPolicy",
+    "summary",
+    "description",
+    "tags",
+    "variants"
+  ],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]{1,119}$" },
+    "slug": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]{1,159}$" },
+    "brand": { "type": "string", "minLength": 1, "maxLength": 100 },
+    "name": { "type": "string", "minLength": 1, "maxLength": 180 },
+    "category": {
+      "enum": [
+        "receivers",
+        "speakers",
+        "subwoofers",
+        "amplifiers",
+        "standard-speaker-boxes",
+        "truck-speaker-boxes",
+        "installation"
+      ]
+    },
+    "visualType": {
+      "enum": [
+        "receiver",
+        "speaker",
+        "subwoofer",
+        "amplifier",
+        "standard-speaker-box",
+        "truck-speaker-box",
+        "installation"
+      ]
+    },
+    "featured": { "type": "boolean" },
+    "fitmentPolicy": { "enum": ["required", "advisory"] },
+    "summary": { "type": "string", "minLength": 1, "maxLength": 400 },
+    "description": { "type": "string", "minLength": 1, "maxLength": 1200 },
+    "tags": {
+      "type": "array",
+      "maxItems": 30,
+      "items": { "type": "string", "minLength": 1, "maxLength": 80 },
+      "uniqueItems": true
+    },
+    "variants": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 100,
+      "items": { "$ref": "#/$defs/variant" }
+    }
+  },
+  "$defs": {
+    "price": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["amountMinor", "compareAtMinor", "currency", "kind", "checkedAt"],
+      "properties": {
+        "amountMinor": { "type": ["integer", "null"], "minimum": 0, "maximum": 100000000 },
+        "compareAtMinor": { "type": ["integer", "null"], "minimum": 0, "maximum": 100000000 },
+        "currency": { "const": "USD" },
+        "kind": { "enum": ["manufacturer_reference", "msrp", "quote"] },
+        "checkedAt": { "type": "string", "format": "date" }
+      }
+    },
+    "variant": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "sku",
+        "name",
+        "option",
+        "price",
+        "sourceListingStatus",
+        "localAvailability",
+        "sourceUrl",
+        "sourceCheckedAt",
+        "specs",
+        "notes"
+      ],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]{1,159}$" },
+        "sku": { "type": "string", "minLength": 1, "maxLength": 80 },
+        "name": { "type": "string", "minLength": 1, "maxLength": 180 },
+        "option": { "type": "string", "minLength": 1, "maxLength": 180 },
+        "price": { "$ref": "#/$defs/price" },
+        "sourceListingStatus": {
+          "enum": ["listed_for_direct_sale", "source_unavailable", "not_stated"]
+        },
+        "localAvailability": { "const": "confirm" },
+        "sourceUrl": { "type": "string", "format": "uri", "pattern": "^https://" },
+        "imageUrl": { "type": ["string", "null"], "maxLength": 500 },
+        "sourceCheckedAt": { "type": "string", "format": "date" },
+        "specs": {
+          "type": "array",
+          "maxItems": 50,
+          "items": {
+            "type": "array",
+            "prefixItems": [
+              { "type": "string", "minLength": 1, "maxLength": 100 },
+              { "type": "string", "minLength": 1, "maxLength": 300 }
+            ],
+            "items": false,
+            "minItems": 2,
+            "maxItems": 2
+          }
+        },
+        "notes": {
+          "type": "array",
+          "maxItems": 20,
+          "items": { "type": "string", "minLength": 1, "maxLength": 1000 }
+        }
+      }
+    }
+  }
+}

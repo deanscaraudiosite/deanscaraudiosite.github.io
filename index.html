@@ -1,0 +1,294 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Dean's Car Audio - Car audio installation and custom builds, serving Sacramento and American Canyon."
+    />
+    <meta name="theme-color" content="#050608" />
+    <title>Dean's Car Audio | Upgrade your sound</title>
+    <link rel="icon" type="image/png" href="assets/brand/favicon.png?v=1.2.0" />
+    <link rel="apple-touch-icon" href="assets/brand/apple-touch-icon.png?v=1.2.0" />
+    <link rel="stylesheet" href="assets/css/commerce.css?v=1.2.0" />
+  </head>
+  <body class="dca-commerce-page">
+    <div class="dca-commerce-shell">
+      <a class="dca-commerce-skip" href="#main-content">Skip to main content</a>
+
+      <header class="dca-commerce-header">
+        <div class="dca-commerce-header-inner">
+          <a class="dca-commerce-brand" href="index.html" aria-label="Dean's Car Audio home" style="display: flex; align-items: center;">
+            <img src="assets/brand/logo.png?v=1.2.0" alt="Dean's Car Audio Logo" style="height: 46px; width: auto;" />
+          </a>
+          <nav class="dca-commerce-nav" id="store-navigation" aria-label="Store navigation" data-store-navigation>
+            <a href="catalog.html" data-commerce-link="catalog">Shop</a>
+            <a href="#fitment-finder">Vehicle finder</a>
+            <a href="#planner">System planner</a>
+            <a href="#contact">Contact</a>
+          </nav>
+          <div class="dca-commerce-header-actions">
+            <button class="dca-commerce-nav-toggle" type="button" aria-expanded="false" aria-controls="store-navigation" data-nav-toggle>Menu</button>
+            <a class="dca-commerce-cart-link" href="cart.html" data-commerce-link="cart">
+              <span>Cart</span>
+              <span class="dca-commerce-cart-count" data-cart-count>0</span>
+            </a>
+          </div>
+        </div>
+      </header>
+
+      <main class="dca-commerce-main" id="main-content">
+        <section class="dca-commerce-hero" aria-labelledby="home-title" style="text-align: center; padding: 80px 0 60px;">
+          <div class="dca-commerce-content" style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; gap: 18px;">
+            <span class="dca-commerce-eyebrow" style="letter-spacing: 0.12em;">ESTABLISHED 2002 · NORTHERN CALIFORNIA</span>
+            <h1 id="home-title" style="font-size: clamp(38px, 5.5vw, 64px); font-weight: 850; letter-spacing: -0.045em; margin: 0; line-height: 1.05;">Upgrade your sound.<br><span>Upgrade your ride.</span></h1>
+            <p class="dca-commerce-hero-lede" style="font-size: 19px; color: var(--muted); margin: 0; line-height: 1.6; max-width: 650px;">
+              Car audio installation and custom builds. Find us every weekend: Saturdays in Sacramento & Sundays in American Canyon.
+            </p>
+            <div style="margin-top: 15px; display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
+                <a href="tel:2093273474" class="dca-commerce-button dca-commerce-button-primary">Call 209-327-3474</a>
+                <a class="dca-commerce-button dca-commerce-button-secondary js-commerce-link" href="catalog.html">Browse Shop Catalog</a>
+            </div>
+          </div>
+        </section>
+
+        <section id="fitment-finder" class="dca-commerce-content" style="padding-top: var(--section-space); padding-bottom: var(--section-space);">
+            <div style="margin-bottom: 40px; text-align: center;">
+                <span class="dca-commerce-eyebrow">VEHICLE FINDER · LIVE DATA</span>
+                <h2 style="font-size: clamp(32px, 4vw, 48px); margin: 10px 0; letter-spacing: -0.045em; font-weight: 750;">Choose your vehicle.</h2>
+                <p style="color: var(--muted); max-width: 600px; margin: 0 auto; line-height: 1.6; font-size: 17px;">Vehicle names come from NHTSA vPIC. Selecting a vehicle does not confirm car-audio compatibility. Year-specific models load after you choose a make.</p>
+            </div>
+            <div style="background: rgba(13, 16, 21, 0.6); border: 1px solid var(--line); border-radius: 24px; padding: 30px; margin-top: 30px;">
+                <form id="fitment-finder" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; align-items: end;">
+                    <div style="display: grid; gap: 8px;">
+                      <label for="fitment-year" style="color: #d3d6da; font-size: 12px; font-weight: 600;">Year</label>
+                      <select class="dca-commerce-select" id="fitment-year" name="year" required>
+                        <option value="">Select year</option>
+                      </select>
+                    </div>
+
+                    <div style="display: grid; gap: 8px;">
+                      <label for="fitment-make" style="color: #d3d6da; font-size: 12px; font-weight: 600;">Make</label>
+                      <select class="dca-commerce-select" id="fitment-make" name="make" required disabled>
+                        <option value="">Select a year first</option>
+                      </select>
+                    </div>
+
+                    <div style="display: grid; gap: 8px;">
+                      <label for="fitment-model" style="color: #d3d6da; font-size: 12px; font-weight: 600;">Model</label>
+                      <select class="dca-commerce-select" id="fitment-model" name="model" required disabled>
+                        <option value="">Select a make first</option>
+                      </select>
+                    </div>
+
+                    <button class="dca-commerce-button dca-commerce-button-primary" id="fitment-submit" type="submit" disabled style="min-height: 47px; padding: 0 30px;">
+                      Set Vehicle
+                    </button>
+                </form>
+                <div id="fitment-status" style="margin-top: 15px; color: var(--blue-bright); font-size: 13px; min-height: 20px;"></div>
+            </div>
+        </section>
+
+        <section class="dca-commerce-catalog" style="background: rgba(13, 16, 21, 0.4); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);">
+          <div class="dca-commerce-content">
+             <div style="margin-bottom: 50px;">
+                 <span class="dca-commerce-eyebrow">EVERYTHING IN YOUR SYSTEM</span>
+                 <h2 style="font-size: clamp(32px, 4vw, 48px); margin: 10px 0; letter-spacing: -0.045em; font-weight: 750;">Built around the way you listen.</h2>
+                 <p style="color: var(--muted); max-width: 600px; line-height: 1.6; font-size: 17px;">From the source to the subwoofer, every part should work together and feel right in your vehicle.</p>
+             </div>
+             <div class="dca-commerce-product-grid" style="grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));">
+                 <a href="catalog.html?category=subwoofers" class="dca-commerce-product-card" style="padding: 24px; text-decoration: none;">
+                    <span class="dca-commerce-eyebrow" style="color: var(--muted);">01</span>
+                    <h3 style="margin: 15px 0 10px; font-size: 24px;">Subwoofers</h3>
+                    <p style="color: var(--muted); margin: 0 0 20px; font-size: 14px; line-height: 1.5; flex-grow: 1;">Bass you can feel, selected for the way you listen.</p>
+                    <span style="color: var(--blue-bright); font-weight: bold; font-size: 14px;">Shop subwoofers ↗</span>
+                 </a>
+                 <a href="catalog.html?category=amplifiers" class="dca-commerce-product-card" style="padding: 24px; text-decoration: none;">
+                    <span class="dca-commerce-eyebrow" style="color: var(--muted);">02</span>
+                    <h3 style="margin: 15px 0 10px; font-size: 24px;">Amplifiers</h3>
+                    <p style="color: var(--muted); margin: 0 0 20px; font-size: 14px; line-height: 1.5; flex-grow: 1;">The clean power behind a stronger car audio system.</p>
+                    <span style="color: var(--blue-bright); font-weight: bold; font-size: 14px;">Shop amplifiers ↗</span>
+                 </a>
+                 <a href="catalog.html?category=speakers" class="dca-commerce-product-card" style="padding: 24px; text-decoration: none;">
+                    <span class="dca-commerce-eyebrow" style="color: var(--muted);">03</span>
+                    <h3 style="margin: 15px 0 10px; font-size: 24px;">Speakers</h3>
+                    <p style="color: var(--muted); margin: 0 0 20px; font-size: 14px; line-height: 1.5; flex-grow: 1;">Clearer detail and fuller sound across every drive.</p>
+                    <span style="color: var(--blue-bright); font-weight: bold; font-size: 14px;">Shop speakers ↗</span>
+                 </a>
+                 <a href="catalog.html?category=receivers" class="dca-commerce-product-card" style="padding: 24px; text-decoration: none;">
+                    <span class="dca-commerce-eyebrow" style="color: var(--muted);">04</span>
+                    <h3 style="margin: 15px 0 10px; font-size: 24px;">Head units</h3>
+                    <p style="color: var(--muted); margin: 0 0 20px; font-size: 14px; line-height: 1.5; flex-grow: 1;">A modern control center for music and connectivity.</p>
+                    <span style="color: var(--blue-bright); font-weight: bold; font-size: 14px;">Shop receivers ↗</span>
+                 </a>
+                 <a href="catalog.html?category=installation" class="dca-commerce-product-card" style="padding: 24px; text-decoration: none;">
+                    <span class="dca-commerce-eyebrow" style="color: var(--muted);">05</span>
+                    <h3 style="margin: 15px 0 10px; font-size: 24px;">Custom installs</h3>
+                    <p style="color: var(--muted); margin: 0 0 20px; font-size: 14px; line-height: 1.5; flex-grow: 1;">A complete setup planned around your vehicle and goals.</p>
+                    <span style="color: var(--blue-bright); font-weight: bold; font-size: 14px;">Shop installation parts ↗</span>
+                 </a>
+             </div>
+          </div>
+        </section>
+
+        <section id="planner" class="dca-commerce-content" style="padding-top: var(--section-space); padding-bottom: var(--section-space);">
+            <div style="margin-bottom: 40px; text-align: center;">
+                <span class="dca-commerce-eyebrow">SYSTEM PLANNER · THIS DEVICE</span>
+                <h2 style="font-size: clamp(32px, 4vw, 48px); margin: 10px 0; letter-spacing: -0.045em; font-weight: 750;">What do you want to improve?</h2>
+                <p style="color: var(--muted); max-width: 600px; margin: 0 auto; line-height: 1.6; font-size: 17px;">Build a simple plan around your current vehicle and the parts of your system you want to discuss. This does not show products, prices, inventory, or vehicle compatibility.</p>
+            </div>
+            
+            <div style="display: grid; grid-template-columns: minmax(0, 1fr) minmax(300px, 400px); gap: 40px; align-items: start;">
+               <div style="display: grid; gap: 15px;">
+                  <button class="dca-commerce-category-filter" style="border: 1px solid var(--line); padding: 20px; border-radius: 18px;" data-planner-btn="bass" aria-pressed="false">
+                      <div>
+                         <strong style="color: #fff; font-size: 16px; display: block; margin-bottom: 5px;">More bass</strong>
+                         <span style="color: var(--muted); font-size: 13px;">Subwoofers and enclosure planning</span>
+                      </div>
+                  </button>
+                  <button class="dca-commerce-category-filter" style="border: 1px solid var(--line); padding: 20px; border-radius: 18px;" data-planner-btn="sound" aria-pressed="false">
+                      <div>
+                         <strong style="color: #fff; font-size: 16px; display: block; margin-bottom: 5px;">Clearer sound</strong>
+                         <span style="color: var(--muted); font-size: 13px;">Speaker-focused improvements</span>
+                      </div>
+                  </button>
+                  <button class="dca-commerce-category-filter" style="border: 1px solid var(--line); padding: 20px; border-radius: 18px;" data-planner-btn="power" aria-pressed="false">
+                      <div>
+                         <strong style="color: #fff; font-size: 16px; display: block; margin-bottom: 5px;">More power</strong>
+                         <span style="color: var(--muted); font-size: 13px;">Amplifier and signal planning</span>
+                      </div>
+                  </button>
+                  <button class="dca-commerce-category-filter" style="border: 1px solid var(--line); padding: 20px; border-radius: 18px;" data-planner-btn="controls" aria-pressed="false">
+                      <div>
+                         <strong style="color: #fff; font-size: 16px; display: block; margin-bottom: 5px;">Modern controls</strong>
+                         <span style="color: var(--muted); font-size: 13px;">Head unit and connectivity goals</span>
+                      </div>
+                  </button>
+                  <button class="dca-commerce-category-filter" style="border: 1px solid var(--line); padding: 20px; border-radius: 18px;" data-planner-btn="system" aria-pressed="false">
+                      <div>
+                         <strong style="color: #fff; font-size: 16px; display: block; margin-bottom: 5px;">Complete system</strong>
+                         <span style="color: var(--muted); font-size: 13px;">Plan the full audio signal chain</span>
+                      </div>
+                  </button>
+                  <p style="color: var(--muted); font-size: 12px; margin-top: 10px;">Changes save automatically in this browser, not to an account.</p>
+               </div>
+               
+               <div class="dca-commerce-filter-panel" style="position: sticky; top: 98px;">
+                   <h3 style="margin: 0 0 15px; font-size: 20px;">Your system plan</h3>
+                   <div data-planner-summary style="color: var(--muted); font-size: 14px; margin: 0 0 20px; line-height: 1.5;">
+                       General system plan<br>Choose one or more areas to build your plan.
+                   </div>
+                   <p style="color: var(--muted); font-size: 12px; margin: 0 0 20px; line-height: 1.5;">This plan is not a quote, order, reservation, or compatibility decision.</p>
+                   <a href="#contact" data-planner-contact class="dca-commerce-button dca-commerce-button-primary" style="width: 100%;">Talk to Dean's</a>
+                   <button data-planner-clear class="dca-commerce-reset" style="margin-top: 15px; width: 100%; text-align: center;">Clear this plan</button>
+               </div>
+            </div>
+        </section>
+
+        <section id="locations" class="dca-commerce-catalog" style="background: rgba(13, 16, 21, 0.4); border-top: 1px solid var(--line);">
+          <div class="dca-commerce-content">
+             <div style="margin-bottom: 50px; text-align: center;">
+                 <span class="dca-commerce-eyebrow">FIND US EVERY WEEKEND</span>
+                 <h2 style="font-size: clamp(32px, 4vw, 48px); margin: 10px 0; letter-spacing: -0.045em; font-weight: 750;">See the sound. Meet the team.</h2>
+                 <p style="color: var(--muted); max-width: 600px; margin: 0 auto; line-height: 1.6; font-size: 17px;">Visit Dean's Car Audio on Saturdays in Sacramento or Sundays in American Canyon.</p>
+             </div>
+             
+             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 40px; align-items: center; justify-content: center;">
+                 <div>
+                    <img src="assets/img/deans_poster.jpg?v=1.1.1" alt="Dean's Car Audio Weekly Event Poster" style="width: 100%; max-width: 420px; border-radius: 20px; border: 1px solid var(--line); box-shadow: 0 20px 50px rgba(0,0,0,0.5); margin: 0 auto; display: block;" />
+                 </div>
+                 <div style="display: grid; gap: 20px; align-content: start;">
+                     <div class="dca-commerce-source-card" style="padding: 30px; background: var(--surface); border: 1px solid var(--line); border-radius: 24px; margin: 0;">
+                        <div style="display: flex; gap: 15px; align-items: center; margin-bottom: 20px;">
+                            <span class="dca-commerce-source-number" style="width: 48px; height: 48px; font-size: 14px;">SAT</span>
+                            <div>
+                                <h3 style="margin: 0; font-size: 20px; color: #fff;">Saturdays</h3>
+                                <p style="margin: 5px 0 0; color: var(--muted);">Folsom Boulevard Flea Market</p>
+                            </div>
+                        </div>
+                        <p style="margin: 0 0 20px; color: var(--foreground); min-height: 40px;">8521 Folsom Blvd, Sacramento, CA</p>
+                        <a href="https://maps.google.com/?q=8521+Folsom+Blvd,+Sacramento,+CA" target="_blank" class="dca-commerce-button dca-commerce-button-secondary" style="width: 100%;">Get directions ↗</a>
+                     </div>
+                     
+                     <div class="dca-commerce-source-card" style="padding: 30px; background: var(--surface); border: 1px solid var(--line); border-radius: 24px; margin: 0;">
+                        <div style="display: flex; gap: 15px; align-items: center; margin-bottom: 20px;">
+                            <span class="dca-commerce-source-number" style="width: 48px; height: 48px; font-size: 14px;">SUN</span>
+                            <div>
+                                <h3 style="margin: 0; font-size: 20px; color: #fff;">Sundays</h3>
+                                <p style="margin: 5px 0 0; color: var(--muted);">Napa-Vallejo Flea Market</p>
+                            </div>
+                        </div>
+                        <p style="margin: 0 0 20px; color: var(--foreground); min-height: 40px;">303 S Kelly Rd, American Canyon, CA</p>
+                        <a href="https://maps.google.com/?q=303+S+Kelly+Rd,+American+Canyon,+CA" target="_blank" class="dca-commerce-button dca-commerce-button-secondary" style="width: 100%;">Get directions ↗</a>
+                     </div>
+                 </div>
+             </div>
+          </div>
+        </section>
+        
+        <section id="contact" class="dca-commerce-content" style="padding-top: var(--section-space); padding-bottom: var(--section-space);">
+            <div style="margin-bottom: 40px; text-align: center;">
+                <span class="dca-commerce-eyebrow">LET'S TALK ABOUT YOUR BUILD</span>
+                <h2 style="font-size: clamp(32px, 4vw, 48px); margin: 10px 0; letter-spacing: -0.045em; font-weight: 750;">Ready to upgrade your sound?</h2>
+                <p style="color: var(--muted); max-width: 600px; margin: 0 auto; line-height: 1.6; font-size: 17px;">Tell us what you drive and what you want to improve. Call, email, or send us a message on Instagram.</p>
+                <p style="color: var(--blue-bright); font-weight: bold; margin-top: 20px;">Before you visit: Call ahead to talk through what you're looking for.</p>
+            </div>
+            
+            <div class="dca-commerce-product-grid" style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); text-align: center;">
+                 <div class="dca-commerce-product-card" style="padding: 30px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+                     <h3 style="margin: 0 0 10px; font-size: 20px;">Phone</h3>
+                     <p style="margin: 0 0 20px; color: var(--muted);">209-327-3474</p>
+                     <a href="tel:2093273474" class="dca-commerce-button dca-commerce-button-primary">Call now ↗</a>
+                 </div>
+                 <div class="dca-commerce-product-card" style="padding: 30px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+                     <h3 style="margin: 0 0 10px; font-size: 20px;">Email</h3>
+                     <p style="margin: 0 0 20px; color: var(--muted); font-size: 14px;">deanscaraudioinfo@gmail.com</p>
+                     <a href="mailto:deanscaraudioinfo@gmail.com" class="dca-commerce-button dca-commerce-button-primary">Send an email ↗</a>
+                 </div>
+                 <div class="dca-commerce-product-card" style="padding: 30px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+                     <h3 style="margin: 0 0 10px; font-size: 20px;">Instagram</h3>
+                     <p style="margin: 0 0 20px; color: var(--muted);">@deanscaraudio</p>
+                     <a href="https://instagram.com/deanscaraudio" target="_blank" class="dca-commerce-button dca-commerce-button-primary">View our work ↗</a>
+                 </div>
+            </div>
+        </section>
+      </main>
+
+      <footer class="dca-commerce-footer">
+        <div class="dca-commerce-content dca-commerce-footer-inner">
+          <div class="dca-commerce-footer-copy">
+            <strong>Dean's Car Audio · Established 2002</strong>
+            <p>Manufacturer reference prices and source status are informational. Confirm Dean's price, inventory, and installation before purchase.</p>
+          </div>
+          <nav class="dca-commerce-footer-links" aria-label="Footer links">
+            <a href="tel:+12093273474">209-327-3474</a>
+            <a href="mailto:deanscaraudioinfo@gmail.com">Email</a>
+            <a href="index.html#locations">Locations</a>
+            <a href="https://www.instagram.com/deanscaraudio/" target="_blank" rel="noreferrer">Instagram</a>
+          </nav>
+        </div>
+      </footer>
+    </div>
+
+    <script>
+      console.log('HTML loaded, scripts starting...');
+    </script>
+    <script src="assets/js/commerce/catalog-data.js?v=1.1.1"></script>
+    <script src="assets/js/commerce/fitment-data.js"></script>
+    <script src="assets/js/commerce/core.js"></script>
+    <script src="assets/js/commerce/vehicle-context.js"></script>
+    <script src="assets/js/commerce/fitment-engine.js"></script>
+    <script src="assets/js/commerce/cart-store.js"></script>
+    <script src="assets/js/commerce/account-cart-adapter.js"></script>
+    <script src="assets/js/commerce/guest-account-merge.js"></script>
+    <script src="assets/js/commerce/ui.js?v=1.2.0"></script>
+    <script src="assets/js/commerce/shell.js?v=1.1.1"></script>
+    <script src="assets/js/commerce/homepage-fitment.js?v=1.1.1"></script>
+    <script src="assets/js/commerce/home-planner.js?v=1.1.1"></script>
+    <script src="assets/js/commerce/home-bridge.js?v=1.1.1"></script>
+    <script>
+      console.log('All scripts loaded');
+    </script>
+  </body>
+</html>

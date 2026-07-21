@@ -1,0 +1,10617 @@
+(function () {
+  "use strict";
+  window.DCA_CATALOG_DATA = Object.freeze({
+  "schemaVersion": 1,
+  "releaseId": "cat-shop-revamp-2026-07-20",
+  "publishedAt": "2026-07-20T09:00:00Z",
+  "currency": "USD",
+  "classification": "official-source-curated",
+  "notices": {
+    "price": "Reference prices are informational. Final pricing and compatibility are validated at checkout.",
+    "availability": "Local availability is confirmed with Dean's Car Audio before each order.",
+    "fitment": "Fitment guidance is advisory; final compatibility is confirmed before installation."
+  },
+  "categories": [
+    {
+      "id": "receivers",
+      "label": "Receivers",
+      "shortLabel": "Receivers"
+    },
+    {
+      "id": "speakers",
+      "label": "Speakers",
+      "shortLabel": "Speakers"
+    },
+    {
+      "id": "subwoofers",
+      "label": "Subwoofers",
+      "shortLabel": "Subwoofers"
+    },
+    {
+      "id": "amplifiers",
+      "label": "Amplifiers",
+      "shortLabel": "Amplifiers"
+    },
+    {
+      "id": "standard-speaker-boxes",
+      "label": "Standard Speaker Boxes",
+      "shortLabel": "Standard Boxes"
+    },
+    {
+      "id": "truck-speaker-boxes",
+      "label": "Truck Speaker Boxes",
+      "shortLabel": "Truck Boxes"
+    },
+    {
+      "id": "installation",
+      "label": "Installation Accessories",
+      "shortLabel": "Install"
+    }
+  ],
+  "products": [
+    {
+      "id": "sub-001",
+      "slug": "sub-001",
+      "brand": "Rockford Fosgate",
+      "name": "Rockford Fosgate Prime Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Rockford Fosgate Prime Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "rockford fosgate",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-001-variant",
+          "sku": "SUB-001",
+          "name": "Rockford Fosgate Prime Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 8900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-001.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Individual subwoofer"
+            ],
+            [
+              "Brand",
+              "Rockford Fosgate"
+            ],
+            [
+              "Model / Product line",
+              "Prime (model unreadable)"
+            ],
+            [
+              "Visible specifications",
+              "Size/model not legible"
+            ],
+            [
+              "Quantity visible",
+              "1+"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub-002",
+      "slug": "sub-002",
+      "brand": "Cerwin Vega",
+      "name": "Cerwin-Vega CUP Series 12-Inch Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Cerwin-Vega CUP Series 12-Inch Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "cerwin-vega",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-002-variant",
+          "sku": "SUB-002",
+          "name": "Cerwin-Vega CUP Series 12-Inch Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-002.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Individual subwoofer"
+            ],
+            [
+              "Brand",
+              "Cerwin-Vega"
+            ],
+            [
+              "Model / Product line",
+              "CUP Series"
+            ],
+            [
+              "Visible specifications",
+              "12-inch"
+            ],
+            [
+              "Quantity visible",
+              "2"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub-003",
+      "slug": "sub-003",
+      "brand": "Audio360",
+      "name": "Audio360 ADS1250 Shallow Premium Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Audio360 ADS1250 Shallow Premium Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "audio360",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-003-variant",
+          "sku": "SUB-003",
+          "name": "Audio360 ADS1250 Shallow Premium Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 15900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-003.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Shallow subwoofer"
+            ],
+            [
+              "Brand",
+              "Audio360"
+            ],
+            [
+              "Model / Product line",
+              "ADS1250 Shallow"
+            ],
+            [
+              "Visible specifications",
+              "Shallow-mount; wattage not fully legible"
+            ],
+            [
+              "Quantity visible",
+              "3+"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub-004",
+      "slug": "sub-004",
+      "brand": "Kenwood",
+      "name": "Kenwood KFC-WPS1000F Shallow Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Kenwood KFC-WPS1000F Shallow Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "kenwood",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-004-variant",
+          "sku": "SUB-004",
+          "name": "Kenwood KFC-WPS1000F Shallow Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 12900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-004.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Shallow subwoofer"
+            ],
+            [
+              "Brand",
+              "Kenwood"
+            ],
+            [
+              "Model / Product line",
+              "KFC-WPS1000F"
+            ],
+            [
+              "Visible specifications",
+              "10-inch shallow-mount"
+            ],
+            [
+              "Quantity visible",
+              "2"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub-005",
+      "slug": "sub-005",
+      "brand": "Gravity",
+      "name": "Gravity G3-12D 12-Inch Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Gravity G3-12D 12-Inch Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-005-variant",
+          "sku": "SUB-005",
+          "name": "Gravity G3-12D 12-Inch Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 11900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-005.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Individual subwoofer"
+            ],
+            [
+              "Brand",
+              "Gravity"
+            ],
+            [
+              "Model / Product line",
+              "G3-12D"
+            ],
+            [
+              "Visible specifications",
+              "12-inch; 2000W marking visible"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub-006",
+      "slug": "sub-006",
+      "brand": "STX Audio",
+      "name": "STX Audio STXW12D4 12-Inch Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "STX Audio STXW12D4 12-Inch Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "stx audio",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-006-variant",
+          "sku": "SUB-006",
+          "name": "STX Audio STXW12D4 12-Inch Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 10900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-006.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Individual subwoofer"
+            ],
+            [
+              "Brand",
+              "STX Audio"
+            ],
+            [
+              "Model / Product line",
+              "STXW12D4"
+            ],
+            [
+              "Visible specifications",
+              "3000W; dual 4-ohm model designation"
+            ],
+            [
+              "Quantity visible",
+              "2"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub-007",
+      "slug": "sub-007",
+      "brand": "Clarion",
+      "name": "Clarion 12-Inch 1000W Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Clarion 12-Inch 1000W Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "clarion",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-007-variant",
+          "sku": "SUB-007",
+          "name": "Clarion 12-Inch 1000W Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 6900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-007.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Individual subwoofer"
+            ],
+            [
+              "Brand",
+              "Clarion"
+            ],
+            [
+              "Model / Product line",
+              "WF3030D (appears)"
+            ],
+            [
+              "Visible specifications",
+              "1000W; model appears WF3030D"
+            ],
+            [
+              "Quantity visible",
+              "2"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub-008",
+      "slug": "sub-008",
+      "brand": "Pioneer",
+      "name": "Pioneer TS-A301D4 12-Inch DVC Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Pioneer TS-A301D4 12-Inch DVC Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "pioneer",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-008-variant",
+          "sku": "SUB-008",
+          "name": "Pioneer TS-A301D4 12-Inch DVC Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 13900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-008.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Individual subwoofer"
+            ],
+            [
+              "Brand",
+              "Pioneer"
+            ],
+            [
+              "Model / Product line",
+              "TS-A301D4"
+            ],
+            [
+              "Visible specifications",
+              "12-inch; dual 4-ohm"
+            ],
+            [
+              "Quantity visible",
+              "2"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub-009",
+      "slug": "sub-009",
+      "brand": "Gravity",
+      "name": "Gravity GR-12PW 12-Inch Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Gravity GR-12PW 12-Inch Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-009-variant",
+          "sku": "SUB-009",
+          "name": "Gravity GR-12PW 12-Inch Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 9900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-009.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Individual subwoofer"
+            ],
+            [
+              "Brand",
+              "Gravity"
+            ],
+            [
+              "Model / Product line",
+              "GR-12PW"
+            ],
+            [
+              "Visible specifications",
+              "1600W; dual 4-ohm marking"
+            ],
+            [
+              "Quantity visible",
+              "5"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub-010",
+      "slug": "sub-010",
+      "brand": "Audio360",
+      "name": "Audio360 ADS1260 Ultra Premium Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Audio360 ADS1260 Ultra Premium Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "audio360",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-010-variant",
+          "sku": "SUB-010",
+          "name": "Audio360 ADS1260 Ultra Premium Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 14900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-010.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Individual subwoofer"
+            ],
+            [
+              "Brand",
+              "Audio360"
+            ],
+            [
+              "Model / Product line",
+              "ADS1260 Ultra"
+            ],
+            [
+              "Visible specifications",
+              "Size/wattage not fully legible"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub-011",
+      "slug": "sub-011",
+      "brand": "Gravity",
+      "name": "Gravity GW12D4 12-Inch Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Gravity GW12D4 12-Inch Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-011-variant",
+          "sku": "SUB-011",
+          "name": "Gravity GW12D4 12-Inch Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 11900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-011.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Individual subwoofer"
+            ],
+            [
+              "Brand",
+              "Gravity"
+            ],
+            [
+              "Model / Product line",
+              "GW12D4"
+            ],
+            [
+              "Visible specifications",
+              "Dual 4-ohm model designation"
+            ],
+            [
+              "Quantity visible",
+              "4+"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub-012",
+      "slug": "sub-012",
+      "brand": "Gravity",
+      "name": "Gravity G3-8D 8-Inch Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Gravity G3-8D 8-Inch Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-012-variant",
+          "sku": "SUB-012",
+          "name": "Gravity G3-8D 8-Inch Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 8900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-012.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Individual subwoofer"
+            ],
+            [
+              "Brand",
+              "Gravity"
+            ],
+            [
+              "Model / Product line",
+              "G3-8D"
+            ],
+            [
+              "Visible specifications",
+              "8-inch; wattage text too small"
+            ],
+            [
+              "Quantity visible",
+              "2"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub-013",
+      "slug": "sub-013",
+      "brand": "Audio360",
+      "name": "Audio360 ADS835 Ultra Premium Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Audio360 ADS835 Ultra Premium Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "audio360",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-013-variant",
+          "sku": "SUB-013",
+          "name": "Audio360 ADS835 Ultra Premium Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 9900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-013.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Individual subwoofer"
+            ],
+            [
+              "Brand",
+              "Audio360"
+            ],
+            [
+              "Model / Product line",
+              "ADS835 Ultra"
+            ],
+            [
+              "Visible specifications",
+              "Likely 8-inch; exact specs not legible"
+            ],
+            [
+              "Quantity visible",
+              "2"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub-014",
+      "slug": "sub-014",
+      "brand": "Value Audio",
+      "name": "Unknown 12-Inch Subwoofer - Model To Be Confirmed",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Unknown 12-Inch Subwoofer - Model To Be Confirmed. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "unknown",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-014-variant",
+          "sku": "SUB-014",
+          "name": "Unknown 12-Inch Subwoofer - Model To Be Confirmed",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 7900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-014.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Individual subwoofer"
+            ],
+            [
+              "Brand",
+              "Unknown"
+            ],
+            [
+              "Model / Product line",
+              "Model unreadable"
+            ],
+            [
+              "Visible specifications",
+              "480W/2-ohm text may be present"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub-015",
+      "slug": "sub-015",
+      "brand": "Sound Xtreme",
+      "name": "Sound Xtreme / Xtreme Xtreme 10-Inch 1100W Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Sound Xtreme / Xtreme Xtreme 10-Inch 1100W Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "sound xtreme / xtreme",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-015-variant",
+          "sku": "SUB-015",
+          "name": "Sound Xtreme / Xtreme Xtreme 10-Inch 1100W Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 6900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-015.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Individual subwoofer"
+            ],
+            [
+              "Brand",
+              "Sound Xtreme / Xtreme"
+            ],
+            [
+              "Model / Product line",
+              "Model unreadable"
+            ],
+            [
+              "Visible specifications",
+              "10-inch; 1100W marking"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub-016",
+      "slug": "sub-016",
+      "brand": "Audio360",
+      "name": "Audio360 ADS1050 Ultra Premium 10-Inch Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Audio360 ADS1050 Ultra Premium 10-Inch Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "audio360",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-016-variant",
+          "sku": "SUB-016",
+          "name": "Audio360 ADS1050 Ultra Premium 10-Inch Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 13900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-016.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Individual subwoofer"
+            ],
+            [
+              "Brand",
+              "Audio360"
+            ],
+            [
+              "Model / Product line",
+              "ADS1050 Ultra"
+            ],
+            [
+              "Visible specifications",
+              "10-inch implied by model/box group"
+            ],
+            [
+              "Quantity visible",
+              "5+"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub-017",
+      "slug": "sub-017",
+      "brand": "Gravity",
+      "name": "Gravity GR-10PW 10-Inch Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Gravity GR-10PW 10-Inch Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-017-variant",
+          "sku": "SUB-017",
+          "name": "Gravity GR-10PW 10-Inch Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 11900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-017.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Individual subwoofer"
+            ],
+            [
+              "Brand",
+              "Gravity"
+            ],
+            [
+              "Model / Product line",
+              "GR-10PW"
+            ],
+            [
+              "Visible specifications",
+              "1000W; dual 4-ohm marking"
+            ],
+            [
+              "Quantity visible",
+              "4"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub-018",
+      "slug": "sub-018",
+      "brand": "Gravity",
+      "name": "Gravity Warzone 15-Inch Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Gravity Warzone 15-Inch Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-018-variant",
+          "sku": "SUB-018",
+          "name": "Gravity Warzone 15-Inch Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 17900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-018.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Individual subwoofer"
+            ],
+            [
+              "Brand",
+              "Gravity"
+            ],
+            [
+              "Model / Product line",
+              "Warzone GW1504 / GW1502"
+            ],
+            [
+              "Visible specifications",
+              "15-inch; selectable model marking on box"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub-019",
+      "slug": "sub-019",
+      "brand": "Gravity",
+      "name": "Gravity G3-15D 15-Inch Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Gravity G3-15D 15-Inch Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-019-variant",
+          "sku": "SUB-019",
+          "name": "Gravity G3-15D 15-Inch Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 16900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-019.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Individual subwoofer"
+            ],
+            [
+              "Brand",
+              "Gravity"
+            ],
+            [
+              "Model / Product line",
+              "G3-15D"
+            ],
+            [
+              "Visible specifications",
+              "15-inch; 2400W marking visible"
+            ],
+            [
+              "Quantity visible",
+              "4"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub-020",
+      "slug": "sub-020",
+      "brand": "Memphis",
+      "name": "Memphis 10-Inch Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Memphis 10-Inch Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "memphis",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "sub-020-variant",
+          "sku": "SUB-020",
+          "name": "Memphis 10-Inch Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 12900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/sub-020.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Individual subwoofer"
+            ],
+            [
+              "Brand",
+              "Memphis"
+            ],
+            [
+              "Model / Product line",
+              "10-inch 300/600W (model unreadable)"
+            ],
+            [
+              "Visible specifications",
+              "300W RMS / 600W max markings"
+            ],
+            [
+              "Quantity visible",
+              "2"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "amp-001",
+      "slug": "amp-001",
+      "brand": "Sound Xtreme",
+      "name": "Sound Xtreme ST-2500.2 Two-Channel Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Sound Xtreme ST-2500.2 Two-Channel Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "sound xtreme",
+        "amplifiers",
+        "amplifier"
+      ],
+      "variants": [
+        {
+          "id": "amp-001-variant",
+          "sku": "AMP-001",
+          "name": "Sound Xtreme ST-2500.2 Two-Channel Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 24900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/amp-001.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "2-channel amplifier"
+            ],
+            [
+              "Brand",
+              "Sound Xtreme"
+            ],
+            [
+              "Model / Product line",
+              "ST-2500.2"
+            ],
+            [
+              "Visible specifications",
+              "5000W max; 2-ohm stable marking"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "amp-002",
+      "slug": "amp-002",
+      "brand": "Audiobank",
+      "name": "Audiobank 3500W Two-Channel MOSFET Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Audiobank 3500W Two-Channel MOSFET Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "audiobank",
+        "amplifiers",
+        "amplifier"
+      ],
+      "variants": [
+        {
+          "id": "amp-002-variant",
+          "sku": "AMP-002",
+          "name": "Audiobank 3500W Two-Channel MOSFET Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 12900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/amp-002.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "2-channel amplifier"
+            ],
+            [
+              "Brand",
+              "Audiobank"
+            ],
+            [
+              "Model / Product line",
+              "3500W series (model unreadable)"
+            ],
+            [
+              "Visible specifications",
+              "3500W max; two-channel text visible"
+            ],
+            [
+              "Quantity visible",
+              "4+"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "amp-003",
+      "slug": "amp-003",
+      "brand": "Audiobank",
+      "name": "Audiobank 5000W Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Audiobank 5000W Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "audiobank",
+        "amplifiers",
+        "amplifier"
+      ],
+      "variants": [
+        {
+          "id": "amp-003-variant",
+          "sku": "AMP-003",
+          "name": "Audiobank 5000W Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 17900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/amp-003.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Amplifier"
+            ],
+            [
+              "Brand",
+              "Audiobank"
+            ],
+            [
+              "Model / Product line",
+              "5000W series (model unreadable)"
+            ],
+            [
+              "Visible specifications",
+              "5000W max"
+            ],
+            [
+              "Quantity visible",
+              "2+"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "amp-004",
+      "slug": "amp-004",
+      "brand": "Audiobank",
+      "name": "Audiobank 1400W Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Audiobank 1400W Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "audiobank",
+        "amplifiers",
+        "amplifier"
+      ],
+      "variants": [
+        {
+          "id": "amp-004-variant",
+          "sku": "AMP-004",
+          "name": "Audiobank 1400W Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 29900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/amp-004.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Amplifier"
+            ],
+            [
+              "Brand",
+              "Audiobank"
+            ],
+            [
+              "Model / Product line",
+              "1400W series (model unreadable)"
+            ],
+            [
+              "Visible specifications",
+              "1400W max"
+            ],
+            [
+              "Quantity visible",
+              "2+"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "amp-005",
+      "slug": "amp-005",
+      "brand": "Audiotek",
+      "name": "Audiotek AT-5000S Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Audiotek AT-5000S Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "audiotek",
+        "amplifiers",
+        "amplifier"
+      ],
+      "variants": [
+        {
+          "id": "amp-005-variant",
+          "sku": "AMP-005",
+          "name": "Audiotek AT-5000S Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 39900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/amp-005.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Amplifier"
+            ],
+            [
+              "Brand",
+              "Audiotek"
+            ],
+            [
+              "Model / Product line",
+              "AT-5000S"
+            ],
+            [
+              "Visible specifications",
+              "5000W max power marking"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "amp-006",
+      "slug": "amp-006",
+      "brand": "Hifonics",
+      "name": "Hifonics Zeus Gamma Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Hifonics Zeus Gamma Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "hifonics",
+        "amplifiers",
+        "amplifier"
+      ],
+      "variants": [
+        {
+          "id": "amp-006-variant",
+          "sku": "AMP-006",
+          "name": "Hifonics Zeus Gamma Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 18900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/amp-006.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Amplifier"
+            ],
+            [
+              "Brand",
+              "Hifonics"
+            ],
+            [
+              "Model / Product line",
+              "Zeus Gamma series"
+            ],
+            [
+              "Visible specifications",
+              "Multiple wattage/models not readable"
+            ],
+            [
+              "Quantity visible",
+              "5+"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "amp-007",
+      "slug": "amp-007",
+      "brand": "Hifonics",
+      "name": "Hifonics Brutus Monoblock Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Hifonics Brutus Monoblock Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "hifonics",
+        "amplifiers",
+        "amplifier"
+      ],
+      "variants": [
+        {
+          "id": "amp-007-variant",
+          "sku": "AMP-007",
+          "name": "Hifonics Brutus Monoblock Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 15900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/amp-007.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Monoblock amplifier"
+            ],
+            [
+              "Brand",
+              "Hifonics"
+            ],
+            [
+              "Model / Product line",
+              "Brutus series"
+            ],
+            [
+              "Visible specifications",
+              "Class-D style packaging; exact model not readable"
+            ],
+            [
+              "Quantity visible",
+              "2"
+            ],
+            [
+              "Condition",
+              "Boxed plus display unit"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "amp-008",
+      "slug": "amp-008",
+      "brand": "Gravity",
+      "name": "Warzone Elite D7500.1D Monoblock Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Warzone Elite D7500.1D Monoblock Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "warzone elite",
+        "amplifiers",
+        "amplifier"
+      ],
+      "variants": [
+        {
+          "id": "amp-008-variant",
+          "sku": "AMP-008",
+          "name": "Warzone Elite D7500.1D Monoblock Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 54900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/amp-008.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Monoblock amplifier"
+            ],
+            [
+              "Brand",
+              "Warzone Elite"
+            ],
+            [
+              "Model / Product line",
+              "D7500.1D (appears)"
+            ],
+            [
+              "Visible specifications",
+              "7500W RMS marking; monoblock Class D"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "amp-009",
+      "slug": "amp-009",
+      "brand": "Crunch",
+      "name": "Crunch Car Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Crunch Car Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "crunch",
+        "amplifiers",
+        "amplifier"
+      ],
+      "variants": [
+        {
+          "id": "amp-009-variant",
+          "sku": "AMP-009",
+          "name": "Crunch Car Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 22900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/amp-009.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Amplifier"
+            ],
+            [
+              "Brand",
+              "Crunch"
+            ],
+            [
+              "Model / Product line",
+              "Model unreadable"
+            ],
+            [
+              "Visible specifications",
+              "Red/black packaging; exact specifications unreadable"
+            ],
+            [
+              "Quantity visible",
+              "2+"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "amp-010",
+      "slug": "amp-010",
+      "brand": "Rockford Fosgate",
+      "name": "Rockford Fosgate Car Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Rockford Fosgate Car Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "rockford fosgate",
+        "amplifiers",
+        "amplifier"
+      ],
+      "variants": [
+        {
+          "id": "amp-010-variant",
+          "sku": "AMP-010",
+          "name": "Rockford Fosgate Car Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 20900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/amp-010.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Amplifier"
+            ],
+            [
+              "Brand",
+              "Rockford Fosgate"
+            ],
+            [
+              "Model / Product line",
+              "Model unreadable"
+            ],
+            [
+              "Visible specifications",
+              "Compact amplifier; exact model unreadable"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "amp-011",
+      "slug": "amp-011",
+      "brand": "Hifonics",
+      "name": "Hifonics Zeus Display Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Hifonics Zeus Display Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "hifonics",
+        "amplifiers",
+        "amplifier"
+      ],
+      "variants": [
+        {
+          "id": "amp-011-variant",
+          "sku": "AMP-011",
+          "name": "Hifonics Zeus Display Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 31900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/amp-011.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Display amplifier"
+            ],
+            [
+              "Brand",
+              "Hifonics"
+            ],
+            [
+              "Model / Product line",
+              "Zeus (display unit)"
+            ],
+            [
+              "Visible specifications",
+              "Silver chassis; exact model unreadable"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Display / open-box"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu-001",
+      "slug": "hu-001",
+      "brand": "Audiotek",
+      "name": "Audiotek Touchscreen Car Stereo",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Audiotek Touchscreen Car Stereo. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "audiotek",
+        "receivers",
+        "receiver"
+      ],
+      "variants": [
+        {
+          "id": "hu-001-variant",
+          "sku": "HU-001",
+          "name": "Audiotek Touchscreen Car Stereo",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 9900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/hu-001.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Touchscreen receiver"
+            ],
+            [
+              "Brand",
+              "Audiotek"
+            ],
+            [
+              "Model / Product line",
+              "Large-screen series (model unreadable)"
+            ],
+            [
+              "Visible specifications",
+              "Large touchscreen; exact size/model unreadable"
+            ],
+            [
+              "Quantity visible",
+              "4+"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu-002",
+      "slug": "hu-002",
+      "brand": "STX Audio",
+      "name": "STX Touchscreen Multimedia Receiver",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "STX Touchscreen Multimedia Receiver. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "stx",
+        "receivers",
+        "receiver"
+      ],
+      "variants": [
+        {
+          "id": "hu-002-variant",
+          "sku": "HU-002",
+          "name": "STX Touchscreen Multimedia Receiver",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 12900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/hu-002.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Touchscreen receiver"
+            ],
+            [
+              "Brand",
+              "STX"
+            ],
+            [
+              "Model / Product line",
+              "Model unreadable"
+            ],
+            [
+              "Visible specifications",
+              "Phone mirroring/navigation graphics visible"
+            ],
+            [
+              "Quantity visible",
+              "2"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu-003",
+      "slug": "hu-003",
+      "brand": "Gravity",
+      "name": "Gravity VGR-5700G Touchscreen Car Stereo",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Gravity VGR-5700G Touchscreen Car Stereo. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "receivers",
+        "receiver"
+      ],
+      "variants": [
+        {
+          "id": "hu-003-variant",
+          "sku": "HU-003",
+          "name": "Gravity VGR-5700G Touchscreen Car Stereo",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 14900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/hu-003.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Touchscreen receiver"
+            ],
+            [
+              "Brand",
+              "Gravity"
+            ],
+            [
+              "Model / Product line",
+              "VGR-5700G (appears)"
+            ],
+            [
+              "Visible specifications",
+              "IPS screen; Apple CarPlay/Android Auto icons appear"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu-004",
+      "slug": "hu-004",
+      "brand": "Gravity",
+      "name": "Gravity Navigation Multimedia Receiver",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Gravity Navigation Multimedia Receiver. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "receivers",
+        "receiver"
+      ],
+      "variants": [
+        {
+          "id": "hu-004-variant",
+          "sku": "HU-004",
+          "name": "Gravity Navigation Multimedia Receiver",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 11900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/hu-004.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Navigation receiver"
+            ],
+            [
+              "Brand",
+              "Gravity"
+            ],
+            [
+              "Model / Product line",
+              "VGR-6100-series (model partly unreadable)"
+            ],
+            [
+              "Visible specifications",
+              "Navigation/phone-mirroring graphics"
+            ],
+            [
+              "Quantity visible",
+              "3+"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu-005",
+      "slug": "hu-005",
+      "brand": "Gravity",
+      "name": "Gravity 6.86-Inch Multimedia Receiver",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Gravity 6.86-Inch Multimedia Receiver. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "receivers",
+        "receiver"
+      ],
+      "variants": [
+        {
+          "id": "hu-005-variant",
+          "sku": "HU-005",
+          "name": "Gravity 6.86-Inch Multimedia Receiver",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 10900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/hu-005.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Touchscreen receiver"
+            ],
+            [
+              "Brand",
+              "Gravity"
+            ],
+            [
+              "Model / Product line",
+              "6.86-inch series (model unreadable)"
+            ],
+            [
+              "Visible specifications",
+              "6.86-inch marking visible"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu-006",
+      "slug": "hu-006",
+      "brand": "Gravity",
+      "name": "Gravity HD Multimedia Receiver",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Gravity HD Multimedia Receiver. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "receivers",
+        "receiver"
+      ],
+      "variants": [
+        {
+          "id": "hu-006-variant",
+          "sku": "HU-006",
+          "name": "Gravity HD Multimedia Receiver",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 8900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/hu-006.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "HD multimedia receiver"
+            ],
+            [
+              "Brand",
+              "Gravity"
+            ],
+            [
+              "Model / Product line",
+              "HD series (model unreadable)"
+            ],
+            [
+              "Visible specifications",
+              "Phone-mirroring display on packaging"
+            ],
+            [
+              "Quantity visible",
+              "2"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu-007",
+      "slug": "hu-007",
+      "brand": "JVC",
+      "name": "JVC KW-M560BT Digital Multimedia Receiver",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "JVC KW-M560BT Digital Multimedia Receiver. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "jvc",
+        "receivers",
+        "receiver"
+      ],
+      "variants": [
+        {
+          "id": "hu-007-variant",
+          "sku": "HU-007",
+          "name": "JVC KW-M560BT Digital Multimedia Receiver",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 17900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/hu-007.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Touchscreen receiver"
+            ],
+            [
+              "Brand",
+              "JVC"
+            ],
+            [
+              "Model / Product line",
+              "KW-M560BT"
+            ],
+            [
+              "Visible specifications",
+              "Bluetooth touchscreen receiver"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu-008",
+      "slug": "hu-008",
+      "brand": "Pioneer",
+      "name": "Pioneer DMH-Series Touchscreen Receiver",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Pioneer DMH-Series Touchscreen Receiver. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "pioneer",
+        "receivers",
+        "receiver"
+      ],
+      "variants": [
+        {
+          "id": "hu-008-variant",
+          "sku": "HU-008",
+          "name": "Pioneer DMH-Series Touchscreen Receiver",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 6900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/hu-008.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Touchscreen receiver"
+            ],
+            [
+              "Brand",
+              "Pioneer"
+            ],
+            [
+              "Model / Product line",
+              "DMH series (model unreadable)"
+            ],
+            [
+              "Visible specifications",
+              "Bluetooth/multimedia icons visible"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu-009",
+      "slug": "hu-009",
+      "brand": "Blaupunkt",
+      "name": "Blaupunkt DVD/Navigation Multimedia Receiver",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Blaupunkt DVD/Navigation Multimedia Receiver. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "blaupunkt",
+        "receivers",
+        "receiver"
+      ],
+      "variants": [
+        {
+          "id": "hu-009-variant",
+          "sku": "HU-009",
+          "name": "Blaupunkt DVD/Navigation Multimedia Receiver",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 9900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/hu-009.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "DVD/navigation receiver"
+            ],
+            [
+              "Brand",
+              "Blaupunkt"
+            ],
+            [
+              "Model / Product line",
+              "DVD Receiver NAV/MP5 (model unreadable)"
+            ],
+            [
+              "Visible specifications",
+              "NAV/MP5 wording visible"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu-010",
+      "slug": "hu-010",
+      "brand": "Soundstream",
+      "name": "Soundstream Touchscreen Multimedia Receiver",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Soundstream Touchscreen Multimedia Receiver. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "soundstream",
+        "receivers",
+        "receiver"
+      ],
+      "variants": [
+        {
+          "id": "hu-010-variant",
+          "sku": "HU-010",
+          "name": "Soundstream Touchscreen Multimedia Receiver",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 8900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/hu-010.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Touchscreen receiver"
+            ],
+            [
+              "Brand",
+              "Soundstream"
+            ],
+            [
+              "Model / Product line",
+              "Model unreadable"
+            ],
+            [
+              "Visible specifications",
+              "Double-DIN touchscreen"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu-011",
+      "slug": "hu-011",
+      "brand": "Audiobank",
+      "name": "Audiobank Navigation Multimedia Receiver",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Audiobank Navigation Multimedia Receiver. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "audiobank",
+        "receivers",
+        "receiver"
+      ],
+      "variants": [
+        {
+          "id": "hu-011-variant",
+          "sku": "HU-011",
+          "name": "Audiobank Navigation Multimedia Receiver",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/hu-011.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Navigation receiver"
+            ],
+            [
+              "Brand",
+              "Audiobank"
+            ],
+            [
+              "Model / Product line",
+              "Model unreadable"
+            ],
+            [
+              "Visible specifications",
+              "Navigation and phone-mirroring graphics"
+            ],
+            [
+              "Quantity visible",
+              "4+"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu-012",
+      "slug": "hu-012",
+      "brand": "Kenwood",
+      "name": "Kenwood KDC-BT282U Bluetooth CD Receiver",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Kenwood KDC-BT282U Bluetooth CD Receiver. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "kenwood",
+        "receivers",
+        "receiver"
+      ],
+      "variants": [
+        {
+          "id": "hu-012-variant",
+          "sku": "HU-012",
+          "name": "Kenwood KDC-BT282U Bluetooth CD Receiver",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 13900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/hu-012.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Single-DIN receiver"
+            ],
+            [
+              "Brand",
+              "Kenwood"
+            ],
+            [
+              "Model / Product line",
+              "KDC-BT282U"
+            ],
+            [
+              "Visible specifications",
+              "Single-DIN; Bluetooth"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu-013",
+      "slug": "hu-013",
+      "brand": "Kenwood",
+      "name": "Kenwood KDC-BT35 Bluetooth Receiver",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Kenwood KDC-BT35 Bluetooth Receiver. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "kenwood",
+        "receivers",
+        "receiver"
+      ],
+      "variants": [
+        {
+          "id": "hu-013-variant",
+          "sku": "HU-013",
+          "name": "Kenwood KDC-BT35 Bluetooth Receiver",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 11900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/hu-013.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Single-DIN receiver"
+            ],
+            [
+              "Brand",
+              "Kenwood"
+            ],
+            [
+              "Model / Product line",
+              "KDC-BT35 (appears)"
+            ],
+            [
+              "Visible specifications",
+              "Single-DIN; Bluetooth"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu-014",
+      "slug": "hu-014",
+      "brand": "Alpine",
+      "name": "Alpine UTE-73BT Bluetooth Digital Media Receiver",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Alpine UTE-73BT Bluetooth Digital Media Receiver. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "alpine",
+        "receivers",
+        "receiver"
+      ],
+      "variants": [
+        {
+          "id": "hu-014-variant",
+          "sku": "HU-014",
+          "name": "Alpine UTE-73BT Bluetooth Digital Media Receiver",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 15900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/hu-014.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Digital media receiver"
+            ],
+            [
+              "Brand",
+              "Alpine"
+            ],
+            [
+              "Model / Product line",
+              "UTE-73BT"
+            ],
+            [
+              "Visible specifications",
+              "Single-DIN; Bluetooth; mech-less"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu-015",
+      "slug": "hu-015",
+      "brand": "JBL",
+      "name": "JBL Celebrity 100 Bluetooth Car Receiver",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "JBL Celebrity 100 Bluetooth Car Receiver. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "jbl",
+        "receivers",
+        "receiver"
+      ],
+      "variants": [
+        {
+          "id": "hu-015-variant",
+          "sku": "HU-015",
+          "name": "JBL Celebrity 100 Bluetooth Car Receiver",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 4900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/hu-015.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Single-DIN receiver"
+            ],
+            [
+              "Brand",
+              "JBL"
+            ],
+            [
+              "Model / Product line",
+              "Celebrity 100"
+            ],
+            [
+              "Visible specifications",
+              "Single-DIN; Bluetooth"
+            ],
+            [
+              "Quantity visible",
+              "2"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu-016",
+      "slug": "hu-016",
+      "brand": "Pioneer",
+      "name": "Pioneer Single-DIN Car Receiver",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Pioneer Single-DIN Car Receiver. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "pioneer",
+        "receivers",
+        "receiver"
+      ],
+      "variants": [
+        {
+          "id": "hu-016-variant",
+          "sku": "HU-016",
+          "name": "Pioneer Single-DIN Car Receiver",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 12900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/hu-016.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Single-DIN receiver"
+            ],
+            [
+              "Brand",
+              "Pioneer"
+            ],
+            [
+              "Model / Product line",
+              "Model unreadable"
+            ],
+            [
+              "Visible specifications",
+              "Bluetooth/USB icons appear"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu-017",
+      "slug": "hu-017",
+      "brand": "Sound Xtreme",
+      "name": "Sound Xtreme / Remote Xtreme Screen-Mirroring Multimedia Receiver",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Sound Xtreme / Remote Xtreme Screen-Mirroring Multimedia Receiver. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "sound xtreme / remote xtreme",
+        "receivers",
+        "receiver"
+      ],
+      "variants": [
+        {
+          "id": "hu-017-variant",
+          "sku": "HU-017",
+          "name": "Sound Xtreme / Remote Xtreme Screen-Mirroring Multimedia Receiver",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 16900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/hu-017.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Screen-mirroring receiver"
+            ],
+            [
+              "Brand",
+              "Sound Xtreme / Remote Xtreme"
+            ],
+            [
+              "Model / Product line",
+              "Model unreadable"
+            ],
+            [
+              "Visible specifications",
+              "Phone-mirroring graphic visible"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-001",
+      "slug": "spk-001",
+      "brand": "STX Audio",
+      "name": "STX Audio X69.2R 6x9-Inch Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "STX Audio X69.2R 6x9-Inch Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "stx audio",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-001-variant",
+          "sku": "SPK-001",
+          "name": "STX Audio X69.2R 6x9-Inch Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-001.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "6x9 coaxial speakers"
+            ],
+            [
+              "Brand",
+              "STX Audio"
+            ],
+            [
+              "Model / Product line",
+              "X69.2R (appears)"
+            ],
+            [
+              "Visible specifications",
+              "950W; 4-ohm marking"
+            ],
+            [
+              "Quantity visible",
+              "1 pair"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-002",
+      "slug": "spk-002",
+      "brand": "Polk Audio",
+      "name": "Polk Audio DB+ 6x9-Inch Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Polk Audio DB+ 6x9-Inch Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "polk audio",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-002-variant",
+          "sku": "SPK-002",
+          "name": "Polk Audio DB+ 6x9-Inch Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-002.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "6x9 coaxial speakers"
+            ],
+            [
+              "Brand",
+              "Polk Audio"
+            ],
+            [
+              "Model / Product line",
+              "DB+ series (model unreadable)"
+            ],
+            [
+              "Visible specifications",
+              "Marine-certified style DB+ packaging"
+            ],
+            [
+              "Quantity visible",
+              "1 pair"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-003",
+      "slug": "spk-003",
+      "brand": "Memphis",
+      "name": "Memphis 6x9-Inch Coaxial Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Memphis 6x9-Inch Coaxial Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "memphis",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-003-variant",
+          "sku": "SPK-003",
+          "name": "Memphis 6x9-Inch Coaxial Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-003.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "6x9 coaxial speakers"
+            ],
+            [
+              "Brand",
+              "Memphis"
+            ],
+            [
+              "Model / Product line",
+              "Model unreadable"
+            ],
+            [
+              "Visible specifications",
+              "Pair shown on orange packaging"
+            ],
+            [
+              "Quantity visible",
+              "1 pair"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-004",
+      "slug": "spk-004",
+      "brand": "JVC",
+      "name": "JVC 6x9-Inch 400W Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "JVC 6x9-Inch 400W Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "jvc",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-004-variant",
+          "sku": "SPK-004",
+          "name": "JVC 6x9-Inch 400W Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-004.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "6x9 coaxial speakers"
+            ],
+            [
+              "Brand",
+              "JVC"
+            ],
+            [
+              "Model / Product line",
+              "CS-DF6930 (appears)"
+            ],
+            [
+              "Visible specifications",
+              "400W max marking"
+            ],
+            [
+              "Quantity visible",
+              "1 pair"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-005",
+      "slug": "spk-005",
+      "brand": "Pioneer",
+      "name": "Pioneer 6x9-Inch 450W Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Pioneer 6x9-Inch 450W Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "pioneer",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-005-variant",
+          "sku": "SPK-005",
+          "name": "Pioneer 6x9-Inch 450W Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-005.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "6x9 coaxial speakers"
+            ],
+            [
+              "Brand",
+              "Pioneer"
+            ],
+            [
+              "Model / Product line",
+              "TS-A6970F (appears)"
+            ],
+            [
+              "Visible specifications",
+              "450W max"
+            ],
+            [
+              "Quantity visible",
+              "1 pair"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-006",
+      "slug": "spk-006",
+      "brand": "Pioneer",
+      "name": "Pioneer 6x9-Inch 600W Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Pioneer 6x9-Inch 600W Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "pioneer",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-006-variant",
+          "sku": "SPK-006",
+          "name": "Pioneer 6x9-Inch 600W Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-006.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "6x9 coaxial speakers"
+            ],
+            [
+              "Brand",
+              "Pioneer"
+            ],
+            [
+              "Model / Product line",
+              "TS-A69-series (model unreadable)"
+            ],
+            [
+              "Visible specifications",
+              "600W max"
+            ],
+            [
+              "Quantity visible",
+              "1 pair"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-007",
+      "slug": "spk-007",
+      "brand": "JBL",
+      "name": "JBL Club Coaxial Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "JBL Club Coaxial Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "jbl",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-007-variant",
+          "sku": "SPK-007",
+          "name": "JBL Club Coaxial Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-007.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Coaxial speakers"
+            ],
+            [
+              "Brand",
+              "JBL"
+            ],
+            [
+              "Model / Product line",
+              "Club series (models unreadable)"
+            ],
+            [
+              "Visible specifications",
+              "Multiple sizes/models"
+            ],
+            [
+              "Quantity visible",
+              "2+ pairs"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-008",
+      "slug": "spk-008",
+      "brand": "Rockford Fosgate",
+      "name": "Rockford Fosgate Punch Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Rockford Fosgate Punch Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "rockford fosgate",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-008-variant",
+          "sku": "SPK-008",
+          "name": "Rockford Fosgate Punch Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-008.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Coaxial/component speakers"
+            ],
+            [
+              "Brand",
+              "Rockford Fosgate"
+            ],
+            [
+              "Model / Product line",
+              "Punch series (model unreadable)"
+            ],
+            [
+              "Visible specifications",
+              "Multiple sizes possible"
+            ],
+            [
+              "Quantity visible",
+              "1+ pair"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-009",
+      "slug": "spk-009",
+      "brand": "Alpine",
+      "name": "Alpine S-Series Car Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Alpine S-Series Car Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "alpine",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-009-variant",
+          "sku": "SPK-009",
+          "name": "Alpine S-Series Car Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-009.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Coaxial/component speakers"
+            ],
+            [
+              "Brand",
+              "Alpine"
+            ],
+            [
+              "Model / Product line",
+              "S-Series (orange boxes)"
+            ],
+            [
+              "Visible specifications",
+              "Multiple sizes/models; orange S-series packaging"
+            ],
+            [
+              "Quantity visible",
+              "3+ pairs"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-010",
+      "slug": "spk-010",
+      "brand": "Alpine",
+      "name": "Alpine SXE-1750S 6.5-Inch Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Alpine SXE-1750S 6.5-Inch Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "alpine",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-010-variant",
+          "sku": "SPK-010",
+          "name": "Alpine SXE-1750S 6.5-Inch Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-010.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "6.5-inch coaxial speakers"
+            ],
+            [
+              "Brand",
+              "Alpine"
+            ],
+            [
+              "Model / Product line",
+              "SXE-1750S (appears)"
+            ],
+            [
+              "Visible specifications",
+              "200W marking appears"
+            ],
+            [
+              "Quantity visible",
+              "1 pair"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-011",
+      "slug": "spk-011",
+      "brand": "Alpine",
+      "name": "Alpine S-S57 Coaxial Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Alpine S-S57 Coaxial Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "alpine",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-011-variant",
+          "sku": "SPK-011",
+          "name": "Alpine S-S57 Coaxial Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-011.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "5x7 / 6x8 speakers"
+            ],
+            [
+              "Brand",
+              "Alpine"
+            ],
+            [
+              "Model / Product line",
+              "S-S57"
+            ],
+            [
+              "Visible specifications",
+              "230W max marking"
+            ],
+            [
+              "Quantity visible",
+              "1 pair"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-012",
+      "slug": "spk-012",
+      "brand": "Pioneer",
+      "name": "Pioneer TS-G1620F 6.5-Inch Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Pioneer TS-G1620F 6.5-Inch Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "pioneer",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-012-variant",
+          "sku": "SPK-012",
+          "name": "Pioneer TS-G1620F 6.5-Inch Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-012.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "6.5-inch coaxial speakers"
+            ],
+            [
+              "Brand",
+              "Pioneer"
+            ],
+            [
+              "Model / Product line",
+              "TS-G1620F"
+            ],
+            [
+              "Visible specifications",
+              "300W max; 16 cm / 6.5-inch"
+            ],
+            [
+              "Quantity visible",
+              "1 pair"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-013",
+      "slug": "spk-013",
+      "brand": "Pioneer",
+      "name": "Pioneer 6.5-Inch 320W Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Pioneer 6.5-Inch 320W Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "pioneer",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-013-variant",
+          "sku": "SPK-013",
+          "name": "Pioneer 6.5-Inch 320W Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-013.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "6.5-inch coaxial speakers"
+            ],
+            [
+              "Brand",
+              "Pioneer"
+            ],
+            [
+              "Model / Product line",
+              "A/G Series 320W (model unreadable)"
+            ],
+            [
+              "Visible specifications",
+              "320W max marking"
+            ],
+            [
+              "Quantity visible",
+              "2+ pairs"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-014",
+      "slug": "spk-014",
+      "brand": "Kicker",
+      "name": "Kicker DSC-Series Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Kicker DSC-Series Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "kicker",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-014-variant",
+          "sku": "SPK-014",
+          "name": "Kicker DSC-Series Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-014.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Coaxial speakers"
+            ],
+            [
+              "Brand",
+              "Kicker"
+            ],
+            [
+              "Model / Product line",
+              "DSC series (models unreadable)"
+            ],
+            [
+              "Visible specifications",
+              "Multiple sizes; 360W marking on one box"
+            ],
+            [
+              "Quantity visible",
+              "3+ pairs"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-015",
+      "slug": "spk-015",
+      "brand": "STX Audio",
+      "name": "STX Audio 6.5-Inch 650W Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "STX Audio 6.5-Inch 650W Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "stx audio",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-015-variant",
+          "sku": "SPK-015",
+          "name": "STX Audio 6.5-Inch 650W Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-015.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "6.5-inch coaxial speakers"
+            ],
+            [
+              "Brand",
+              "STX Audio"
+            ],
+            [
+              "Model / Product line",
+              "STX-650C / STX650 (appears)"
+            ],
+            [
+              "Visible specifications",
+              "650W max; orange cone"
+            ],
+            [
+              "Quantity visible",
+              "2+ pairs"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-016",
+      "slug": "spk-016",
+      "brand": "STX Audio",
+      "name": "STX Audio Red-Series Coaxial Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "STX Audio Red-Series Coaxial Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "stx audio",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-016-variant",
+          "sku": "SPK-016",
+          "name": "STX Audio Red-Series Coaxial Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-016.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Coaxial speakers"
+            ],
+            [
+              "Brand",
+              "STX Audio"
+            ],
+            [
+              "Model / Product line",
+              "Red-series models unreadable"
+            ],
+            [
+              "Visible specifications",
+              "650W marking on some boxes"
+            ],
+            [
+              "Quantity visible",
+              "3+ pairs"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-017",
+      "slug": "spk-017",
+      "brand": "MB Quart",
+      "name": "MB Quart Formula-Series Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "MB Quart Formula-Series Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "mb quart",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-017-variant",
+          "sku": "SPK-017",
+          "name": "MB Quart Formula-Series Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-017.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Coaxial/component speakers"
+            ],
+            [
+              "Brand",
+              "MB Quart"
+            ],
+            [
+              "Model / Product line",
+              "Formula series"
+            ],
+            [
+              "Visible specifications",
+              "Multiple sizes/models"
+            ],
+            [
+              "Quantity visible",
+              "2+ pairs"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-018",
+      "slug": "spk-018",
+      "brand": "Crunch",
+      "name": "Crunch 300W Coaxial Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Crunch 300W Coaxial Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "crunch",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-018-variant",
+          "sku": "SPK-018",
+          "name": "Crunch 300W Coaxial Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-018.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Coaxial speakers"
+            ],
+            [
+              "Brand",
+              "Crunch"
+            ],
+            [
+              "Model / Product line",
+              "300W series (model unreadable)"
+            ],
+            [
+              "Visible specifications",
+              "300W max marking"
+            ],
+            [
+              "Quantity visible",
+              "1 pair"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-019",
+      "slug": "spk-019",
+      "brand": "Soundstream",
+      "name": "Soundstream Coaxial Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Soundstream Coaxial Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "soundstream",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-019-variant",
+          "sku": "SPK-019",
+          "name": "Soundstream Coaxial Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-019.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Coaxial speakers"
+            ],
+            [
+              "Brand",
+              "Soundstream"
+            ],
+            [
+              "Model / Product line",
+              "Models unreadable"
+            ],
+            [
+              "Visible specifications",
+              "Multiple sizes; one blue/white package"
+            ],
+            [
+              "Quantity visible",
+              "2+ pairs"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-020",
+      "slug": "spk-020",
+      "brand": "Audio360",
+      "name": "Audio360 ADS1650P Ultra 6.5-Inch Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Audio360 ADS1650P Ultra 6.5-Inch Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "audio360",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-020-variant",
+          "sku": "SPK-020",
+          "name": "Audio360 ADS1650P Ultra 6.5-Inch Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-020.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "6.5-inch coaxial speakers"
+            ],
+            [
+              "Brand",
+              "Audio360"
+            ],
+            [
+              "Model / Product line",
+              "ADS1650P Ultra"
+            ],
+            [
+              "Visible specifications",
+              "650W max marking"
+            ],
+            [
+              "Quantity visible",
+              "2 pairs"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-021",
+      "slug": "spk-021",
+      "brand": "Blaupunkt",
+      "name": "Blaupunkt Car Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Blaupunkt Car Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "blaupunkt",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-021-variant",
+          "sku": "SPK-021",
+          "name": "Blaupunkt Car Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-021.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Coaxial/component speakers"
+            ],
+            [
+              "Brand",
+              "Blaupunkt"
+            ],
+            [
+              "Model / Product line",
+              "Models unreadable"
+            ],
+            [
+              "Visible specifications",
+              "Several sizes/models"
+            ],
+            [
+              "Quantity visible",
+              "3+ pairs"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-022",
+      "slug": "spk-022",
+      "brand": "Audiobank",
+      "name": "Audiobank Coaxial Car Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Audiobank Coaxial Car Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "audiobank",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-022-variant",
+          "sku": "SPK-022",
+          "name": "Audiobank Coaxial Car Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-022.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Coaxial speakers"
+            ],
+            [
+              "Brand",
+              "Audiobank"
+            ],
+            [
+              "Model / Product line",
+              "Models unreadable"
+            ],
+            [
+              "Visible specifications",
+              "Multiple sizes/models and wattages"
+            ],
+            [
+              "Quantity visible",
+              "8+ pairs"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-023",
+      "slug": "spk-023",
+      "brand": "Gravity",
+      "name": "Gravity Coaxial Car Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Gravity Coaxial Car Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-023-variant",
+          "sku": "SPK-023",
+          "name": "Gravity Coaxial Car Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-023.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Coaxial speakers"
+            ],
+            [
+              "Brand",
+              "Gravity"
+            ],
+            [
+              "Model / Product line",
+              "Models unreadable"
+            ],
+            [
+              "Visible specifications",
+              "Multiple sizes/models"
+            ],
+            [
+              "Quantity visible",
+              "2+ pairs"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-024",
+      "slug": "spk-024",
+      "brand": "Hifonics",
+      "name": "Hifonics Zeus Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Hifonics Zeus Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "hifonics",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-024-variant",
+          "sku": "SPK-024",
+          "name": "Hifonics Zeus Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-024.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Coaxial speakers"
+            ],
+            [
+              "Brand",
+              "Hifonics"
+            ],
+            [
+              "Model / Product line",
+              "Zeus speaker series"
+            ],
+            [
+              "Visible specifications",
+              "Exact size/model unreadable"
+            ],
+            [
+              "Quantity visible",
+              "1 pair"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-025",
+      "slug": "spk-025",
+      "brand": "Sound Xtreme",
+      "name": "Sound Xtreme ST-694 6x9-Inch Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Sound Xtreme ST-694 6x9-Inch Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "sound xtreme",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-025-variant",
+          "sku": "SPK-025",
+          "name": "Sound Xtreme ST-694 6x9-Inch Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-025.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "6x9 coaxial speakers"
+            ],
+            [
+              "Brand",
+              "Sound Xtreme"
+            ],
+            [
+              "Model / Product line",
+              "ST-694"
+            ],
+            [
+              "Visible specifications",
+              "520W; 4-way marking"
+            ],
+            [
+              "Quantity visible",
+              "1 pair"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-026",
+      "slug": "spk-026",
+      "brand": "Audiobank",
+      "name": "Audiobank 6x9-Inch 700W Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Audiobank 6x9-Inch 700W Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "audiobank",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-026-variant",
+          "sku": "SPK-026",
+          "name": "Audiobank 6x9-Inch 700W Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-026.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "6x9 coaxial speakers"
+            ],
+            [
+              "Brand",
+              "Audiobank"
+            ],
+            [
+              "Model / Product line",
+              "AB-690 (appears)"
+            ],
+            [
+              "Visible specifications",
+              "700W marking"
+            ],
+            [
+              "Quantity visible",
+              "1 pair"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk-027",
+      "slug": "spk-027",
+      "brand": "Assorted",
+      "name": "Multiple brands Assorted Display Car Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Multiple brands Assorted Display Car Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "multiple brands",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "spk-027-variant",
+          "sku": "SPK-027",
+          "name": "Multiple brands Assorted Display Car Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/spk-027.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Loose display speakers"
+            ],
+            [
+              "Brand",
+              "Multiple brands"
+            ],
+            [
+              "Model / Product line",
+              "Assorted models"
+            ],
+            [
+              "Visible specifications",
+              "6x9, 6.5-inch, round coaxials, component drivers and tweeters"
+            ],
+            [
+              "Quantity visible",
+              "12+ individual pieces"
+            ],
+            [
+              "Condition",
+              "Display / open-box"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acc-001",
+      "slug": "acc-001",
+      "brand": "Rockford Fosgate",
+      "name": "Rockford Fosgate RCA Signal Cables",
+      "category": "installation",
+      "visualType": "installation",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car audio installation accessory for a clean, secure, factory-quality install.",
+      "description": "Rockford Fosgate RCA Signal Cables. Car audio installation accessory for a clean, secure, factory-quality install. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "rockford fosgate",
+        "installation"
+      ],
+      "variants": [
+        {
+          "id": "acc-001-variant",
+          "sku": "ACC-001",
+          "name": "Rockford Fosgate RCA Signal Cables",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 1900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/acc-001.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "RCA/signal cables"
+            ],
+            [
+              "Brand",
+              "Rockford Fosgate"
+            ],
+            [
+              "Model / Product line",
+              "Signal Cable series"
+            ],
+            [
+              "Visible specifications",
+              "6-ft, 10-ft and/or longer lengths visible"
+            ],
+            [
+              "Quantity visible",
+              "6+ packs"
+            ],
+            [
+              "Condition",
+              "Packaged / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acc-002",
+      "slug": "acc-002",
+      "brand": "Audiotek",
+      "name": "Audiotek RCA / Signal Cables",
+      "category": "installation",
+      "visualType": "installation",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car audio installation accessory for a clean, secure, factory-quality install.",
+      "description": "Audiotek RCA / Signal Cables. Car audio installation accessory for a clean, secure, factory-quality install. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "audiotek",
+        "installation"
+      ],
+      "variants": [
+        {
+          "id": "acc-002-variant",
+          "sku": "ACC-002",
+          "name": "Audiotek RCA / Signal Cables",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 1500,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/acc-002.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "RCA/signal cables"
+            ],
+            [
+              "Brand",
+              "Audiotek"
+            ],
+            [
+              "Model / Product line",
+              "Models unreadable"
+            ],
+            [
+              "Visible specifications",
+              "Multiple colors and lengths"
+            ],
+            [
+              "Quantity visible",
+              "10+ packs"
+            ],
+            [
+              "Condition",
+              "Packaged / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acc-003",
+      "slug": "acc-003",
+      "brand": "Gravity",
+      "name": "Gravity Professional RCA / Audio Cables",
+      "category": "installation",
+      "visualType": "installation",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car audio installation accessory for a clean, secure, factory-quality install.",
+      "description": "Gravity Professional RCA / Audio Cables. Car audio installation accessory for a clean, secure, factory-quality install. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "installation"
+      ],
+      "variants": [
+        {
+          "id": "acc-003-variant",
+          "sku": "ACC-003",
+          "name": "Gravity Professional RCA / Audio Cables",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 1200,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/acc-003.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "RCA/accessory cables"
+            ],
+            [
+              "Brand",
+              "Gravity"
+            ],
+            [
+              "Model / Product line",
+              "Professional Car Audio Accessories"
+            ],
+            [
+              "Visible specifications",
+              "Packaged cable accessories"
+            ],
+            [
+              "Quantity visible",
+              "3 packs"
+            ],
+            [
+              "Condition",
+              "Packaged / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acc-004",
+      "slug": "acc-004",
+      "brand": "Assorted",
+      "name": "Multiple brands Assorted Car Audio Cable Packs",
+      "category": "installation",
+      "visualType": "installation",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car audio installation accessory for a clean, secure, factory-quality install.",
+      "description": "Multiple brands Assorted Car Audio Cable Packs. Car audio installation accessory for a clean, secure, factory-quality install. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "multiple brands",
+        "installation"
+      ],
+      "variants": [
+        {
+          "id": "acc-004-variant",
+          "sku": "ACC-004",
+          "name": "Multiple brands Assorted Car Audio Cable Packs",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 1500,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/acc-004.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Power/speaker/RCA cable"
+            ],
+            [
+              "Brand",
+              "Multiple brands"
+            ],
+            [
+              "Model / Product line",
+              "Assorted"
+            ],
+            [
+              "Visible specifications",
+              "Red, blue, green, clear/silver cable packs"
+            ],
+            [
+              "Quantity visible",
+              "20+ packs"
+            ],
+            [
+              "Condition",
+              "Packaged / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acc-005",
+      "slug": "acc-005",
+      "brand": "Audiotek",
+      "name": "Audiotek Fuse Holders and Distribution Blocks",
+      "category": "installation",
+      "visualType": "installation",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car audio installation accessory for a clean, secure, factory-quality install.",
+      "description": "Audiotek Fuse Holders and Distribution Blocks. Car audio installation accessory for a clean, secure, factory-quality install. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "audiotek",
+        "installation"
+      ],
+      "variants": [
+        {
+          "id": "acc-005-variant",
+          "sku": "ACC-005",
+          "name": "Audiotek Fuse Holders and Distribution Blocks",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 1900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/acc-005.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Fuse holder/distribution block"
+            ],
+            [
+              "Brand",
+              "Audiotek"
+            ],
+            [
+              "Model / Product line",
+              "Models unreadable"
+            ],
+            [
+              "Visible specifications",
+              "AGU-style and multi-output blocks visible"
+            ],
+            [
+              "Quantity visible",
+              "8+ packs"
+            ],
+            [
+              "Condition",
+              "Packaged / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acc-006",
+      "slug": "acc-006",
+      "brand": "Assorted",
+      "name": "Multiple brands Inline Fuse Holders and Power Distribution Blocks",
+      "category": "installation",
+      "visualType": "installation",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car audio installation accessory for a clean, secure, factory-quality install.",
+      "description": "Multiple brands Inline Fuse Holders and Power Distribution Blocks. Car audio installation accessory for a clean, secure, factory-quality install. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "multiple brands",
+        "installation"
+      ],
+      "variants": [
+        {
+          "id": "acc-006-variant",
+          "sku": "ACC-006",
+          "name": "Multiple brands Inline Fuse Holders and Power Distribution Blocks",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 1500,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/acc-006.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Fuse holder/distribution block"
+            ],
+            [
+              "Brand",
+              "Multiple brands"
+            ],
+            [
+              "Model / Product line",
+              "Assorted"
+            ],
+            [
+              "Visible specifications",
+              "Several styles and terminal counts"
+            ],
+            [
+              "Quantity visible",
+              "6+ packs"
+            ],
+            [
+              "Condition",
+              "Packaged / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acc-007",
+      "slug": "acc-007",
+      "brand": "Dean's Install",
+      "name": "Dean's Install 0-Gauge Amplifier Installation Kit",
+      "category": "installation",
+      "visualType": "installation",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car audio installation accessory for a clean, secure, factory-quality install.",
+      "description": "Dean's Install 0-Gauge Amplifier Installation Kit. Car audio installation accessory for a clean, secure, factory-quality install. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "installation"
+      ],
+      "variants": [
+        {
+          "id": "acc-007-variant",
+          "sku": "ACC-007",
+          "name": "Dean's Install 0-Gauge Amplifier Installation Kit",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 4900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/acc-007.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Amplifier wiring kit"
+            ],
+            [
+              "Brand",
+              "Quality / BGCOR"
+            ],
+            [
+              "Model / Product line",
+              "BGC0B / BGC0R (appears)"
+            ],
+            [
+              "Visible specifications",
+              "0-gauge; red/black cable kit"
+            ],
+            [
+              "Quantity visible",
+              "3 kits"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acc-008",
+      "slug": "acc-008",
+      "brand": "STX Audio",
+      "name": "STX Audio SX4C True-Spec 4-AWG Amplifier Wiring Kit",
+      "category": "installation",
+      "visualType": "installation",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car audio installation accessory for a clean, secure, factory-quality install.",
+      "description": "STX Audio SX4C True-Spec 4-AWG Amplifier Wiring Kit. Car audio installation accessory for a clean, secure, factory-quality install. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "stx audio",
+        "installation"
+      ],
+      "variants": [
+        {
+          "id": "acc-008-variant",
+          "sku": "ACC-008",
+          "name": "STX Audio SX4C True-Spec 4-AWG Amplifier Wiring Kit",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 3900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/acc-008.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Amplifier wiring kit"
+            ],
+            [
+              "Brand",
+              "STX Audio"
+            ],
+            [
+              "Model / Product line",
+              "SX4C"
+            ],
+            [
+              "Visible specifications",
+              "4-gauge amplifier install kit"
+            ],
+            [
+              "Quantity visible",
+              "5 kits"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acc-009",
+      "slug": "acc-009",
+      "brand": "CITA",
+      "name": "CITA 2000W 7-Gauge Amplifier Installation Kit",
+      "category": "installation",
+      "visualType": "installation",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car audio installation accessory for a clean, secure, factory-quality install.",
+      "description": "CITA 2000W 7-Gauge Amplifier Installation Kit. Car audio installation accessory for a clean, secure, factory-quality install. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "cita",
+        "installation"
+      ],
+      "variants": [
+        {
+          "id": "acc-009-variant",
+          "sku": "ACC-009",
+          "name": "CITA 2000W 7-Gauge Amplifier Installation Kit",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 2900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/acc-009.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Amplifier wiring kit"
+            ],
+            [
+              "Brand",
+              "CITA"
+            ],
+            [
+              "Model / Product line",
+              "2000W 7-Gauge Kit"
+            ],
+            [
+              "Visible specifications",
+              "7-gauge; 2000W marking"
+            ],
+            [
+              "Quantity visible",
+              "1 kit"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acc-010",
+      "slug": "acc-010",
+      "brand": "Assorted",
+      "name": "Multiple brands 100W High-Power Dome Tweeters",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Multiple brands 100W High-Power Dome Tweeters. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "multiple brands",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "acc-010-variant",
+          "sku": "ACC-010",
+          "name": "Multiple brands 100W High-Power Dome Tweeters",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 1900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/acc-010.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Tweeters"
+            ],
+            [
+              "Brand",
+              "Multiple brands"
+            ],
+            [
+              "Model / Product line",
+              "100W high-power dome"
+            ],
+            [
+              "Visible specifications",
+              "Pair packs; 100W marking"
+            ],
+            [
+              "Quantity visible",
+              "2+ pairs"
+            ],
+            [
+              "Condition",
+              "Packaged / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acc-011",
+      "slug": "acc-011",
+      "brand": "Assorted",
+      "name": "Multiple brands 200W High-Power Dome Tweeters",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Multiple brands 200W High-Power Dome Tweeters. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "multiple brands",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "acc-011-variant",
+          "sku": "ACC-011",
+          "name": "Multiple brands 200W High-Power Dome Tweeters",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 1500,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/acc-011.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Tweeters"
+            ],
+            [
+              "Brand",
+              "Multiple brands"
+            ],
+            [
+              "Model / Product line",
+              "200W high-power dome"
+            ],
+            [
+              "Visible specifications",
+              "Pair packs; 200W marking"
+            ],
+            [
+              "Quantity visible",
+              "4+ pairs"
+            ],
+            [
+              "Condition",
+              "Packaged / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acc-012",
+      "slug": "acc-012",
+      "brand": "Assorted",
+      "name": "Multiple brands Large Display Tweeters",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Multiple brands Large Display Tweeters. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "multiple brands",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "acc-012-variant",
+          "sku": "ACC-012",
+          "name": "Multiple brands Large Display Tweeters",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 1500,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/acc-012.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Tweeters"
+            ],
+            [
+              "Brand",
+              "Multiple brands"
+            ],
+            [
+              "Model / Product line",
+              "Loose display units"
+            ],
+            [
+              "Visible specifications",
+              "Two large round units plus smaller display tweeters"
+            ],
+            [
+              "Quantity visible",
+              "4+ individual pieces"
+            ],
+            [
+              "Condition",
+              "Display / open-box"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "enc-001",
+      "slug": "enc-001",
+      "brand": "Gravity",
+      "name": "Gravity Dual-Subwoofer Loaded Enclosure",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Gravity Dual-Subwoofer Loaded Enclosure. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "enc-001-variant",
+          "sku": "ENC-001",
+          "name": "Gravity Dual-Subwoofer Loaded Enclosure",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 14900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/enc-001.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Loaded dual enclosure"
+            ],
+            [
+              "Brand",
+              "Gravity"
+            ],
+            [
+              "Model / Product line",
+              "Model unreadable"
+            ],
+            [
+              "Visible specifications",
+              "Two red-center subwoofers in carpeted enclosure"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Display / assembled"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "enc-002",
+      "slug": "enc-002",
+      "brand": "Gravity",
+      "name": "Gravity Single-Subwoofer Loaded Enclosure",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Gravity Single-Subwoofer Loaded Enclosure. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "enc-002-variant",
+          "sku": "ENC-002",
+          "name": "Gravity Single-Subwoofer Loaded Enclosure",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 11900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/enc-002.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Loaded single enclosure"
+            ],
+            [
+              "Brand",
+              "Gravity"
+            ],
+            [
+              "Model / Product line",
+              "Model unreadable"
+            ],
+            [
+              "Visible specifications",
+              "Single red-center subwoofer"
+            ],
+            [
+              "Quantity visible",
+              "1+"
+            ],
+            [
+              "Condition",
+              "Display / assembled"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "enc-003",
+      "slug": "enc-003",
+      "brand": "Audiotek",
+      "name": "Audiotek Clear-Front Dual-Subwoofer Enclosure",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Audiotek Clear-Front Dual-Subwoofer Enclosure. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "audiotek",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "enc-003-variant",
+          "sku": "ENC-003",
+          "name": "Audiotek Clear-Front Dual-Subwoofer Enclosure",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 16900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/enc-003.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Loaded dual enclosure"
+            ],
+            [
+              "Brand",
+              "Audiotek"
+            ],
+            [
+              "Model / Product line",
+              "Yellow-lion clear-front series"
+            ],
+            [
+              "Visible specifications",
+              "Two yellow-logo subwoofers; clear acrylic face"
+            ],
+            [
+              "Quantity visible",
+              "2"
+            ],
+            [
+              "Condition",
+              "Display / assembled"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "enc-004",
+      "slug": "enc-004",
+      "brand": "Value Audio",
+      "name": "Unknown Dual Silver-Subwoofer Loaded Enclosure",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Unknown Dual Silver-Subwoofer Loaded Enclosure. Car subwoofer built to add deep, controlled low-end to your system. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "unknown",
+        "subwoofers",
+        "subwoofer"
+      ],
+      "variants": [
+        {
+          "id": "enc-004-variant",
+          "sku": "ENC-004",
+          "name": "Unknown Dual Silver-Subwoofer Loaded Enclosure",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 18900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/enc-004.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Loaded dual enclosure"
+            ],
+            [
+              "Brand",
+              "Unknown"
+            ],
+            [
+              "Model / Product line",
+              "Silver-cone model unreadable"
+            ],
+            [
+              "Visible specifications",
+              "Two silver-cone subwoofers"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Display / assembled"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "enc-005",
+      "slug": "enc-005",
+      "brand": "Generic",
+      "name": "Generic Empty Dual-Subwoofer Carpeted Enclosure",
+      "category": "standard-speaker-boxes",
+      "visualType": "standard-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Carpeted subwoofer enclosure / speaker box, built for a clean install.",
+      "description": "Generic Empty Dual-Subwoofer Carpeted Enclosure. Carpeted subwoofer enclosure / speaker box, built for a clean install. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "generic",
+        "standard speaker boxes",
+        "standard speaker box"
+      ],
+      "variants": [
+        {
+          "id": "enc-005-variant",
+          "sku": "ENC-005",
+          "name": "Generic Empty Dual-Subwoofer Carpeted Enclosure",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 7900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/enc-005.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Empty dual enclosure"
+            ],
+            [
+              "Brand",
+              "Generic"
+            ],
+            [
+              "Model / Product line",
+              "Dual 12-inch style"
+            ],
+            [
+              "Visible specifications",
+              "Two round cutouts; likely 12-inch"
+            ],
+            [
+              "Quantity visible",
+              "4+"
+            ],
+            [
+              "Condition",
+              "New/display"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "enc-006",
+      "slug": "enc-006",
+      "brand": "Generic",
+      "name": "Generic Empty Single-Subwoofer Carpeted Enclosure",
+      "category": "standard-speaker-boxes",
+      "visualType": "standard-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Carpeted subwoofer enclosure / speaker box, built for a clean install.",
+      "description": "Generic Empty Single-Subwoofer Carpeted Enclosure. Carpeted subwoofer enclosure / speaker box, built for a clean install. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "generic",
+        "standard speaker boxes",
+        "standard speaker box"
+      ],
+      "variants": [
+        {
+          "id": "enc-006-variant",
+          "sku": "ENC-006",
+          "name": "Generic Empty Single-Subwoofer Carpeted Enclosure",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/enc-006.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Empty single enclosure"
+            ],
+            [
+              "Brand",
+              "Generic"
+            ],
+            [
+              "Model / Product line",
+              "Single 12-inch style"
+            ],
+            [
+              "Visible specifications",
+              "Single round cutout; likely 12-inch"
+            ],
+            [
+              "Quantity visible",
+              "2+"
+            ],
+            [
+              "Condition",
+              "New/display"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "enc-007",
+      "slug": "enc-007",
+      "brand": "Gravity",
+      "name": "Gravity Q12BD 1000W Box with Subwoofer Included",
+      "category": "standard-speaker-boxes",
+      "visualType": "standard-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Carpeted subwoofer enclosure / speaker box, built for a clean install.",
+      "description": "Gravity Q12BD 1000W Box with Subwoofer Included. Carpeted subwoofer enclosure / speaker box, built for a clean install. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "standard speaker boxes",
+        "standard speaker box"
+      ],
+      "variants": [
+        {
+          "id": "enc-007-variant",
+          "sku": "ENC-007",
+          "name": "Gravity Q12BD 1000W Box with Subwoofer Included",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 6900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/enc-007.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Loaded enclosure"
+            ],
+            [
+              "Brand",
+              "Gravity"
+            ],
+            [
+              "Model / Product line",
+              "Q12BD (appears)"
+            ],
+            [
+              "Visible specifications",
+              "1000W marking; loaded box"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Boxed / appears new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "enc-008",
+      "slug": "enc-008",
+      "brand": "Assorted",
+      "name": "Multiple brands Assorted Single and Dual Subwoofer Boxes",
+      "category": "standard-speaker-boxes",
+      "visualType": "standard-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Carpeted subwoofer enclosure / speaker box, built for a clean install.",
+      "description": "Multiple brands Assorted Single and Dual Subwoofer Boxes. Carpeted subwoofer enclosure / speaker box, built for a clean install. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "multiple brands",
+        "standard speaker boxes",
+        "standard speaker box"
+      ],
+      "variants": [
+        {
+          "id": "enc-008-variant",
+          "sku": "ENC-008",
+          "name": "Multiple brands Assorted Single and Dual Subwoofer Boxes",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 8900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/enc-008.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Assorted enclosures"
+            ],
+            [
+              "Brand",
+              "Multiple brands"
+            ],
+            [
+              "Model / Product line",
+              "Various"
+            ],
+            [
+              "Visible specifications",
+              "Loaded and unloaded carpeted enclosures"
+            ],
+            [
+              "Quantity visible",
+              "12+ total units"
+            ],
+            [
+              "Condition",
+              "Display / new"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pa-001",
+      "slug": "pa-001",
+      "brand": "EMB",
+      "name": "Unknown / EMB Home Large Dual-Woofer LED Party Speaker",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Unknown / EMB Home Large Dual-Woofer LED Party Speaker. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "unknown / emb home",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "pa-001-variant",
+          "sku": "PA-001",
+          "name": "Unknown / EMB Home Large Dual-Woofer LED Party Speaker",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 9900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/pa-001.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "LED party speaker"
+            ],
+            [
+              "Brand",
+              "Unknown / EMB Home"
+            ],
+            [
+              "Model / Product line",
+              "Dual-woofer LED tower"
+            ],
+            [
+              "Visible specifications",
+              "Two illuminated woofers; portable controls"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Display / boxed nearby"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pa-002",
+      "slug": "pa-002",
+      "brand": "EMB",
+      "name": "EMB Compact Portable Party Speakers",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "EMB Compact Portable Party Speakers. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "emb",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "pa-002-variant",
+          "sku": "PA-002",
+          "name": "EMB Compact Portable Party Speakers",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 8900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/pa-002.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Portable party speaker"
+            ],
+            [
+              "Brand",
+              "EMB Home (appears)"
+            ],
+            [
+              "Model / Product line",
+              "Compact portable models"
+            ],
+            [
+              "Visible specifications",
+              "Top control panel; one larger and one smaller"
+            ],
+            [
+              "Quantity visible",
+              "2"
+            ],
+            [
+              "Condition",
+              "Display / boxed nearby"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pa-003",
+      "slug": "pa-003",
+      "brand": "Value Audio",
+      "name": "Unknown Large Powered PA Speaker",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Unknown Large Powered PA Speaker. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "unknown",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "pa-003-variant",
+          "sku": "PA-003",
+          "name": "Unknown Large Powered PA Speaker",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 12900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/pa-003.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "PA speaker"
+            ],
+            [
+              "Brand",
+              "Unknown"
+            ],
+            [
+              "Model / Product line",
+              "Large grille-front model"
+            ],
+            [
+              "Visible specifications",
+              "Large rectangular grille-front cabinet"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Display"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pa-004",
+      "slug": "pa-004",
+      "brand": "Value Audio",
+      "name": "Unknown Tall Portable Tower Speaker",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Unknown Tall Portable Tower Speaker. Full-range or component car speaker engineered for clear, balanced sound. Verify final pricing, stock, and exact fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "unknown",
+        "speakers",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "id": "pa-004-variant",
+          "sku": "PA-004",
+          "name": "Unknown Tall Portable Tower Speaker",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 11900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-17"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.metraonline.com/",
+          "imageUrl": "assets/img/products/pa-004.jpg",
+          "sourceCheckedAt": "2026-07-17",
+          "specs": [
+            [
+              "Type",
+              "Tower speaker"
+            ],
+            [
+              "Brand",
+              "Unknown"
+            ],
+            [
+              "Model / Product line",
+              "Model unreadable"
+            ],
+            [
+              "Visible specifications",
+              "Tall black cabinet; possibly Bluetooth/PA"
+            ],
+            [
+              "Quantity visible",
+              "1"
+            ],
+            [
+              "Condition",
+              "Display"
+            ]
+          ],
+          "notes": [
+            "Rewritten from legacy photo-catalog listing into a clean, professional shop listing.",
+            "Price, stock, installation, and final compatibility are confirmed with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rf-p300-12",
+      "slug": "rf-p300-12",
+      "brand": "Rockford Fosgate",
+      "name": "Rockford Fosgate Punch P300-12 12\" Powered Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": true,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Rockford Fosgate Punch P300-12 12\" Powered Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Backed by Rockford Fosgate engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "rockford fosgate",
+        "powered sub",
+        "punch",
+        "12 inch",
+        "subwoofers"
+      ],
+      "variants": [
+        {
+          "id": "rf-p300-12-std",
+          "sku": "RF-P300-12",
+          "name": "Rockford Fosgate Punch P300-12 12\" Powered Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 34900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
+          "imageUrl": "assets/img/products/rf-p300-12.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Powered subwoofer enclosure"
+            ],
+            [
+              "Size",
+              "12 inch"
+            ],
+            [
+              "RMS Power",
+              "300 W"
+            ],
+            [
+              "Amplifier",
+              "Built-in Punch amp"
+            ],
+            [
+              "Enclosure",
+              "Sealed wedge"
+            ]
+          ],
+          "notes": [
+            "Rockford Fosgate genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rf-p300-10",
+      "slug": "rf-p300-10",
+      "brand": "Rockford Fosgate",
+      "name": "Rockford Fosgate Punch P300-10 10\" Powered Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Rockford Fosgate Punch P300-10 10\" Powered Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Backed by Rockford Fosgate engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "rockford fosgate",
+        "powered sub",
+        "punch",
+        "10 inch",
+        "subwoofers"
+      ],
+      "variants": [
+        {
+          "id": "rf-p300-10-std",
+          "sku": "RF-P300-10",
+          "name": "Rockford Fosgate Punch P300-10 10\" Powered Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 31900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
+          "imageUrl": "assets/img/products/rf-p300-10.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Powered subwoofer enclosure"
+            ],
+            [
+              "Size",
+              "10 inch"
+            ],
+            [
+              "RMS Power",
+              "300 W"
+            ],
+            [
+              "Amplifier",
+              "Built-in Punch amp"
+            ]
+          ],
+          "notes": [
+            "Rockford Fosgate genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rf-p3d4-12",
+      "slug": "rf-p3d4-12",
+      "brand": "Rockford Fosgate",
+      "name": "Rockford Fosgate Punch P3D4-12 12\" Subwoofer (DVC 4-Ohm)",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": true,
+      "fitmentPolicy": "required",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Rockford Fosgate Punch P3D4-12 12\" Subwoofer (DVC 4-Ohm). Car subwoofer built to add deep, controlled low-end to your system. Backed by Rockford Fosgate engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "rockford fosgate",
+        "punch",
+        "12 inch",
+        "dvc",
+        "subwoofers"
+      ],
+      "variants": [
+        {
+          "id": "rf-p3d4-12-std",
+          "sku": "RF-P3D4-12",
+          "name": "Rockford Fosgate Punch P3D4-12 12\" Subwoofer (DVC 4-Ohm)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 19900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
+          "imageUrl": "assets/img/products/rf-p3d4-12.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "12 inch"
+            ],
+            [
+              "RMS Power",
+              "600 W"
+            ],
+            [
+              "Peak Power",
+              "1200 W"
+            ],
+            [
+              "Voice Coil",
+              "Dual 4-ohm"
+            ],
+            [
+              "Mounting Depth",
+              "6.66 in"
+            ]
+          ],
+          "notes": [
+            "Rockford Fosgate genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rf-p2d4-10",
+      "slug": "rf-p2d4-10",
+      "brand": "Rockford Fosgate",
+      "name": "Rockford Fosgate Punch P2D4-10 10\" Subwoofer (DVC 4-Ohm)",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Rockford Fosgate Punch P2D4-10 10\" Subwoofer (DVC 4-Ohm). Car subwoofer built to add deep, controlled low-end to your system. Backed by Rockford Fosgate engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "rockford fosgate",
+        "punch",
+        "10 inch",
+        "subwoofers"
+      ],
+      "variants": [
+        {
+          "id": "rf-p2d4-10-std",
+          "sku": "RF-P2D4-10",
+          "name": "Rockford Fosgate Punch P2D4-10 10\" Subwoofer (DVC 4-Ohm)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 14900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
+          "imageUrl": "assets/img/products/rf-p2d4-10.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "10 inch"
+            ],
+            [
+              "RMS Power",
+              "300 W"
+            ],
+            [
+              "Peak Power",
+              "600 W"
+            ],
+            [
+              "Voice Coil",
+              "Dual 4-ohm"
+            ]
+          ],
+          "notes": [
+            "Rockford Fosgate genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rf-r2d4-12",
+      "slug": "rf-r2d4-12",
+      "brand": "Rockford Fosgate",
+      "name": "Rockford Fosgate Prime R2D4-12 12\" Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Rockford Fosgate Prime R2D4-12 12\" Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Backed by Rockford Fosgate engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "rockford fosgate",
+        "prime",
+        "12 inch",
+        "subwoofers"
+      ],
+      "variants": [
+        {
+          "id": "rf-r2d4-12-std",
+          "sku": "RF-R2D4-12",
+          "name": "Rockford Fosgate Prime R2D4-12 12\" Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 11900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
+          "imageUrl": "assets/img/products/rf-r2d4-12.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "12 inch"
+            ],
+            [
+              "RMS Power",
+              "250 W"
+            ],
+            [
+              "Peak Power",
+              "500 W"
+            ],
+            [
+              "Voice Coil",
+              "Dual 4-ohm"
+            ]
+          ],
+          "notes": [
+            "Rockford Fosgate genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rf-r500x1d",
+      "slug": "rf-r500x1d",
+      "brand": "Rockford Fosgate",
+      "name": "Rockford Fosgate Prime R500X1D 500W Mono Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": true,
+      "fitmentPolicy": "required",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Rockford Fosgate Prime R500X1D 500W Mono Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Backed by Rockford Fosgate engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "rockford fosgate",
+        "mono",
+        "prime",
+        "500w",
+        "amplifiers"
+      ],
+      "variants": [
+        {
+          "id": "rf-r500x1d-std",
+          "sku": "RF-R500X1D",
+          "name": "Rockford Fosgate Prime R500X1D 500W Mono Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 22900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
+          "imageUrl": "assets/img/products/rf-r500x1d.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Channels",
+              "1 (mono)"
+            ],
+            [
+              "RMS @ 2 ohm",
+              "500 W x 1"
+            ],
+            [
+              "Class",
+              "D"
+            ],
+            [
+              "Topology",
+              "Prime"
+            ]
+          ],
+          "notes": [
+            "Rockford Fosgate genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rf-r1200-1d",
+      "slug": "rf-r1200-1d",
+      "brand": "Rockford Fosgate",
+      "name": "Rockford Fosgate Prime R1200-1D 1200W Mono Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Rockford Fosgate Prime R1200-1D 1200W Mono Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Backed by Rockford Fosgate engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "rockford fosgate",
+        "mono",
+        "1200w",
+        "amplifiers"
+      ],
+      "variants": [
+        {
+          "id": "rf-r1200-1d-std",
+          "sku": "RF-R1200-1D",
+          "name": "Rockford Fosgate Prime R1200-1D 1200W Mono Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 37900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
+          "imageUrl": "assets/img/products/rf-r1200-1d.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Channels",
+              "1 (mono)"
+            ],
+            [
+              "RMS @ 1 ohm",
+              "1200 W x 1"
+            ],
+            [
+              "Class",
+              "D"
+            ]
+          ],
+          "notes": [
+            "Rockford Fosgate genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rf-r150x2",
+      "slug": "rf-r150x2",
+      "brand": "Rockford Fosgate",
+      "name": "Rockford Fosgate Prime R150X2 2-Channel Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Rockford Fosgate Prime R150X2 2-Channel Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Backed by Rockford Fosgate engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "rockford fosgate",
+        "2 channel",
+        "prime",
+        "amplifiers"
+      ],
+      "variants": [
+        {
+          "id": "rf-r150x2-std",
+          "sku": "RF-R150X2",
+          "name": "Rockford Fosgate Prime R150X2 2-Channel Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 14900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
+          "imageUrl": "assets/img/products/rf-r150x2.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Channels",
+              "2"
+            ],
+            [
+              "RMS @ 2 ohm",
+              "150 W x 2"
+            ],
+            [
+              "Class",
+              "AB"
+            ]
+          ],
+          "notes": [
+            "Rockford Fosgate genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rf-t400-4",
+      "slug": "rf-t400-4",
+      "brand": "Rockford Fosgate",
+      "name": "Rockford Fosgate Power T400-4 400W 4-Channel Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Rockford Fosgate Power T400-4 400W 4-Channel Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Backed by Rockford Fosgate engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "rockford fosgate",
+        "4 channel",
+        "power",
+        "amplifiers"
+      ],
+      "variants": [
+        {
+          "id": "rf-t400-4-std",
+          "sku": "RF-T400-4",
+          "name": "Rockford Fosgate Power T400-4 400W 4-Channel Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 44900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
+          "imageUrl": "assets/img/products/rf-t400-4.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Channels",
+              "4"
+            ],
+            [
+              "RMS @ 2 ohm",
+              "100 W x 4"
+            ],
+            [
+              "Class",
+              "AB"
+            ]
+          ],
+          "notes": [
+            "Rockford Fosgate genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rf-r1675x2",
+      "slug": "rf-r1675x2",
+      "brand": "Rockford Fosgate",
+      "name": "Rockford Fosgate Prime R1675X2 6.75\" 2-Way Speakers (Pair)",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Rockford Fosgate Prime R1675X2 6.75\" 2-Way Speakers (Pair). Full-range or component car speaker engineered for clear, balanced sound. Backed by Rockford Fosgate engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "rockford fosgate",
+        "6.75",
+        "coaxial",
+        "speakers"
+      ],
+      "variants": [
+        {
+          "id": "rf-r1675x2-std",
+          "sku": "RF-R1675X2",
+          "name": "Rockford Fosgate Prime R1675X2 6.75\" 2-Way Speakers (Pair)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 7900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
+          "imageUrl": "assets/img/products/rf-r1675x2.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "6.75 inch"
+            ],
+            [
+              "Type",
+              "2-way coaxial"
+            ],
+            [
+              "RMS Power",
+              "45 W"
+            ],
+            [
+              "Peak Power",
+              "90 W"
+            ]
+          ],
+          "notes": [
+            "Rockford Fosgate genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rf-r169x2",
+      "slug": "rf-r169x2",
+      "brand": "Rockford Fosgate",
+      "name": "Rockford Fosgate Prime R169X2 6x9\" 2-Way Speakers (Pair)",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Rockford Fosgate Prime R169X2 6x9\" 2-Way Speakers (Pair). Full-range or component car speaker engineered for clear, balanced sound. Backed by Rockford Fosgate engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "rockford fosgate",
+        "6x9",
+        "coaxial",
+        "speakers"
+      ],
+      "variants": [
+        {
+          "id": "rf-r169x2-std",
+          "sku": "RF-R169X2",
+          "name": "Rockford Fosgate Prime R169X2 6x9\" 2-Way Speakers (Pair)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 8900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
+          "imageUrl": "assets/img/products/rf-r169x2.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "6 x 9 inch"
+            ],
+            [
+              "Type",
+              "2-way coaxial"
+            ],
+            [
+              "RMS Power",
+              "65 W"
+            ],
+            [
+              "Peak Power",
+              "130 W"
+            ]
+          ],
+          "notes": [
+            "Rockford Fosgate genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rf-p1692",
+      "slug": "rf-p1692",
+      "brand": "Rockford Fosgate",
+      "name": "Rockford Fosgate Punch P1692 6x9\" 2-Way Speakers (Pair)",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Rockford Fosgate Punch P1692 6x9\" 2-Way Speakers (Pair). Full-range or component car speaker engineered for clear, balanced sound. Backed by Rockford Fosgate engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "rockford fosgate",
+        "6x9",
+        "punch",
+        "speakers"
+      ],
+      "variants": [
+        {
+          "id": "rf-p1692-std",
+          "sku": "RF-P1692",
+          "name": "Rockford Fosgate Punch P1692 6x9\" 2-Way Speakers (Pair)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 13900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
+          "imageUrl": "assets/img/products/rf-p1692.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "6 x 9 inch"
+            ],
+            [
+              "Type",
+              "2-way coaxial"
+            ],
+            [
+              "RMS Power",
+              "75 W"
+            ],
+            [
+              "Peak Power",
+              "150 W"
+            ]
+          ],
+          "notes": [
+            "Rockford Fosgate genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rf-pm282",
+      "slug": "rf-pm282",
+      "brand": "Rockford Fosgate",
+      "name": "Rockford Fosgate Punch PM282 8\" Marine / Powersports Speakers (Pair)",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Rockford Fosgate Punch PM282 8\" Marine / Powersports Speakers (Pair). Full-range or component car speaker engineered for clear, balanced sound. Backed by Rockford Fosgate engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "rockford fosgate",
+        "marine",
+        "8 inch",
+        "speakers"
+      ],
+      "variants": [
+        {
+          "id": "rf-pm282-std",
+          "sku": "RF-PM282",
+          "name": "Rockford Fosgate Punch PM282 8\" Marine / Powersports Speakers (Pair)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 22900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
+          "imageUrl": "assets/img/products/rf-pm282.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "8 inch"
+            ],
+            [
+              "Type",
+              "2-way marine"
+            ],
+            [
+              "RMS Power",
+              "100 W"
+            ],
+            [
+              "Rating",
+              "UV / water resistant"
+            ]
+          ],
+          "notes": [
+            "Rockford Fosgate genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rf-dsr1",
+      "slug": "rf-dsr1",
+      "brand": "Rockford Fosgate",
+      "name": "Rockford Fosgate DSR1 8-Channel Interactive Signal Processor",
+      "category": "installation",
+      "visualType": "installation",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Car audio installation accessory for a clean, secure, factory-quality install.",
+      "description": "Rockford Fosgate DSR1 8-Channel Interactive Signal Processor. Car audio installation accessory for a clean, secure, factory-quality install. Backed by Rockford Fosgate engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "rockford fosgate",
+        "dsp",
+        "processor",
+        "installation"
+      ],
+      "variants": [
+        {
+          "id": "rf-dsr1-std",
+          "sku": "RF-DSR1",
+          "name": "Rockford Fosgate DSR1 8-Channel Interactive Signal Processor",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 29900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
+          "imageUrl": "assets/img/products/rf-dsr1.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Digital signal processor"
+            ],
+            [
+              "Channels",
+              "8"
+            ],
+            [
+              "Control",
+              "App / Bluetooth"
+            ]
+          ],
+          "notes": [
+            "Rockford Fosgate genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alpine-ilx-w670",
+      "slug": "alpine-ilx-w670",
+      "brand": "Alpine",
+      "name": "Alpine iLX-W670 7\" Digital Multimedia Receiver (CarPlay / Android Auto)",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": true,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Alpine iLX-W670 7\" Digital Multimedia Receiver (CarPlay / Android Auto). In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Backed by Alpine engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "alpine",
+        "carplay",
+        "android auto",
+        "7 inch",
+        "receivers"
+      ],
+      "variants": [
+        {
+          "id": "alpine-ilx-w670-std",
+          "sku": "ALPINE-ILX-W670",
+          "name": "Alpine iLX-W670 7\" Digital Multimedia Receiver (CarPlay / Android Auto)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 39900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.alpine-usa.com/product/",
+          "imageUrl": "assets/img/products/alpine-ilx-w670.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Display",
+              "7 inch touchscreen"
+            ],
+            [
+              "CarPlay",
+              "Apple CarPlay"
+            ],
+            [
+              "Android Auto",
+              "Yes"
+            ],
+            [
+              "Chassis",
+              "Short chassis"
+            ]
+          ],
+          "notes": [
+            "Alpine genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alpine-ilx-507",
+      "slug": "alpine-ilx-507",
+      "brand": "Alpine",
+      "name": "Alpine iLX-507 7\" Multimedia Receiver (Wireless CarPlay)",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Alpine iLX-507 7\" Multimedia Receiver (Wireless CarPlay). In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Backed by Alpine engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "alpine",
+        "wireless carplay",
+        "7 inch",
+        "receivers"
+      ],
+      "variants": [
+        {
+          "id": "alpine-ilx-507-std",
+          "sku": "ALPINE-ILX-507",
+          "name": "Alpine iLX-507 7\" Multimedia Receiver (Wireless CarPlay)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 59900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.alpine-usa.com/product/",
+          "imageUrl": "assets/img/products/alpine-ilx-507.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Display",
+              "7 inch touchscreen"
+            ],
+            [
+              "CarPlay",
+              "Wireless CarPlay"
+            ],
+            [
+              "Android Auto",
+              "Wireless"
+            ],
+            [
+              "Camera input",
+              "Yes"
+            ]
+          ],
+          "notes": [
+            "Alpine genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alpine-ute-73bt",
+      "slug": "alpine-ute-73bt",
+      "brand": "Alpine",
+      "name": "Alpine UTE-73BT Digital Media Receiver with Bluetooth",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Alpine UTE-73BT Digital Media Receiver with Bluetooth. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Backed by Alpine engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "alpine",
+        "bluetooth",
+        "digital media",
+        "receivers"
+      ],
+      "variants": [
+        {
+          "id": "alpine-ute-73bt-std",
+          "sku": "ALPINE-UTE-73BT",
+          "name": "Alpine UTE-73BT Digital Media Receiver with Bluetooth",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 15900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.alpine-usa.com/product/",
+          "imageUrl": "assets/img/products/alpine-ute-73bt.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Digital media (no CD)"
+            ],
+            [
+              "Bluetooth",
+              "Built-in"
+            ],
+            [
+              "USB",
+              "Front USB"
+            ],
+            [
+              "Preouts",
+              "2 x 2V"
+            ]
+          ],
+          "notes": [
+            "Alpine genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alpine-s-s65",
+      "slug": "alpine-s-s65",
+      "brand": "Alpine",
+      "name": "Alpine S-S65 S-Series 6.5\" Coaxial Speakers (Pair)",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": true,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Alpine S-S65 S-Series 6.5\" Coaxial Speakers (Pair). Full-range or component car speaker engineered for clear, balanced sound. Backed by Alpine engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "alpine",
+        "6.5",
+        "s-series",
+        "speakers"
+      ],
+      "variants": [
+        {
+          "id": "alpine-s-s65-std",
+          "sku": "ALPINE-S-S65",
+          "name": "Alpine S-S65 S-Series 6.5\" Coaxial Speakers (Pair)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 11900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.alpine-usa.com/product/",
+          "imageUrl": "assets/img/products/alpine-s-s65.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "6.5 inch"
+            ],
+            [
+              "Type",
+              "2-way coaxial"
+            ],
+            [
+              "RMS Power",
+              "80 W"
+            ],
+            [
+              "Peak Power",
+              "240 W"
+            ]
+          ],
+          "notes": [
+            "Alpine genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alpine-s-s69",
+      "slug": "alpine-s-s69",
+      "brand": "Alpine",
+      "name": "Alpine S-S69 S-Series 6x9\" Coaxial Speakers (Pair)",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Alpine S-S69 S-Series 6x9\" Coaxial Speakers (Pair). Full-range or component car speaker engineered for clear, balanced sound. Backed by Alpine engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "alpine",
+        "6x9",
+        "s-series",
+        "speakers"
+      ],
+      "variants": [
+        {
+          "id": "alpine-s-s69-std",
+          "sku": "ALPINE-S-S69",
+          "name": "Alpine S-S69 S-Series 6x9\" Coaxial Speakers (Pair)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 13900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.alpine-usa.com/product/",
+          "imageUrl": "assets/img/products/alpine-s-s69.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "6 x 9 inch"
+            ],
+            [
+              "Type",
+              "2-way coaxial"
+            ],
+            [
+              "RMS Power",
+              "85 W"
+            ],
+            [
+              "Peak Power",
+              "260 W"
+            ]
+          ],
+          "notes": [
+            "Alpine genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alpine-s-s65c",
+      "slug": "alpine-s-s65c",
+      "brand": "Alpine",
+      "name": "Alpine S-S65C S-Series 6.5\" Component Speaker System",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Alpine S-S65C S-Series 6.5\" Component Speaker System. Full-range or component car speaker engineered for clear, balanced sound. Backed by Alpine engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "alpine",
+        "component",
+        "6.5",
+        "speakers"
+      ],
+      "variants": [
+        {
+          "id": "alpine-s-s65c-std",
+          "sku": "ALPINE-S-S65C",
+          "name": "Alpine S-S65C S-Series 6.5\" Component Speaker System",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 17900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.alpine-usa.com/product/",
+          "imageUrl": "assets/img/products/alpine-s-s65c.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "6.5 inch"
+            ],
+            [
+              "Type",
+              "Component"
+            ],
+            [
+              "RMS Power",
+              "85 W"
+            ],
+            [
+              "Peak Power",
+              "260 W"
+            ]
+          ],
+          "notes": [
+            "Alpine genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alpine-s-w12d4",
+      "slug": "alpine-s-w12d4",
+      "brand": "Alpine",
+      "name": "Alpine S-W12D4 S-Series 12\" Subwoofer (DVC 4-Ohm)",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": true,
+      "fitmentPolicy": "required",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Alpine S-W12D4 S-Series 12\" Subwoofer (DVC 4-Ohm). Car subwoofer built to add deep, controlled low-end to your system. Backed by Alpine engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "alpine",
+        "12 inch",
+        "s-series",
+        "subwoofers"
+      ],
+      "variants": [
+        {
+          "id": "alpine-s-w12d4-std",
+          "sku": "ALPINE-S-W12D4",
+          "name": "Alpine S-W12D4 S-Series 12\" Subwoofer (DVC 4-Ohm)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 19900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.alpine-usa.com/product/",
+          "imageUrl": "assets/img/products/alpine-s-w12d4.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "12 inch"
+            ],
+            [
+              "RMS Power",
+              "600 W"
+            ],
+            [
+              "Peak Power",
+              "1800 W"
+            ],
+            [
+              "Voice Coil",
+              "Dual 4-ohm"
+            ]
+          ],
+          "notes": [
+            "Alpine genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alpine-r-w12d4",
+      "slug": "alpine-r-w12d4",
+      "brand": "Alpine",
+      "name": "Alpine R-W12D4 R-Series 12\" Subwoofer (DVC 4-Ohm)",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Alpine R-W12D4 R-Series 12\" Subwoofer (DVC 4-Ohm). Car subwoofer built to add deep, controlled low-end to your system. Backed by Alpine engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "alpine",
+        "12 inch",
+        "r-series",
+        "subwoofers"
+      ],
+      "variants": [
+        {
+          "id": "alpine-r-w12d4-std",
+          "sku": "ALPINE-R-W12D4",
+          "name": "Alpine R-W12D4 R-Series 12\" Subwoofer (DVC 4-Ohm)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 34900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.alpine-usa.com/product/",
+          "imageUrl": "assets/img/products/alpine-r-w12d4.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "12 inch"
+            ],
+            [
+              "RMS Power",
+              "750 W"
+            ],
+            [
+              "Peak Power",
+              "2250 W"
+            ],
+            [
+              "Voice Coil",
+              "Dual 4-ohm"
+            ]
+          ],
+          "notes": [
+            "Alpine genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alpine-s-a60m",
+      "slug": "alpine-s-a60m",
+      "brand": "Alpine",
+      "name": "Alpine S-A60M S-Series Mono Subwoofer Amplifier (600W)",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Alpine S-A60M S-Series Mono Subwoofer Amplifier (600W). Car amplifier delivering clean, dependable power for speakers or subwoofers. Backed by Alpine engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "alpine",
+        "mono",
+        "600w",
+        "amplifiers"
+      ],
+      "variants": [
+        {
+          "id": "alpine-s-a60m-std",
+          "sku": "ALPINE-S-A60M",
+          "name": "Alpine S-A60M S-Series Mono Subwoofer Amplifier (600W)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 24900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.alpine-usa.com/product/",
+          "imageUrl": "assets/img/products/alpine-s-a60m.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Channels",
+              "1 (mono)"
+            ],
+            [
+              "RMS @ 2 ohm",
+              "600 W x 1"
+            ],
+            [
+              "Class",
+              "D"
+            ]
+          ],
+          "notes": [
+            "Alpine genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alpine-s-a32f",
+      "slug": "alpine-s-a32f",
+      "brand": "Alpine",
+      "name": "Alpine S-A32F S-Series 4-Channel Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Alpine S-A32F S-Series 4-Channel Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Backed by Alpine engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "alpine",
+        "4 channel",
+        "amplifiers"
+      ],
+      "variants": [
+        {
+          "id": "alpine-s-a32f-std",
+          "sku": "ALPINE-S-A32F",
+          "name": "Alpine S-A32F S-Series 4-Channel Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 22900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.alpine-usa.com/product/",
+          "imageUrl": "assets/img/products/alpine-s-a32f.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Channels",
+              "4"
+            ],
+            [
+              "RMS @ 2 ohm",
+              "55 W x 4"
+            ],
+            [
+              "Class",
+              "D"
+            ]
+          ],
+          "notes": [
+            "Alpine genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alpine-k-a450",
+      "slug": "alpine-k-a450",
+      "brand": "Alpine",
+      "name": "Alpine KTA-450 Power Pack Compact 4-Channel Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Alpine KTA-450 Power Pack Compact 4-Channel Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Backed by Alpine engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "alpine",
+        "compact",
+        "power pack",
+        "amplifiers"
+      ],
+      "variants": [
+        {
+          "id": "alpine-k-a450-std",
+          "sku": "ALPINE-K-A450",
+          "name": "Alpine KTA-450 Power Pack Compact 4-Channel Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 29900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.alpine-usa.com/product/",
+          "imageUrl": "assets/img/products/alpine-k-a450.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Channels",
+              "4"
+            ],
+            [
+              "RMS @ 4 ohm",
+              "45 W x 4"
+            ],
+            [
+              "Mount",
+              "Hideaway / compact"
+            ]
+          ],
+          "notes": [
+            "Alpine genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pioneer-dmh-w2770nex",
+      "slug": "pioneer-dmh-w2770nex",
+      "brand": "Pioneer",
+      "name": "Pioneer DMH-W2770NEX 6.8\" Digital Multimedia Receiver (CarPlay / Android Auto)",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": true,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Pioneer DMH-W2770NEX 6.8\" Digital Multimedia Receiver (CarPlay / Android Auto). In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Backed by Pioneer engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "pioneer",
+        "carplay",
+        "6.8 inch",
+        "receivers"
+      ],
+      "variants": [
+        {
+          "id": "pioneer-dmh-w2770nex-std",
+          "sku": "PIONEER-DMH-W2770NEX",
+          "name": "Pioneer DMH-W2770NEX 6.8\" Digital Multimedia Receiver (CarPlay / Android Auto)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 39900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/pioneer-dmh-w2770nex.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Display",
+              "6.8 inch touchscreen"
+            ],
+            [
+              "CarPlay",
+              "Apple CarPlay"
+            ],
+            [
+              "Android Auto",
+              "Yes"
+            ],
+            [
+              "Bluetooth",
+              "Built-in"
+            ]
+          ],
+          "notes": [
+            "Pioneer genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pioneer-avh-2550nex",
+      "slug": "pioneer-avh-2550nex",
+      "brand": "Pioneer",
+      "name": "Pioneer AVH-2550NEX 6.8\" DVD Receiver (CarPlay / Android Auto)",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Pioneer AVH-2550NEX 6.8\" DVD Receiver (CarPlay / Android Auto). In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Backed by Pioneer engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "pioneer",
+        "dvd",
+        "carplay",
+        "receivers"
+      ],
+      "variants": [
+        {
+          "id": "pioneer-avh-2550nex-std",
+          "sku": "PIONEER-AVH-2550NEX",
+          "name": "Pioneer AVH-2550NEX 6.8\" DVD Receiver (CarPlay / Android Auto)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 49900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/pioneer-avh-2550nex.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Display",
+              "6.8 inch touchscreen"
+            ],
+            [
+              "CD/DVD",
+              "Yes"
+            ],
+            [
+              "CarPlay",
+              "Apple CarPlay"
+            ],
+            [
+              "Android Auto",
+              "Yes"
+            ]
+          ],
+          "notes": [
+            "Pioneer genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pioneer-mvh-s522bs",
+      "slug": "pioneer-mvh-s522bs",
+      "brand": "Pioneer",
+      "name": "Pioneer MVH-S522BS Digital Media Receiver with Bluetooth",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Pioneer MVH-S522BS Digital Media Receiver with Bluetooth. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Backed by Pioneer engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "pioneer",
+        "bluetooth",
+        "digital media",
+        "receivers"
+      ],
+      "variants": [
+        {
+          "id": "pioneer-mvh-s522bs-std",
+          "sku": "PIONEER-MVH-S522BS",
+          "name": "Pioneer MVH-S522BS Digital Media Receiver with Bluetooth",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 13900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/pioneer-mvh-s522bs.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Digital media (no CD)"
+            ],
+            [
+              "Bluetooth",
+              "Built-in"
+            ],
+            [
+              "USB",
+              "Front USB"
+            ]
+          ],
+          "notes": [
+            "Pioneer genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pioneer-ts-a6991f",
+      "slug": "pioneer-ts-a6991f",
+      "brand": "Pioneer",
+      "name": "Pioneer TS-A6991F A-Series 6x9\" 5-Way Speakers (Pair)",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Pioneer TS-A6991F A-Series 6x9\" 5-Way Speakers (Pair). Full-range or component car speaker engineered for clear, balanced sound. Backed by Pioneer engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "pioneer",
+        "6x9",
+        "a-series",
+        "speakers"
+      ],
+      "variants": [
+        {
+          "id": "pioneer-ts-a6991f-std",
+          "sku": "PIONEER-TS-A6991F",
+          "name": "Pioneer TS-A6991F A-Series 6x9\" 5-Way Speakers (Pair)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 14900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/pioneer-ts-a6991f.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "6 x 9 inch"
+            ],
+            [
+              "Type",
+              "5-way coaxial"
+            ],
+            [
+              "Peak Power",
+              "650 W"
+            ]
+          ],
+          "notes": [
+            "Pioneer genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pioneer-ts-a1681f",
+      "slug": "pioneer-ts-a1681f",
+      "brand": "Pioneer",
+      "name": "Pioneer TS-A1681F A-Series 6.5\" 4-Way Speakers (Pair)",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Pioneer TS-A1681F A-Series 6.5\" 4-Way Speakers (Pair). Full-range or component car speaker engineered for clear, balanced sound. Backed by Pioneer engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "pioneer",
+        "6.5",
+        "a-series",
+        "speakers"
+      ],
+      "variants": [
+        {
+          "id": "pioneer-ts-a1681f-std",
+          "sku": "PIONEER-TS-A1681F",
+          "name": "Pioneer TS-A1681F A-Series 6.5\" 4-Way Speakers (Pair)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 11900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/pioneer-ts-a1681f.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "6.5 inch"
+            ],
+            [
+              "Type",
+              "4-way coaxial"
+            ],
+            [
+              "Peak Power",
+              "350 W"
+            ]
+          ],
+          "notes": [
+            "Pioneer genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pioneer-ts-a301d4",
+      "slug": "pioneer-ts-a301d4",
+      "brand": "Pioneer",
+      "name": "Pioneer TS-A301D4 A-Series 12\" Subwoofer (DVC 4-Ohm)",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Pioneer TS-A301D4 A-Series 12\" Subwoofer (DVC 4-Ohm). Car subwoofer built to add deep, controlled low-end to your system. Backed by Pioneer engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "pioneer",
+        "12 inch",
+        "a-series",
+        "subwoofers"
+      ],
+      "variants": [
+        {
+          "id": "pioneer-ts-a301d4-std",
+          "sku": "PIONEER-TS-A301D4",
+          "name": "Pioneer TS-A301D4 A-Series 12\" Subwoofer (DVC 4-Ohm)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 14900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/pioneer-ts-a301d4.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "12 inch"
+            ],
+            [
+              "RMS Power",
+              "500 W"
+            ],
+            [
+              "Peak Power",
+              "1500 W"
+            ],
+            [
+              "Voice Coil",
+              "Dual 4-ohm"
+            ]
+          ],
+          "notes": [
+            "Pioneer genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pioneer-ts-sw2502s4",
+      "slug": "pioneer-ts-sw2502s4",
+      "brand": "Pioneer",
+      "name": "Pioneer TS-SW2502S4 10\" Shallow-Mount Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Pioneer TS-SW2502S4 10\" Shallow-Mount Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Backed by Pioneer engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "pioneer",
+        "shallow",
+        "10 inch",
+        "subwoofers"
+      ],
+      "variants": [
+        {
+          "id": "pioneer-ts-sw2502s4-std",
+          "sku": "PIONEER-TS-SW2502S4",
+          "name": "Pioneer TS-SW2502S4 10\" Shallow-Mount Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 16900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/pioneer-ts-sw2502s4.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "10 inch"
+            ],
+            [
+              "Type",
+              "Shallow mount"
+            ],
+            [
+              "RMS Power",
+              "300 W"
+            ],
+            [
+              "Depth",
+              "3.625 in"
+            ]
+          ],
+          "notes": [
+            "Pioneer genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pioneer-gm-d9701",
+      "slug": "pioneer-gm-d9701",
+      "brand": "Pioneer",
+      "name": "Pioneer GM-D9701 2400W Max Mono Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Pioneer GM-D9701 2400W Max Mono Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Backed by Pioneer engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "pioneer",
+        "mono",
+        "2400w",
+        "amplifiers"
+      ],
+      "variants": [
+        {
+          "id": "pioneer-gm-d9701-std",
+          "sku": "PIONEER-GM-D9701",
+          "name": "Pioneer GM-D9701 2400W Max Mono Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 24900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/pioneer-gm-d9701.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Channels",
+              "1 (mono)"
+            ],
+            [
+              "RMS @ 1 ohm",
+              "1200 W x 1"
+            ],
+            [
+              "Class",
+              "D"
+            ]
+          ],
+          "notes": [
+            "Pioneer genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pioneer-gm-d8704",
+      "slug": "pioneer-gm-d8704",
+      "brand": "Pioneer",
+      "name": "Pioneer GM-D8704 1200W Max 4-Channel Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Pioneer GM-D8704 1200W Max 4-Channel Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Backed by Pioneer engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "pioneer",
+        "4 channel",
+        "amplifiers"
+      ],
+      "variants": [
+        {
+          "id": "pioneer-gm-d8704-std",
+          "sku": "PIONEER-GM-D8704",
+          "name": "Pioneer GM-D8704 1200W Max 4-Channel Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 22900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/pioneer-gm-d8704.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Channels",
+              "4"
+            ],
+            [
+              "RMS @ 4 ohm",
+              "100 W x 4"
+            ],
+            [
+              "Class",
+              "FD"
+            ]
+          ],
+          "notes": [
+            "Pioneer genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kenwood-dmx809s",
+      "slug": "kenwood-dmx809s",
+      "brand": "Kenwood",
+      "name": "Kenwood DMX809S 6.8\" Digital Multimedia Receiver (CarPlay / Android Auto)",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": true,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Kenwood DMX809S 6.8\" Digital Multimedia Receiver (CarPlay / Android Auto). In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Backed by Kenwood engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "kenwood",
+        "carplay",
+        "6.8 inch",
+        "receivers"
+      ],
+      "variants": [
+        {
+          "id": "kenwood-dmx809s-std",
+          "sku": "KENWOOD-DMX809S",
+          "name": "Kenwood DMX809S 6.8\" Digital Multimedia Receiver (CarPlay / Android Auto)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 44900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/kenwood-dmx809s.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Display",
+              "6.8 inch touchscreen"
+            ],
+            [
+              "CarPlay",
+              "Apple CarPlay"
+            ],
+            [
+              "Android Auto",
+              "Yes"
+            ],
+            [
+              "Camera input",
+              "Yes"
+            ]
+          ],
+          "notes": [
+            "Kenwood genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kenwood-kdc-bt282u",
+      "slug": "kenwood-kdc-bt282u",
+      "brand": "Kenwood",
+      "name": "Kenwood KDC-BT282U CD Receiver with Bluetooth",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Kenwood KDC-BT282U CD Receiver with Bluetooth. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Backed by Kenwood engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "kenwood",
+        "cd",
+        "bluetooth",
+        "receivers"
+      ],
+      "variants": [
+        {
+          "id": "kenwood-kdc-bt282u-std",
+          "sku": "KENWOOD-KDC-BT282U",
+          "name": "Kenwood KDC-BT282U CD Receiver with Bluetooth",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 14900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/kenwood-kdc-bt282u.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "CD receiver"
+            ],
+            [
+              "Bluetooth",
+              "Built-in"
+            ],
+            [
+              "USB",
+              "Front USB"
+            ],
+            [
+              "Preouts",
+              "2 x 2.5V"
+            ]
+          ],
+          "notes": [
+            "Kenwood genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kenwood-kmm-bt332u",
+      "slug": "kenwood-kmm-bt332u",
+      "brand": "Kenwood",
+      "name": "Kenwood KMM-BT332U Digital Media Receiver with Bluetooth",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Kenwood KMM-BT332U Digital Media Receiver with Bluetooth. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Backed by Kenwood engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "kenwood",
+        "bluetooth",
+        "digital media",
+        "receivers"
+      ],
+      "variants": [
+        {
+          "id": "kenwood-kmm-bt332u-std",
+          "sku": "KENWOOD-KMM-BT332U",
+          "name": "Kenwood KMM-BT332U Digital Media Receiver with Bluetooth",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 12900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/kenwood-kmm-bt332u.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Digital media (no CD)"
+            ],
+            [
+              "Bluetooth",
+              "Built-in"
+            ],
+            [
+              "USB",
+              "Front USB"
+            ]
+          ],
+          "notes": [
+            "Kenwood genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kenwood-kfc-6966s",
+      "slug": "kenwood-kfc-6966s",
+      "brand": "Kenwood",
+      "name": "Kenwood KFC-6966S 6x9\" 3-Way Speakers (Pair)",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Kenwood KFC-6966S 6x9\" 3-Way Speakers (Pair). Full-range or component car speaker engineered for clear, balanced sound. Backed by Kenwood engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "kenwood",
+        "6x9",
+        "3-way",
+        "speakers"
+      ],
+      "variants": [
+        {
+          "id": "kenwood-kfc-6966s-std",
+          "sku": "KENWOOD-KFC-6966S",
+          "name": "Kenwood KFC-6966S 6x9\" 3-Way Speakers (Pair)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 8900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/kenwood-kfc-6966s.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "6 x 9 inch"
+            ],
+            [
+              "Type",
+              "3-way coaxial"
+            ],
+            [
+              "Peak Power",
+              "400 W"
+            ]
+          ],
+          "notes": [
+            "Kenwood genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kenwood-kfc-1666s",
+      "slug": "kenwood-kfc-1666s",
+      "brand": "Kenwood",
+      "name": "Kenwood KFC-1666S 6.5\" 2-Way Speakers (Pair)",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Kenwood KFC-1666S 6.5\" 2-Way Speakers (Pair). Full-range or component car speaker engineered for clear, balanced sound. Backed by Kenwood engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "kenwood",
+        "6.5",
+        "2-way",
+        "speakers"
+      ],
+      "variants": [
+        {
+          "id": "kenwood-kfc-1666s-std",
+          "sku": "KENWOOD-KFC-1666S",
+          "name": "Kenwood KFC-1666S 6.5\" 2-Way Speakers (Pair)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/kenwood-kfc-1666s.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "6.5 inch"
+            ],
+            [
+              "Type",
+              "2-way coaxial"
+            ],
+            [
+              "Peak Power",
+              "300 W"
+            ]
+          ],
+          "notes": [
+            "Kenwood genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kenwood-kfc-w3016ps",
+      "slug": "kenwood-kfc-w3016ps",
+      "brand": "Kenwood",
+      "name": "Kenwood KFC-W3016PS 12\" Performance Series Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Kenwood KFC-W3016PS 12\" Performance Series Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Backed by Kenwood engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "kenwood",
+        "12 inch",
+        "subwoofers"
+      ],
+      "variants": [
+        {
+          "id": "kenwood-kfc-w3016ps-std",
+          "sku": "KENWOOD-KFC-W3016PS",
+          "name": "Kenwood KFC-W3016PS 12\" Performance Series Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 13900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/kenwood-kfc-w3016ps.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "12 inch"
+            ],
+            [
+              "RMS Power",
+              "400 W"
+            ],
+            [
+              "Peak Power",
+              "2000 W"
+            ],
+            [
+              "Voice Coil",
+              "Single 4-ohm"
+            ]
+          ],
+          "notes": [
+            "Kenwood genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kenwood-x502-1",
+      "slug": "kenwood-x502-1",
+      "brand": "Kenwood",
+      "name": "Kenwood Excelon X502-1 Class-D Mono Subwoofer Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Kenwood Excelon X502-1 Class-D Mono Subwoofer Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Backed by Kenwood engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "kenwood",
+        "mono",
+        "excelon",
+        "amplifiers"
+      ],
+      "variants": [
+        {
+          "id": "kenwood-x502-1-std",
+          "sku": "KENWOOD-X502-1",
+          "name": "Kenwood Excelon X502-1 Class-D Mono Subwoofer Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 27900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/kenwood-x502-1.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Channels",
+              "1 (mono)"
+            ],
+            [
+              "RMS @ 2 ohm",
+              "500 W x 1"
+            ],
+            [
+              "Class",
+              "D"
+            ]
+          ],
+          "notes": [
+            "Kenwood genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kenwood-x802-5",
+      "slug": "kenwood-x802-5",
+      "brand": "Kenwood",
+      "name": "Kenwood Excelon X802-5 5-Channel Power Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Kenwood Excelon X802-5 5-Channel Power Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Backed by Kenwood engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "kenwood",
+        "5 channel",
+        "excelon",
+        "amplifiers"
+      ],
+      "variants": [
+        {
+          "id": "kenwood-x802-5-std",
+          "sku": "KENWOOD-X802-5",
+          "name": "Kenwood Excelon X802-5 5-Channel Power Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 49900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/kenwood-x802-5.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Channels",
+              "5"
+            ],
+            [
+              "RMS @ 2 ohm",
+              "75 W x 4 + 500 W x 1"
+            ],
+            [
+              "Class",
+              "D"
+            ]
+          ],
+          "notes": [
+            "Kenwood genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gravity-gr-12pw",
+      "slug": "gravity-gr-12pw",
+      "brand": "Gravity",
+      "name": "Gravity GR-12PW 12\" Car Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Gravity GR-12PW 12\" Car Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Backed by Gravity engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "12 inch",
+        "budget",
+        "subwoofers"
+      ],
+      "variants": [
+        {
+          "id": "gravity-gr-12pw-std",
+          "sku": "GRAVITY-GR-12PW",
+          "name": "Gravity GR-12PW 12\" Car Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 7900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/gravity-gr-12pw.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "12 inch"
+            ],
+            [
+              "Type",
+              "Single voice coil"
+            ],
+            [
+              "Application",
+              "Car audio"
+            ]
+          ],
+          "notes": [
+            "Gravity genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gravity-gr-10pw",
+      "slug": "gravity-gr-10pw",
+      "brand": "Gravity",
+      "name": "Gravity GR-10PW 10\" Car Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Gravity GR-10PW 10\" Car Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Backed by Gravity engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "10 inch",
+        "budget",
+        "subwoofers"
+      ],
+      "variants": [
+        {
+          "id": "gravity-gr-10pw-std",
+          "sku": "GRAVITY-GR-10PW",
+          "name": "Gravity GR-10PW 10\" Car Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 6900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/gravity-gr-10pw.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "10 inch"
+            ],
+            [
+              "Type",
+              "Single voice coil"
+            ]
+          ],
+          "notes": [
+            "Gravity genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gravity-gr-2500-1d",
+      "slug": "gravity-gr-2500-1d",
+      "brand": "Gravity",
+      "name": "Gravity GR-2500.1D 2500W Max Mono Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Gravity GR-2500.1D 2500W Max Mono Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Backed by Gravity engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "mono",
+        "budget",
+        "amplifiers"
+      ],
+      "variants": [
+        {
+          "id": "gravity-gr-2500-1d-std",
+          "sku": "GRAVITY-GR-2500-1D",
+          "name": "Gravity GR-2500.1D 2500W Max Mono Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 14900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/gravity-gr-2500-1d.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Channels",
+              "1 (mono)"
+            ],
+            [
+              "Max Power",
+              "2500 W"
+            ],
+            [
+              "Class",
+              "D"
+            ]
+          ],
+          "notes": [
+            "Gravity genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gravity-gr-800-4",
+      "slug": "gravity-gr-800-4",
+      "brand": "Gravity",
+      "name": "Gravity GR-800.4 4-Channel Car Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Gravity GR-800.4 4-Channel Car Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Backed by Gravity engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "4 channel",
+        "budget",
+        "amplifiers"
+      ],
+      "variants": [
+        {
+          "id": "gravity-gr-800-4-std",
+          "sku": "GRAVITY-GR-800-4",
+          "name": "Gravity GR-800.4 4-Channel Car Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 11900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/gravity-gr-800-4.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Channels",
+              "4"
+            ],
+            [
+              "Max Power",
+              "800 W"
+            ]
+          ],
+          "notes": [
+            "Gravity genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gravity-gr-695",
+      "slug": "gravity-gr-695",
+      "brand": "Gravity",
+      "name": "Gravity GR-695 6x9\" Coaxial Speakers (Pair)",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Gravity GR-695 6x9\" Coaxial Speakers (Pair). Full-range or component car speaker engineered for clear, balanced sound. Backed by Gravity engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "6x9",
+        "budget",
+        "speakers"
+      ],
+      "variants": [
+        {
+          "id": "gravity-gr-695-std",
+          "sku": "GRAVITY-GR-695",
+          "name": "Gravity GR-695 6x9\" Coaxial Speakers (Pair)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 4900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/gravity-gr-695.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "6 x 9 inch"
+            ],
+            [
+              "Type",
+              "Coaxial"
+            ]
+          ],
+          "notes": [
+            "Gravity genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gravity-gr-654",
+      "slug": "gravity-gr-654",
+      "brand": "Gravity",
+      "name": "Gravity GR-654 6.5\" Coaxial Speakers (Pair)",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Gravity GR-654 6.5\" Coaxial Speakers (Pair). Full-range or component car speaker engineered for clear, balanced sound. Backed by Gravity engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "6.5",
+        "budget",
+        "speakers"
+      ],
+      "variants": [
+        {
+          "id": "gravity-gr-654-std",
+          "sku": "GRAVITY-GR-654",
+          "name": "Gravity GR-654 6.5\" Coaxial Speakers (Pair)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 3900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/gravity-gr-654.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "6.5 inch"
+            ],
+            [
+              "Type",
+              "Coaxial"
+            ]
+          ],
+          "notes": [
+            "Gravity genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gravity-gr-din-bt",
+      "slug": "gravity-gr-din-bt",
+      "brand": "Gravity",
+      "name": "Gravity Single-DIN Digital Media Receiver with Bluetooth",
+      "category": "receivers",
+      "visualType": "receiver",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "In-dash car stereo receiver with modern connectivity for clean, reliable daily listening.",
+      "description": "Gravity Single-DIN Digital Media Receiver with Bluetooth. In-dash car stereo receiver with modern connectivity for clean, reliable daily listening. Backed by Gravity engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "gravity",
+        "bluetooth",
+        "budget",
+        "receivers"
+      ],
+      "variants": [
+        {
+          "id": "gravity-gr-din-bt-std",
+          "sku": "GRAVITY-GR-DIN-BT",
+          "name": "Gravity Single-DIN Digital Media Receiver with Bluetooth",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 6900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/gravity-gr-din-bt.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Digital media receiver"
+            ],
+            [
+              "Bluetooth",
+              "Built-in"
+            ],
+            [
+              "USB",
+              "Front USB"
+            ]
+          ],
+          "notes": [
+            "Gravity genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kicker-c12",
+      "slug": "kicker-c12",
+      "brand": "Kicker",
+      "name": "Kicker Comp C12 12\" Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Kicker Comp C12 12\" Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Backed by Kicker engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "kicker",
+        "12 inch",
+        "comp",
+        "subwoofers"
+      ],
+      "variants": [
+        {
+          "id": "kicker-c12-std",
+          "sku": "KICKER-C12",
+          "name": "Kicker Comp C12 12\" Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 8900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kicker.com/",
+          "imageUrl": "assets/img/products/kicker-c12.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "12 inch"
+            ],
+            [
+              "RMS Power",
+              "150 W"
+            ],
+            [
+              "Peak Power",
+              "300 W"
+            ],
+            [
+              "Voice Coil",
+              "Single 4-ohm"
+            ]
+          ],
+          "notes": [
+            "Kicker genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kicker-cwr122",
+      "slug": "kicker-cwr122",
+      "brand": "Kicker",
+      "name": "Kicker CompR CWR122 12\" Subwoofer (DVC 2-Ohm)",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "Kicker CompR CWR122 12\" Subwoofer (DVC 2-Ohm). Car subwoofer built to add deep, controlled low-end to your system. Backed by Kicker engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "kicker",
+        "12 inch",
+        "compr",
+        "subwoofers"
+      ],
+      "variants": [
+        {
+          "id": "kicker-cwr122-std",
+          "sku": "KICKER-CWR122",
+          "name": "Kicker CompR CWR122 12\" Subwoofer (DVC 2-Ohm)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 17900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kicker.com/",
+          "imageUrl": "assets/img/products/kicker-cwr122.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "12 inch"
+            ],
+            [
+              "RMS Power",
+              "500 W"
+            ],
+            [
+              "Voice Coil",
+              "Dual 2-ohm"
+            ]
+          ],
+          "notes": [
+            "Kicker genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kicker-46csc654",
+      "slug": "kicker-46csc654",
+      "brand": "Kicker",
+      "name": "Kicker 46CSC654 CS-Series 6.5\" Coaxial Speakers (Pair)",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "Kicker 46CSC654 CS-Series 6.5\" Coaxial Speakers (Pair). Full-range or component car speaker engineered for clear, balanced sound. Backed by Kicker engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "kicker",
+        "6.5",
+        "cs-series",
+        "speakers"
+      ],
+      "variants": [
+        {
+          "id": "kicker-46csc654-std",
+          "sku": "KICKER-46CSC654",
+          "name": "Kicker 46CSC654 CS-Series 6.5\" Coaxial Speakers (Pair)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 9900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kicker.com/",
+          "imageUrl": "assets/img/products/kicker-46csc654.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "6.5 inch"
+            ],
+            [
+              "Type",
+              "2-way coaxial"
+            ],
+            [
+              "RMS Power",
+              "100 W"
+            ]
+          ],
+          "notes": [
+            "Kicker genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kicker-46cxa8001",
+      "slug": "kicker-46cxa8001",
+      "brand": "Kicker",
+      "name": "Kicker 46CXA800.1 CX-Series 800W Mono Amplifier",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "Kicker 46CXA800.1 CX-Series 800W Mono Amplifier. Car amplifier delivering clean, dependable power for speakers or subwoofers. Backed by Kicker engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "kicker",
+        "mono",
+        "800w",
+        "amplifiers"
+      ],
+      "variants": [
+        {
+          "id": "kicker-46cxa8001-std",
+          "sku": "KICKER-46CXA8001",
+          "name": "Kicker 46CXA800.1 CX-Series 800W Mono Amplifier",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 29900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kicker.com/",
+          "imageUrl": "assets/img/products/kicker-46cxa8001.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Channels",
+              "1 (mono)"
+            ],
+            [
+              "RMS @ 2 ohm",
+              "800 W x 1"
+            ],
+            [
+              "Class",
+              "D"
+            ]
+          ],
+          "notes": [
+            "Kicker genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kicker-43dcwr122",
+      "slug": "kicker-43dcwr122",
+      "brand": "Kicker",
+      "name": "Kicker 43DCWR122 Dual 12\" Loaded Enclosure",
+      "category": "standard-speaker-boxes",
+      "visualType": "standard-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Carpeted subwoofer enclosure / speaker box, built for a clean install.",
+      "description": "Kicker 43DCWR122 Dual 12\" Loaded Enclosure. Carpeted subwoofer enclosure / speaker box, built for a clean install. Backed by Kicker engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "kicker",
+        "loaded enclosure",
+        "dual 12",
+        "standard speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "kicker-43dcwr122-std",
+          "sku": "KICKER-43DCWR122",
+          "name": "Kicker 43DCWR122 Dual 12\" Loaded Enclosure",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 39900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kicker.com/",
+          "imageUrl": "assets/img/products/kicker-43dcwr122.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Loaded subwoofer enclosure"
+            ],
+            [
+              "Woofers",
+              "2 x 12 inch CompR"
+            ],
+            [
+              "RMS Power",
+              "1000 W"
+            ]
+          ],
+          "notes": [
+            "Kicker genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jl-12w0v3-4",
+      "slug": "jl-12w0v3-4",
+      "brand": "JL Audio",
+      "name": "JL Audio 12W0v3-4 12\" W0 Series Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "JL Audio 12W0v3-4 12\" W0 Series Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Backed by JL Audio engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "jl audio",
+        "12 inch",
+        "w0",
+        "subwoofers"
+      ],
+      "variants": [
+        {
+          "id": "jl-12w0v3-4-std",
+          "sku": "JL-12W0V3-4",
+          "name": "JL Audio 12W0v3-4 12\" W0 Series Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 17900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
+          "imageUrl": "assets/img/products/jl-12w0v3-4.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "12 inch"
+            ],
+            [
+              "RMS Power",
+              "300 W"
+            ],
+            [
+              "Voice Coil",
+              "Single 4-ohm"
+            ]
+          ],
+          "notes": [
+            "JL Audio genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jl-10w3v3-4",
+      "slug": "jl-10w3v3-4",
+      "brand": "JL Audio",
+      "name": "JL Audio 10W3v3-4 10\" W3 Series Subwoofer",
+      "category": "subwoofers",
+      "visualType": "subwoofer",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car subwoofer built to add deep, controlled low-end to your system.",
+      "description": "JL Audio 10W3v3-4 10\" W3 Series Subwoofer. Car subwoofer built to add deep, controlled low-end to your system. Backed by JL Audio engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "jl audio",
+        "10 inch",
+        "w3",
+        "subwoofers"
+      ],
+      "variants": [
+        {
+          "id": "jl-10w3v3-4-std",
+          "sku": "JL-10W3V3-4",
+          "name": "JL Audio 10W3v3-4 10\" W3 Series Subwoofer",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 39900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
+          "imageUrl": "assets/img/products/jl-10w3v3-4.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "10 inch"
+            ],
+            [
+              "RMS Power",
+              "500 W"
+            ],
+            [
+              "Voice Coil",
+              "Single 4-ohm"
+            ]
+          ],
+          "notes": [
+            "JL Audio genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jl-c1-650",
+      "slug": "jl-c1-650",
+      "brand": "JL Audio",
+      "name": "JL Audio C1-650 6.5\" C1 Series Coaxial Speakers (Pair)",
+      "category": "speakers",
+      "visualType": "speaker",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Full-range or component car speaker engineered for clear, balanced sound.",
+      "description": "JL Audio C1-650 6.5\" C1 Series Coaxial Speakers (Pair). Full-range or component car speaker engineered for clear, balanced sound. Backed by JL Audio engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "jl audio",
+        "6.5",
+        "c1",
+        "speakers"
+      ],
+      "variants": [
+        {
+          "id": "jl-c1-650-std",
+          "sku": "JL-C1-650",
+          "name": "JL Audio C1-650 6.5\" C1 Series Coaxial Speakers (Pair)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 14900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
+          "imageUrl": "assets/img/products/jl-c1-650.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Size",
+              "6.5 inch"
+            ],
+            [
+              "Type",
+              "2-way coaxial"
+            ],
+            [
+              "RMS Power",
+              "50 W"
+            ]
+          ],
+          "notes": [
+            "JL Audio genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jl-jx500-1d",
+      "slug": "jl-jx500-1d",
+      "brand": "JL Audio",
+      "name": "JL Audio JX500/1D Mono Subwoofer Amplifier (500W)",
+      "category": "amplifiers",
+      "visualType": "amplifier",
+      "featured": false,
+      "fitmentPolicy": "required",
+      "summary": "Car amplifier delivering clean, dependable power for speakers or subwoofers.",
+      "description": "JL Audio JX500/1D Mono Subwoofer Amplifier (500W). Car amplifier delivering clean, dependable power for speakers or subwoofers. Backed by JL Audio engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "jl audio",
+        "mono",
+        "500w",
+        "amplifiers"
+      ],
+      "variants": [
+        {
+          "id": "jl-jx500-1d-std",
+          "sku": "JL-JX500-1D",
+          "name": "JL Audio JX500/1D Mono Subwoofer Amplifier (500W)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 37900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
+          "imageUrl": "assets/img/products/jl-jx500-1d.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Channels",
+              "1 (mono)"
+            ],
+            [
+              "RMS @ 2 ohm",
+              "500 W x 1"
+            ],
+            [
+              "Class",
+              "D"
+            ]
+          ],
+          "notes": [
+            "JL Audio genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jl-cp112-w0v3",
+      "slug": "jl-cp112-w0v3",
+      "brand": "JL Audio",
+      "name": "JL Audio CP112-W0v3 Single 12\" Loaded BassWedge Enclosure",
+      "category": "standard-speaker-boxes",
+      "visualType": "standard-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Carpeted subwoofer enclosure / speaker box, built for a clean install.",
+      "description": "JL Audio CP112-W0v3 Single 12\" Loaded BassWedge Enclosure. Carpeted subwoofer enclosure / speaker box, built for a clean install. Backed by JL Audio engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "jl audio",
+        "loaded enclosure",
+        "basswedge",
+        "standard speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "jl-cp112-w0v3-std",
+          "sku": "JL-CP112-W0V3",
+          "name": "JL Audio CP112-W0v3 Single 12\" Loaded BassWedge Enclosure",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 32900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
+          "imageUrl": "assets/img/products/jl-cp112-w0v3.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Loaded BassWedge enclosure"
+            ],
+            [
+              "Woofer",
+              "12 inch W0v3"
+            ],
+            [
+              "RMS Power",
+              "300 W"
+            ]
+          ],
+          "notes": [
+            "JL Audio genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "box-single-12",
+      "slug": "box-single-12",
+      "brand": "Dean's Install",
+      "name": "Single 12\" Carpeted Subwoofer Enclosure",
+      "category": "standard-speaker-boxes",
+      "visualType": "standard-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Carpeted subwoofer enclosure / speaker box, built for a clean install.",
+      "description": "Single 12\" Carpeted Subwoofer Enclosure. Carpeted subwoofer enclosure / speaker box, built for a clean install. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "empty enclosure",
+        "12 inch",
+        "carpeted",
+        "standard speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "box-single-12-std",
+          "sku": "BOX-SINGLE-12",
+          "name": "Single 12\" Carpeted Subwoofer Enclosure",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 5900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/box-single-12.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Empty subwoofer enclosure"
+            ],
+            [
+              "Cutout",
+              "12 inch"
+            ],
+            [
+              "Construction",
+              "MDF, carpeted"
+            ],
+            [
+              "Terminal",
+              "Spring / cup"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "box-dual-12",
+      "slug": "box-dual-12",
+      "brand": "Dean's Install",
+      "name": "Dual 12\" Carpeted Subwoofer Enclosure",
+      "category": "standard-speaker-boxes",
+      "visualType": "standard-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Carpeted subwoofer enclosure / speaker box, built for a clean install.",
+      "description": "Dual 12\" Carpeted Subwoofer Enclosure. Carpeted subwoofer enclosure / speaker box, built for a clean install. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "empty enclosure",
+        "dual 12",
+        "standard speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "box-dual-12-std",
+          "sku": "BOX-DUAL-12",
+          "name": "Dual 12\" Carpeted Subwoofer Enclosure",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 7900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/box-dual-12.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Empty subwoofer enclosure"
+            ],
+            [
+              "Cutouts",
+              "2 x 12 inch"
+            ],
+            [
+              "Construction",
+              "MDF, carpeted"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "box-single-10",
+      "slug": "box-single-10",
+      "brand": "Dean's Install",
+      "name": "Single 10\" Carpeted Subwoofer Enclosure",
+      "category": "standard-speaker-boxes",
+      "visualType": "standard-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Carpeted subwoofer enclosure / speaker box, built for a clean install.",
+      "description": "Single 10\" Carpeted Subwoofer Enclosure. Carpeted subwoofer enclosure / speaker box, built for a clean install. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "empty enclosure",
+        "10 inch",
+        "standard speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "box-single-10-std",
+          "sku": "BOX-SINGLE-10",
+          "name": "Single 10\" Carpeted Subwoofer Enclosure",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 4900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/box-single-10.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Empty subwoofer enclosure"
+            ],
+            [
+              "Cutout",
+              "10 inch"
+            ],
+            [
+              "Construction",
+              "MDF, carpeted"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-single-12",
+      "slug": "truck-single-12",
+      "brand": "Dean's Install",
+      "name": "Single 12\" Truck Subwoofer Box (Slim, Behind-Seat)",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Single 12\" Truck Subwoofer Box (Slim, Behind-Seat). Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "12 inch",
+        "slim",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-single-12-std",
+          "sku": "TRUCK-SINGLE-12",
+          "name": "Single 12\" Truck Subwoofer Box (Slim, Behind-Seat)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 8900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-single-12.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Truck subwoofer enclosure"
+            ],
+            [
+              "Cutout",
+              "12 inch"
+            ],
+            [
+              "Profile",
+              "Slim / behind-seat"
+            ],
+            [
+              "Construction",
+              "MDF, carpeted"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-single-10",
+      "slug": "truck-single-10",
+      "brand": "Dean's Install",
+      "name": "Single 10\" Truck Subwoofer Box (Under-Seat)",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Single 10\" Truck Subwoofer Box (Under-Seat). Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "10 inch",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-single-10-std",
+          "sku": "TRUCK-SINGLE-10",
+          "name": "Single 10\" Truck Subwoofer Box (Under-Seat)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 7900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-single-10.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Truck subwoofer enclosure"
+            ],
+            [
+              "Cutout",
+              "10 inch"
+            ],
+            [
+              "Profile",
+              "Low / under-seat"
+            ],
+            [
+              "Construction",
+              "MDF, carpeted"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-dual-10",
+      "slug": "truck-dual-10",
+      "brand": "Dean's Install",
+      "name": "Dual 10\" Truck Subwoofer Box (Crew Cab)",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Dual 10\" Truck Subwoofer Box (Crew Cab). Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "dual 10",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-dual-10-std",
+          "sku": "TRUCK-DUAL-10",
+          "name": "Dual 10\" Truck Subwoofer Box (Crew Cab)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 9900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-dual-10.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Truck subwoofer enclosure"
+            ],
+            [
+              "Cutouts",
+              "2 x 10 inch"
+            ],
+            [
+              "Profile",
+              "Behind-seat"
+            ],
+            [
+              "Construction",
+              "MDF, carpeted"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-dual-12",
+      "slug": "truck-dual-12",
+      "brand": "Dean's Install",
+      "name": "Dual 12\" Truck Subwoofer Box (Crew Cab, Down-Fire)",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Dual 12\" Truck Subwoofer Box (Crew Cab, Down-Fire). Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "dual 12",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-dual-12-std",
+          "sku": "TRUCK-DUAL-12",
+          "name": "Dual 12\" Truck Subwoofer Box (Crew Cab, Down-Fire)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 11900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-dual-12.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Truck subwoofer enclosure"
+            ],
+            [
+              "Cutouts",
+              "2 x 12 inch"
+            ],
+            [
+              "Profile",
+              "Down-fire / behind-seat"
+            ],
+            [
+              "Construction",
+              "MDF, carpeted"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-silverado-12",
+      "slug": "truck-silverado-12",
+      "brand": "Dean's Install",
+      "name": "Silverado / Sierra Crew Cab 12\" Under-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": true,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Silverado / Sierra Crew Cab 12\" Under-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "silverado",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-silverado-12-std",
+          "sku": "TRUCK-SILVERADO-12",
+          "name": "Silverado / Sierra Crew Cab 12\" Under-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 12900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-silverado-12.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutout",
+              "12 inch"
+            ],
+            [
+              "Fit",
+              "Silverado / Sierra crew cab"
+            ],
+            [
+              "Profile",
+              "Under-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-f150-10",
+      "slug": "truck-f150-10",
+      "brand": "Dean's Install",
+      "name": "F-150 SuperCrew 10\" Under-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "F-150 SuperCrew 10\" Under-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "f-150",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-f150-10-std",
+          "sku": "TRUCK-F150-10",
+          "name": "F-150 SuperCrew 10\" Under-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 11900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-f150-10.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutout",
+              "10 inch"
+            ],
+            [
+              "Fit",
+              "Ford F-150 SuperCrew"
+            ],
+            [
+              "Profile",
+              "Under-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    }
+  ]
+});
+})();

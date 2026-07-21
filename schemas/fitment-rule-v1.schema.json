@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://deanscaraudio.example/schemas/fitment-rule-v1.schema.json",
+  "title": "Dean's Car Audio fitment rule",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "variantId",
+    "decision",
+    "match",
+    "customerNote",
+    "conditions",
+    "evidence",
+    "priority"
+  ],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]{1,179}$" },
+    "variantId": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]{1,159}$" },
+    "decision": { "enum": ["compatible", "conditional", "incompatible"] },
+    "match": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["make", "models", "yearStart", "yearEnd"],
+      "properties": {
+        "make": { "type": "string", "minLength": 1, "maxLength": 100 },
+        "models": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 50,
+          "items": { "type": "string", "minLength": 1, "maxLength": 120 }
+        },
+        "yearStart": { "type": "integer", "minimum": 1900, "maximum": 2100 },
+        "yearEnd": { "type": "integer", "minimum": 1900, "maximum": 2100 }
+      }
+    },
+    "customerNote": { "type": "string", "minLength": 1, "maxLength": 1600 },
+    "conditions": {
+      "type": "array",
+      "maxItems": 30,
+      "items": { "type": "string", "minLength": 1, "maxLength": 600 }
+    },
+    "evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["sourceId", "url", "label", "checkedAt", "note"],
+      "properties": {
+        "sourceId": { "type": "string", "minLength": 1, "maxLength": 180 },
+        "url": { "type": "string", "format": "uri", "pattern": "^https://" },
+        "label": { "type": "string", "minLength": 1, "maxLength": 240 },
+        "checkedAt": { "type": "string", "format": "date" },
+        "note": { "type": "string", "maxLength": 1200 }
+      }
+    },
+    "priority": { "type": "integer", "minimum": 0, "maximum": 10000 }
+  }
+}

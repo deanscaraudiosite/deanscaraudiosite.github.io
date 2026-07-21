@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://deanscaraudio.example/schemas/fitment-release-v1.schema.json",
+  "title": "Dean's Car Audio fitment release",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "releaseId",
+    "publishedAt",
+    "coverage",
+    "absencePolicy",
+    "notices",
+    "providers",
+    "sources",
+    "rules"
+  ],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "releaseId": { "type": "string", "minLength": 1, "maxLength": 180 },
+    "publishedAt": { "type": "string", "format": "date-time" },
+    "coverage": { "enum": ["partial", "exhaustive"] },
+    "absencePolicy": { "const": "unknown" },
+    "notices": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["noMatch", "production"],
+      "properties": {
+        "noMatch": { "type": "string", "minLength": 1 },
+        "production": { "type": "string", "minLength": 1 }
+      }
+    },
+    "providers": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/provider" }
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/source" }
+    },
+    "rules": {
+      "type": "array",
+      "items": { "$ref": "fitment-rule-v1.schema.json" }
+    }
+  },
+  "$defs": {
+    "provider": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "name", "role", "status", "authority", "url", "notice"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]{1,179}$" },
+        "name": { "type": "string", "minLength": 1, "maxLength": 240 },
+        "role": { "type": "string", "minLength": 1, "maxLength": 120 },
+        "status": { "type": "string", "minLength": 1, "maxLength": 160 },
+        "authority": { "type": "string", "minLength": 1, "maxLength": 160 },
+        "coverage": { "enum": ["partial", "exhaustive"] },
+        "url": { "type": "string", "format": "uri", "pattern": "^https://" },
+        "notice": { "type": "string", "minLength": 1, "maxLength": 1600 }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "name", "authority", "coverage", "checkedAt", "notice"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]{1,179}$" },
+        "name": { "type": "string", "minLength": 1, "maxLength": 240 },
+        "authority": { "type": "string", "minLength": 1, "maxLength": 160 },
+        "coverage": { "enum": ["partial", "exhaustive"] },
+        "checkedAt": { "type": "string", "format": "date" },
+        "notice": { "type": "string", "minLength": 1, "maxLength": 1600 }
+      }
+    }
+  }
+}

@@ -6831,7 +6831,7 @@
           "sourceListingStatus": "listed_for_direct_sale",
           "localAvailability": "confirm",
           "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
-          "imageUrl": "assets/img/products/rf-p3d4-12.jpg",
+          "imageUrl": "assets/img/products/rf-p3d4-12.png",
           "sourceCheckedAt": "2026-07-20",
           "specs": [
             [
@@ -7076,7 +7076,7 @@
           "sourceListingStatus": "listed_for_direct_sale",
           "localAvailability": "confirm",
           "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
-          "imageUrl": "assets/img/products/rf-r1200-1d.jpg",
+          "imageUrl": "assets/img/products/rf-r1200-1d.png",
           "sourceCheckedAt": "2026-07-20",
           "specs": [
             [
@@ -7424,7 +7424,7 @@
           "sourceListingStatus": "listed_for_direct_sale",
           "localAvailability": "confirm",
           "sourceUrl": "https://www.rockfordfosgate.com/products/details/",
-          "imageUrl": "assets/img/products/rf-pm282.jpg",
+          "imageUrl": "assets/img/products/rf-pm282.png",
           "sourceCheckedAt": "2026-07-20",
           "specs": [
             [
@@ -10597,6 +10597,1469 @@
             [
               "Fit",
               "Ford F-150 SuperCrew"
+            ],
+            [
+              "Profile",
+              "Under-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-single-8",
+      "slug": "truck-single-8",
+      "brand": "Dean's Install",
+      "name": "Single 8\" Truck Subwoofer Box (Slim, Under-Seat)",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Single 8\" Truck Subwoofer Box (Slim, Under-Seat). Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "8 inch",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-single-8-std",
+          "sku": "TRUCK-SINGLE-8",
+          "name": "Single 8\" Truck Subwoofer Box (Slim, Under-Seat)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 6900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-single-8.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Truck subwoofer enclosure"
+            ],
+            [
+              "Cutout",
+              "8 inch"
+            ],
+            [
+              "Profile",
+              "Slim / under-seat"
+            ],
+            [
+              "Construction",
+              "MDF, carpeted"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-dual-8",
+      "slug": "truck-dual-8",
+      "brand": "Dean's Install",
+      "name": "Dual 8\" Truck Subwoofer Box (Crew Cab)",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Dual 8\" Truck Subwoofer Box (Crew Cab). Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "dual 8",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-dual-8-std",
+          "sku": "TRUCK-DUAL-8",
+          "name": "Dual 8\" Truck Subwoofer Box (Crew Cab)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 8900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-dual-8.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Truck subwoofer enclosure"
+            ],
+            [
+              "Cutouts",
+              "2 x 8 inch"
+            ],
+            [
+              "Profile",
+              "Behind-seat"
+            ],
+            [
+              "Construction",
+              "MDF, carpeted"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-single-12-ported",
+      "slug": "truck-single-12-ported",
+      "brand": "Dean's Install",
+      "name": "Single 12\" Ported Truck Subwoofer Box (Behind-Seat)",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Single 12\" Ported Truck Subwoofer Box (Behind-Seat). Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "12 inch",
+        "ported",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-single-12-ported-std",
+          "sku": "TRUCK-SINGLE-12-PORTED",
+          "name": "Single 12\" Ported Truck Subwoofer Box (Behind-Seat)",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 10900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-single-12-ported.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Truck subwoofer enclosure"
+            ],
+            [
+              "Cutout",
+              "12 inch"
+            ],
+            [
+              "Profile",
+              "Ported / behind-seat"
+            ],
+            [
+              "Construction",
+              "MDF, carpeted"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-f150-12",
+      "slug": "truck-f150-12",
+      "brand": "Dean's Install",
+      "name": "F-150 SuperCrew 12\" Under-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "F-150 SuperCrew 12\" Under-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "f-150",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-f150-12-std",
+          "sku": "TRUCK-F150-12",
+          "name": "F-150 SuperCrew 12\" Under-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 13900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-f150-12.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutout",
+              "12 inch"
+            ],
+            [
+              "Fit",
+              "Ford F-150 SuperCrew"
+            ],
+            [
+              "Profile",
+              "Under-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-f150-dual-10",
+      "slug": "truck-f150-dual-10",
+      "brand": "Dean's Install",
+      "name": "F-150 SuperCrew Dual 10\" Under-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "F-150 SuperCrew Dual 10\" Under-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "f-150",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-f150-dual-10-std",
+          "sku": "TRUCK-F150-DUAL-10",
+          "name": "F-150 SuperCrew Dual 10\" Under-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 14900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-f150-dual-10.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutouts",
+              "2 x 10 inch"
+            ],
+            [
+              "Fit",
+              "Ford F-150 SuperCrew"
+            ],
+            [
+              "Profile",
+              "Under-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-f250-12",
+      "slug": "truck-f250-12",
+      "brand": "Dean's Install",
+      "name": "F-250 / F-350 Super Duty 12\" Under-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "F-250 / F-350 Super Duty 12\" Under-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "f-250",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-f250-12-std",
+          "sku": "TRUCK-F250-12",
+          "name": "F-250 / F-350 Super Duty 12\" Under-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 13900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-f250-12.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutout",
+              "12 inch"
+            ],
+            [
+              "Fit",
+              "Ford F-250 / F-350 Super Duty crew cab"
+            ],
+            [
+              "Profile",
+              "Under-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-f250-dual-10",
+      "slug": "truck-f250-dual-10",
+      "brand": "Dean's Install",
+      "name": "F-250 / F-350 Super Duty Dual 10\" Under-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "F-250 / F-350 Super Duty Dual 10\" Under-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "f-250",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-f250-dual-10-std",
+          "sku": "TRUCK-F250-DUAL-10",
+          "name": "F-250 / F-350 Super Duty Dual 10\" Under-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 15400,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-f250-dual-10.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutouts",
+              "2 x 10 inch"
+            ],
+            [
+              "Fit",
+              "Ford F-250 / F-350 Super Duty crew cab"
+            ],
+            [
+              "Profile",
+              "Under-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-silverado-10",
+      "slug": "truck-silverado-10",
+      "brand": "Dean's Install",
+      "name": "Silverado / Sierra Crew Cab 10\" Under-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Silverado / Sierra Crew Cab 10\" Under-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "silverado",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-silverado-10-std",
+          "sku": "TRUCK-SILVERADO-10",
+          "name": "Silverado / Sierra Crew Cab 10\" Under-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 11900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-silverado-10.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutout",
+              "10 inch"
+            ],
+            [
+              "Fit",
+              "Silverado / Sierra crew cab"
+            ],
+            [
+              "Profile",
+              "Under-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-silverado-dual-12",
+      "slug": "truck-silverado-dual-12",
+      "brand": "Dean's Install",
+      "name": "Silverado / Sierra Crew Cab Dual 12\" Under-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Silverado / Sierra Crew Cab Dual 12\" Under-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "silverado",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-silverado-dual-12-std",
+          "sku": "TRUCK-SILVERADO-DUAL-12",
+          "name": "Silverado / Sierra Crew Cab Dual 12\" Under-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 15900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-silverado-dual-12.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutouts",
+              "2 x 12 inch"
+            ],
+            [
+              "Fit",
+              "Silverado / Sierra crew cab"
+            ],
+            [
+              "Profile",
+              "Under-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-silverado-ext-12",
+      "slug": "truck-silverado-ext-12",
+      "brand": "Dean's Install",
+      "name": "Silverado / Sierra Extended Cab 12\" Behind-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Silverado / Sierra Extended Cab 12\" Behind-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "silverado",
+        "behind-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-silverado-ext-12-std",
+          "sku": "TRUCK-SILVERADO-EXT-12",
+          "name": "Silverado / Sierra Extended Cab 12\" Behind-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 11900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-silverado-ext-12.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutout",
+              "12 inch"
+            ],
+            [
+              "Fit",
+              "Silverado / Sierra extended cab"
+            ],
+            [
+              "Profile",
+              "Behind-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-ram-10",
+      "slug": "truck-ram-10",
+      "brand": "Dean's Install",
+      "name": "Ram 1500 Crew Cab 10\" Under-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Ram 1500 Crew Cab 10\" Under-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "ram",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-ram-10-std",
+          "sku": "TRUCK-RAM-10",
+          "name": "Ram 1500 Crew Cab 10\" Under-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 11900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-ram-10.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutout",
+              "10 inch"
+            ],
+            [
+              "Fit",
+              "Ram 1500 crew cab"
+            ],
+            [
+              "Profile",
+              "Under-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-ram-12",
+      "slug": "truck-ram-12",
+      "brand": "Dean's Install",
+      "name": "Ram 1500 Crew Cab 12\" Under-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Ram 1500 Crew Cab 12\" Under-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "ram",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-ram-12-std",
+          "sku": "TRUCK-RAM-12",
+          "name": "Ram 1500 Crew Cab 12\" Under-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 12900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-ram-12.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutout",
+              "12 inch"
+            ],
+            [
+              "Fit",
+              "Ram 1500 crew cab"
+            ],
+            [
+              "Profile",
+              "Under-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-ram-dual-10",
+      "slug": "truck-ram-dual-10",
+      "brand": "Dean's Install",
+      "name": "Ram 1500 Crew Cab Dual 10\" Under-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Ram 1500 Crew Cab Dual 10\" Under-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "ram",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-ram-dual-10-std",
+          "sku": "TRUCK-RAM-DUAL-10",
+          "name": "Ram 1500 Crew Cab Dual 10\" Under-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 14900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-ram-dual-10.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutouts",
+              "2 x 10 inch"
+            ],
+            [
+              "Fit",
+              "Ram 1500 crew cab"
+            ],
+            [
+              "Profile",
+              "Under-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-ram-quad-12",
+      "slug": "truck-ram-quad-12",
+      "brand": "Dean's Install",
+      "name": "Ram 1500 Quad Cab 12\" Behind-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Ram 1500 Quad Cab 12\" Behind-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "ram",
+        "behind-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-ram-quad-12-std",
+          "sku": "TRUCK-RAM-QUAD-12",
+          "name": "Ram 1500 Quad Cab 12\" Behind-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 12400,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-ram-quad-12.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutout",
+              "12 inch"
+            ],
+            [
+              "Fit",
+              "Ram 1500 quad cab"
+            ],
+            [
+              "Profile",
+              "Behind-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-tundra-10",
+      "slug": "truck-tundra-10",
+      "brand": "Dean's Install",
+      "name": "Tundra CrewMax 10\" Under-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Tundra CrewMax 10\" Under-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "tundra",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-tundra-10-std",
+          "sku": "TRUCK-TUNDRA-10",
+          "name": "Tundra CrewMax 10\" Under-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 11900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-tundra-10.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutout",
+              "10 inch"
+            ],
+            [
+              "Fit",
+              "Toyota Tundra CrewMax"
+            ],
+            [
+              "Profile",
+              "Under-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-tundra-12",
+      "slug": "truck-tundra-12",
+      "brand": "Dean's Install",
+      "name": "Tundra CrewMax 12\" Under-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Tundra CrewMax 12\" Under-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "tundra",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-tundra-12-std",
+          "sku": "TRUCK-TUNDRA-12",
+          "name": "Tundra CrewMax 12\" Under-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 12900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-tundra-12.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutout",
+              "12 inch"
+            ],
+            [
+              "Fit",
+              "Toyota Tundra CrewMax"
+            ],
+            [
+              "Profile",
+              "Under-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-tundra-dual-10",
+      "slug": "truck-tundra-dual-10",
+      "brand": "Dean's Install",
+      "name": "Tundra CrewMax Dual 10\" Under-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Tundra CrewMax Dual 10\" Under-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "tundra",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-tundra-dual-10-std",
+          "sku": "TRUCK-TUNDRA-DUAL-10",
+          "name": "Tundra CrewMax Dual 10\" Under-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 14900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-tundra-dual-10.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutouts",
+              "2 x 10 inch"
+            ],
+            [
+              "Fit",
+              "Toyota Tundra CrewMax"
+            ],
+            [
+              "Profile",
+              "Under-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-tacoma-10",
+      "slug": "truck-tacoma-10",
+      "brand": "Dean's Install",
+      "name": "Tacoma Double Cab 10\" Behind-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Tacoma Double Cab 10\" Behind-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "tacoma",
+        "behind-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-tacoma-10-std",
+          "sku": "TRUCK-TACOMA-10",
+          "name": "Tacoma Double Cab 10\" Behind-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 10900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-tacoma-10.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutout",
+              "10 inch"
+            ],
+            [
+              "Fit",
+              "Toyota Tacoma double cab"
+            ],
+            [
+              "Profile",
+              "Behind-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-tacoma-dual-10",
+      "slug": "truck-tacoma-dual-10",
+      "brand": "Dean's Install",
+      "name": "Tacoma Double Cab Dual 10\" Behind-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Tacoma Double Cab Dual 10\" Behind-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "tacoma",
+        "behind-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-tacoma-dual-10-std",
+          "sku": "TRUCK-TACOMA-DUAL-10",
+          "name": "Tacoma Double Cab Dual 10\" Behind-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 13900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-tacoma-dual-10.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutouts",
+              "2 x 10 inch"
+            ],
+            [
+              "Fit",
+              "Toyota Tacoma double cab"
+            ],
+            [
+              "Profile",
+              "Behind-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-colorado-10",
+      "slug": "truck-colorado-10",
+      "brand": "Dean's Install",
+      "name": "Colorado / Canyon Crew Cab 10\" Under-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Colorado / Canyon Crew Cab 10\" Under-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "colorado",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-colorado-10-std",
+          "sku": "TRUCK-COLORADO-10",
+          "name": "Colorado / Canyon Crew Cab 10\" Under-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 10900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-colorado-10.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutout",
+              "10 inch"
+            ],
+            [
+              "Fit",
+              "Colorado / Canyon crew cab"
+            ],
+            [
+              "Profile",
+              "Under-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-frontier-10",
+      "slug": "truck-frontier-10",
+      "brand": "Dean's Install",
+      "name": "Frontier Crew Cab 10\" Under-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Frontier Crew Cab 10\" Under-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "frontier",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-frontier-10-std",
+          "sku": "TRUCK-FRONTIER-10",
+          "name": "Frontier Crew Cab 10\" Under-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 10900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-frontier-10.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutout",
+              "10 inch"
+            ],
+            [
+              "Fit",
+              "Nissan Frontier crew cab"
+            ],
+            [
+              "Profile",
+              "Under-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-titan-12",
+      "slug": "truck-titan-12",
+      "brand": "Dean's Install",
+      "name": "Titan Crew Cab 12\" Under-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Titan Crew Cab 12\" Under-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "titan",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-titan-12-std",
+          "sku": "TRUCK-TITAN-12",
+          "name": "Titan Crew Cab 12\" Under-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 12900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-titan-12.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutout",
+              "12 inch"
+            ],
+            [
+              "Fit",
+              "Nissan Titan crew cab"
+            ],
+            [
+              "Profile",
+              "Under-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-ranger-10",
+      "slug": "truck-ranger-10",
+      "brand": "Dean's Install",
+      "name": "Ranger SuperCrew 10\" Under-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Ranger SuperCrew 10\" Under-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "ranger",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-ranger-10-std",
+          "sku": "TRUCK-RANGER-10",
+          "name": "Ranger SuperCrew 10\" Under-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 10900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-ranger-10.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutout",
+              "10 inch"
+            ],
+            [
+              "Fit",
+              "Ford Ranger SuperCrew"
+            ],
+            [
+              "Profile",
+              "Under-seat"
+            ]
+          ],
+          "notes": [
+            "Dean's Install genuine product; reference pricing shown.",
+            "Confirm stock, installation, and final compatibility with Dean's before order."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "truck-gladiator-10",
+      "slug": "truck-gladiator-10",
+      "brand": "Dean's Install",
+      "name": "Gladiator 10\" Under-Seat Sub Box",
+      "category": "truck-speaker-boxes",
+      "visualType": "truck-speaker-box",
+      "featured": false,
+      "fitmentPolicy": "advisory",
+      "summary": "Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit.",
+      "description": "Gladiator 10\" Under-Seat Sub Box. Low-profile truck subwoofer enclosure sized for under-seat or behind-seat fit. Backed by Dean's Install engineering and confirmed for price, stock, and fitment with Dean's Car Audio before ordering.",
+      "tags": [
+        "dean's install",
+        "truck box",
+        "gladiator",
+        "under-seat",
+        "truck speaker boxes"
+      ],
+      "variants": [
+        {
+          "id": "truck-gladiator-10-std",
+          "sku": "TRUCK-GLADIATOR-10",
+          "name": "Gladiator 10\" Under-Seat Sub Box",
+          "option": "Standard",
+          "price": {
+            "amountMinor": 11900,
+            "compareAtMinor": null,
+            "currency": "USD",
+            "kind": "manufacturer_reference",
+            "checkedAt": "2026-07-20"
+          },
+          "sourceListingStatus": "listed_for_direct_sale",
+          "localAvailability": "confirm",
+          "sourceUrl": "https://www.kenwood.com/usa/car/",
+          "imageUrl": "assets/img/products/truck-gladiator-10.jpg",
+          "sourceCheckedAt": "2026-07-20",
+          "specs": [
+            [
+              "Type",
+              "Vehicle-fit truck enclosure"
+            ],
+            [
+              "Cutout",
+              "10 inch"
+            ],
+            [
+              "Fit",
+              "Jeep Gladiator"
             ],
             [
               "Profile",
